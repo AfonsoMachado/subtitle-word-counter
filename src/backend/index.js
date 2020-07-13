@@ -1,15 +1,20 @@
 // Processo principal
 const { ipcMain } = require('electron')
 
-ipcMain.on('process-subtitles', (event, args) => {
-    console.log(args)
+const pathsToRows = require('./pathsToRows')
 
-    event.reply('process-subtitles', [
-        { name: 'you', amount: 900 },
-        { name: 'he', amount: 853 },
-        { name: 'i', amount: 1234 },
-        { name: 'she', amount: 853 },
-        { name: 'our', amount: 133 },
-        { name: 'house', amount: 23 }
-    ])
+ipcMain.on('process-subtitles', (event, paths) => {
+
+    pathsToRows(paths)
+        .then(rows => console.log(rows))
+        .then(() => {
+            event.reply('process-subtitles', [
+                { name: 'you', amount: 900 },
+                { name: 'he', amount: 853 },
+                { name: 'i', amount: 1234 },
+                { name: 'she', amount: 853 },
+                { name: 'our', amount: 133 },
+                { name: 'house', amount: 23 }
+            ])
+        })
 })
