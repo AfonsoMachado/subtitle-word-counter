@@ -43,7 +43,7 @@ export default {
             // Pegando e resposta
             ipcRenderer.on('process-subtitles', (event, resp) => {
                 this.groupedWords = resp
-                console.log(this.groupedWords)
+                // console.log(this.groupedWords)
             })
         }
     }
