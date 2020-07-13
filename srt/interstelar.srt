@@ -1,0 +1,8647 @@
+1
+00:01:07,568 --> 00:01:12,572
+INTERESTELAR
+
+2
+00:01:14,908 --> 00:01:16,993
+<i>Meu pai era fazendeiro.</i>
+
+3
+00:01:18,412 --> 00:01:20,621
+Como todo mundo na época.
+
+4
+00:01:22,750 --> 00:01:24,917
+<i>É claro que não foi sempre assim.</i>
+
+5
+00:01:30,632 --> 00:01:32,300
+<i>O computador indica que está próximo demais.</i>
+
+6
+00:01:32,593 --> 00:01:34,093
+Não, deixe comigo.
+
+7
+00:01:34,344 --> 00:01:35,845
+<i>Passando pelos Estreitos.</i>
+
+8
+00:01:38,265 --> 00:01:40,016
+<i>- Desligando, Cooper.
+- Não!</i>
+
+9
+00:01:41,518 --> 00:01:43,936
+<i>- Desligando.
+- Não, preciso de mais potência!</i>
+
+10
+00:01:48,275 --> 00:01:49,317
+Papai?
+
+11
+00:01:55,866 --> 00:01:58,367
+Desculpe, Murph.
+Volte para a cama.
+
+12
+00:01:58,702 --> 00:02:01,204
+- Achei que era o fantasma.
+- Não.
+
+13
+00:02:02,873 --> 00:02:05,041
+Fantasmas não existem, amor.
+
+14
+00:02:05,209 --> 00:02:07,210
+O vovô disse que podem aparecer.
+
+15
+00:02:08,629 --> 00:02:13,382
+É porque seu avô está perto de se tornar um.
+Volte para a cama.
+
+16
+00:02:13,717 --> 00:02:15,551
+Estava sonhando com a queda?
+
+17
+00:02:16,970 --> 00:02:19,263
+Volte para sua cama, Murph.
+
+18
+00:02:46,291 --> 00:02:47,792
+<i>O trigo tinha morrido.</i>
+
+19
+00:02:48,627 --> 00:02:50,962
+<i>A praga veio
+e tivemos que queimá-lo.</i>
+
+20
+00:02:51,880 --> 00:02:54,590
+<i>Mas ainda tínhamos milho.
+Hectares de milho.</i>
+
+21
+00:02:54,800 --> 00:02:56,926
+Mas, sobretudo, tínhamos poeira.
+
+22
+00:02:59,429 --> 00:03:01,931
+<i>Não dá para descrever.
+Era constante.</i>
+
+23
+00:03:02,224 --> 00:03:04,642
+Um vento constante...
+
+24
+00:03:04,852 --> 00:03:06,102
+<i>de poeira.</i>
+
+25
+00:03:08,188 --> 00:03:11,190
+<i>Nós usávamos pequenas faixas de pano...</i>
+
+26
+00:03:11,441 --> 00:03:14,026
+às vezes,
+sobre o nariz e a boca...
+
+27
+00:03:14,278 --> 00:03:16,821
+<i>para não respirarmos tanta poeira.</i>
+
+28
+00:03:18,532 --> 00:03:20,950
+<i>Quando arrumávamos a mesa,
+colocávamos o prato...</i>
+
+29
+00:03:21,159 --> 00:03:24,078
+virado para baixo.
+Copos, xícaras, o que fosse...
+
+30
+00:03:24,288 --> 00:03:25,454
+<i>tudo virado para baixo.</i>
+
+31
+00:03:30,878 --> 00:03:33,129
+Ande logo!
+Murph, mexa-se!
+
+32
+00:03:33,297 --> 00:03:36,716
+Tom, às 16h, você e eu no celeiro.
+Básico de Resistência a Herbicidas.
+
+33
+00:03:36,925 --> 00:03:38,426
+- Certo?
+- Sim, senhor.
+
+34
+00:03:39,970 --> 00:03:41,637
+Não à mesa, Murph.
+
+35
+00:03:42,389 --> 00:03:44,223
+Papai, pode consertar isto?
+
+36
+00:03:45,851 --> 00:03:48,352
+- O que fez com o módulo de pouso?
+- Não fui eu.
+
+37
+00:03:48,562 --> 00:03:50,563
+Deixe-me adivinhar.
+Foi seu fantasma?
+
+38
+00:03:50,731 --> 00:03:53,065
+Ele deixou cair da prateleira.
+Vive derrubando livros.
+
+39
+00:03:53,233 --> 00:03:55,151
+Fantasmas não existem, burra!
+
+40
+00:03:55,319 --> 00:03:57,069
+Eu pesquisei.
+Chama-se poltergeist.
+
+41
+00:03:57,237 --> 00:03:58,321
+Fale para ela.
+
+42
+00:03:58,530 --> 00:04:00,489
+Não é muito científico, Murph.
+
+43
+00:04:00,657 --> 00:04:03,075
+Você disse que ciência esclarece
+o que não sabemos.
+
+44
+00:04:03,327 --> 00:04:04,744
+Ela pegou você nessa.
+
+45
+00:04:05,370 --> 00:04:07,038
+Comece a cuidar do que é nosso.
+
+46
+00:04:08,582 --> 00:04:09,832
+Coop.
+
+47
+00:04:12,628 --> 00:04:14,795
+Certo, Murph, quer falar de ciência?
+
+48
+00:04:15,756 --> 00:04:19,091
+Não diga só que tem medo de fantasma.
+Vá mais fundo.
+
+49
+00:04:19,259 --> 00:04:22,261
+Registre os fatos, analise,
+determine o como e o porquê...
+
+50
+00:04:22,429 --> 00:04:25,431
+e então apresente suas conclusões.
+Combinado?
+
+51
+00:04:26,099 --> 00:04:27,516
+- Combinado.
+- Muito bem.
+
+52
+00:04:30,354 --> 00:04:32,521
+- Boa aula para vocês.
+- Espere.
+
+53
+00:04:32,856 --> 00:04:35,274
+Reunião de pai com os professores. Pai.
+
+54
+00:04:35,484 --> 00:04:37,234
+Não avô.
+
+55
+00:04:39,529 --> 00:04:41,364
+Calma, nervosinho!
+
+56
+00:04:42,699 --> 00:04:45,785
+- Não é tempestade de areia.
+- Nelson pôs fogo na plantação.
+
+57
+00:04:46,036 --> 00:04:47,370
+A praga?
+
+58
+00:04:47,537 --> 00:04:49,956
+Dizem que essa é a safra final de quiabo.
+
+59
+00:04:50,624 --> 00:04:51,791
+A última.
+
+60
+00:04:53,710 --> 00:04:56,379
+Ele deveria ter plantado milho,
+como todos nós.
+
+61
+00:04:56,630 --> 00:04:59,215
+Seja amável com a Srta. Hanley.
+Ela é solteira.
+
+62
+00:04:59,383 --> 00:05:00,883
+O que isso quer dizer?
+
+63
+00:05:01,051 --> 00:05:04,220
+Repovoar a Terra.
+Faça sua parte, meu jovem.
+
+64
+00:05:04,388 --> 00:05:08,307
+Por que não cuida da sua vida, meu velho?
+
+65
+00:05:15,649 --> 00:05:17,316
+Murph, ponha em segunda.
+
+66
+00:05:20,737 --> 00:05:22,071
+Terceira.
+
+67
+00:05:23,657 --> 00:05:25,282
+- Ache uma marcha, burra!
+- Engate!
+
+68
+00:05:25,450 --> 00:05:26,534
+Cale-se!
+
+69
+00:05:27,911 --> 00:05:30,246
+- O que você fez, Murph?
+- Ela não fez nada.
+
+70
+00:05:30,414 --> 00:05:32,915
+- O pneu furou, só isso.
+- Lei de Murphy!
+
+71
+00:05:33,750 --> 00:05:34,834
+Cale a boca!
+
+72
+00:05:35,002 --> 00:05:37,003
+- Pegue o estepe.
+- Esse é o estepe.
+
+73
+00:05:39,631 --> 00:05:41,090
+Pegue o kit de reparos!
+
+74
+00:05:42,384 --> 00:05:45,553
+- Como vou remendar aqui?
+- Tem que dar um jeito.
+
+75
+00:05:45,721 --> 00:05:47,722
+Não estarei sempre aqui para ajudar.
+
+76
+00:05:56,148 --> 00:05:57,982
+O que foi, Murph?
+
+77
+00:05:58,233 --> 00:06:01,235
+Por que você e mamãe me deram
+o nome de algo ruim?
+
+78
+00:06:01,486 --> 00:06:02,820
+Nós não demos.
+
+79
+00:06:03,196 --> 00:06:04,697
+Lei de Murphy?
+
+80
+00:06:05,657 --> 00:06:09,660
+Lei de Murphy não significa
+que algo ruim acontecerá.
+
+81
+00:06:09,995 --> 00:06:13,330
+Significa que o que quer
+que possa acontecer acontecerá.
+
+82
+00:06:13,665 --> 00:06:16,000
+E não vimos nada de ruim nisso.
+
+83
+00:06:22,340 --> 00:06:23,632
+Entre.
+
+84
+00:06:25,010 --> 00:06:26,427
+Entre, vamos.
+
+85
+00:06:27,763 --> 00:06:29,889
+E quanto ao pneu furado?
+
+86
+00:06:48,158 --> 00:06:52,119
+É um drone indiano. Painéis solares
+podem suprir uma fazenda inteira.
+
+87
+00:06:52,287 --> 00:06:53,788
+Pegue o volante, Tom.
+
+88
+00:06:59,377 --> 00:07:00,711
+Vai, vai, vai!
+
+89
+00:07:02,297 --> 00:07:03,964
+Mire isto bem no drone.
+
+90
+00:07:11,890 --> 00:07:14,308
+Mais depressa.
+Estou perdendo o sinal.
+
+91
+00:07:15,018 --> 00:07:16,018
+Bem nele.
+
+92
+00:07:17,771 --> 00:07:18,771
+Não desvie.
+
+93
+00:07:20,357 --> 00:07:21,440
+Vamos lá.
+
+94
+00:07:30,408 --> 00:07:31,992
+Muito bem, Tom.
+
+95
+00:07:38,500 --> 00:07:39,834
+Pai?
+
+96
+00:07:40,252 --> 00:07:43,003
+Estou quase conseguindo.
+Não pare!
+
+97
+00:07:43,505 --> 00:07:44,505
+Pai!
+
+98
+00:07:44,840 --> 00:07:45,923
+Tom!
+
+99
+00:07:50,595 --> 00:07:52,888
+Você me mandou continuar dirigindo.
+
+100
+00:07:53,765 --> 00:07:58,227
+Isso responde à pergunta: "E se eu Ihe pedir
+para pular de um penhasco?"
+
+101
+00:08:01,398 --> 00:08:04,233
+- Nós o perdemos.
+- Não, não perdemos.
+
+102
+00:08:16,955 --> 00:08:18,622
+Você quer tentar?
+
+103
+00:08:24,588 --> 00:08:25,963
+Assim.
+
+104
+00:08:31,386 --> 00:08:32,469
+Vai.
+
+105
+00:08:33,471 --> 00:08:36,473
+Vamos colocá-lo na beirada do reservatório.
+
+106
+00:08:40,770 --> 00:08:42,479
+Muito bem.
+
+107
+00:08:45,442 --> 00:08:47,359
+Há quanto tempo acha que está aí?
+
+108
+00:08:47,527 --> 00:08:50,029
+A Central de Controle de Dhéli fechou
+junto com a nossa...
+
+109
+00:08:50,197 --> 00:08:51,697
+a dez anos atrás.
+
+110
+00:08:52,407 --> 00:08:54,325
+Então, faz dez anos?
+
+111
+00:08:57,454 --> 00:08:59,955
+- Por que voou tão baixo?
+- Não sei.
+
+112
+00:09:00,165 --> 00:09:03,000
+Ou o sol fritou seus circuitos,
+ou ele procurava algo.
+
+113
+00:09:03,168 --> 00:09:05,419
+- O quê?
+- Dê-me uma chave de fenda.
+
+114
+00:09:05,837 --> 00:09:08,505
+Um tipo de sinal, talvez?
+Não sei.
+
+115
+00:09:13,720 --> 00:09:15,221
+O que vai fazer com isso?
+
+116
+00:09:16,139 --> 00:09:19,308
+Dar a ele uma incumbência útil
+para a comunidade...
+
+117
+00:09:20,185 --> 00:09:21,518
+como operar uma ceifadeira.
+
+118
+00:09:22,103 --> 00:09:23,604
+Não podemos soltá-lo?
+
+119
+00:09:25,899 --> 00:09:27,566
+Não estava machucando ninguém.
+
+120
+00:09:29,236 --> 00:09:31,737
+Esta coisa tem que aprender a se adaptar...
+
+121
+00:09:32,030 --> 00:09:33,530
+como todos nós.
+
+122
+00:09:38,203 --> 00:09:41,038
+- Como vai ser? Vão comigo?
+- Tenho aula.
+
+123
+00:09:41,456 --> 00:09:43,832
+Esta aqui tem que esperar.
+
+124
+00:09:45,377 --> 00:09:48,128
+- O que você fez?
+- Vão falar para você lá.
+
+125
+00:09:48,338 --> 00:09:50,464
+- Vou ficar bravo?
+- Não comigo.
+
+126
+00:09:50,632 --> 00:09:53,842
+- Por favor, tente não ficar.
+- Relaxe.
+
+127
+00:09:55,262 --> 00:09:56,595
+Deixe comigo.
+
+128
+00:10:00,850 --> 00:10:02,142
+Está atrasado.
+
+129
+00:10:02,352 --> 00:10:03,852
+É, o pneu furou.
+
+130
+00:10:04,145 --> 00:10:07,564
+E deve ter parado na loja
+de caças asiáticos.
+
+131
+00:10:07,857 --> 00:10:11,360
+Não. Na verdade,
+é um drone de vigilância.
+
+132
+00:10:11,653 --> 00:10:14,363
+Com incríveis painéis solares.
+É indiano.
+
+133
+00:10:14,781 --> 00:10:16,115
+Sente-se.
+
+134
+00:10:17,242 --> 00:10:18,742
+Bem...
+
+135
+00:10:19,452 --> 00:10:22,037
+recebemos a pontuação do Tom.
+
+136
+00:10:22,580 --> 00:10:24,581
+Ele vai dar um excelente fazendeiro.
+
+137
+00:10:24,916 --> 00:10:28,168
+Sim, ele leva jeito.
+E a universidade?
+
+138
+00:10:28,420 --> 00:10:32,089
+A universidade só aceita alguns.
+Não têm recursos...
+
+139
+00:10:32,257 --> 00:10:34,258
+Eu ainda pago meus impostos.
+
+140
+00:10:34,509 --> 00:10:36,760
+Aonde vai o dinheiro?
+Não há mais exércitos.
+
+141
+00:10:37,262 --> 00:10:39,596
+Não vai para as universidades.
+
+142
+00:10:40,181 --> 00:10:41,849
+Você precisa ser realista.
+
+143
+00:10:42,017 --> 00:10:44,768
+Está descartando a universidade
+para meu filho?
+
+144
+00:10:45,312 --> 00:10:48,814
+- Ele tem 15 anos.
+- Ele não tem pontuação suficiente.
+
+145
+00:10:49,899 --> 00:10:51,984
+Quanto você tem de cintura?
+Uns 80 cm?
+
+146
+00:10:52,402 --> 00:10:54,028
+Quadril, uns 85?
+
+147
+00:10:54,237 --> 00:10:56,071
+Não sei aonde quer chegar.
+
+148
+00:10:56,239 --> 00:11:00,659
+Sua bunda se mede com dois números,
+mas o futuro do meu filho com um só?
+
+149
+00:11:01,536 --> 00:11:04,371
+Por favor!
+É um homem instruído, Coop.
+
+150
+00:11:04,581 --> 00:11:06,540
+- Um piloto treinado.
+- E engenheiro.
+
+151
+00:11:07,042 --> 00:11:11,795
+Certo. Bem, no momento,
+não precisamos de mais engenheiros.
+
+152
+00:11:12,255 --> 00:11:16,592
+Não ficamos sem televisores e aviões.
+Ficamos sem comida.
+
+153
+00:11:16,926 --> 00:11:20,179
+O mundo precisa de fazendeiros.
+E bons, como você.
+
+154
+00:11:20,388 --> 00:11:22,890
+- E o Tom.
+- Fazendeiros sem instrução.
+
+155
+00:11:23,808 --> 00:11:27,603
+A nossa é uma geração de braçais.
+E as coisas têm melhorado.
+
+156
+00:11:27,854 --> 00:11:31,023
+- Talvez seus netos possam ser en...
+- Terminou, senhor?
+
+157
+00:11:32,317 --> 00:11:33,400
+Não.
+
+158
+00:11:34,235 --> 00:11:36,403
+A Srta. Hanley vai falar sobre a Murph.
+
+159
+00:11:36,738 --> 00:11:39,239
+Murph é uma ótima menina.
+Muito inteligente.
+
+160
+00:11:39,449 --> 00:11:41,617
+Mas ela está tendo alguns problemas.
+
+161
+00:11:41,910 --> 00:11:45,245
+Trouxe isto para mostrar aos colegas.
+A parte sobre pousos lunares.
+
+162
+00:11:45,413 --> 00:11:47,915
+Sim, é um dos meus livros.
+
+163
+00:11:48,375 --> 00:11:50,376
+Ela sempre adorou as fotos.
+
+164
+00:11:50,543 --> 00:11:54,213
+É um livro antigo.
+Nós substituímos pelas versões corrigidas.
+
+165
+00:11:54,422 --> 00:11:55,422
+Corrigidas?
+
+166
+00:11:55,757 --> 00:11:59,760
+Explicando como simularam as missões
+Apollo só para quebrar a URSS.
+
+167
+00:12:06,476 --> 00:12:08,435
+Não acredita que fomos à Lua?
+
+168
+00:12:09,562 --> 00:12:11,563
+Acho que foi uma propaganda brilhante.
+
+169
+00:12:11,731 --> 00:12:14,400
+Os soviéticos foram à falência investindo...
+
+170
+00:12:14,567 --> 00:12:16,985
+em foguetes e outras máquinas inúteis.
+
+171
+00:12:17,153 --> 00:12:18,237
+"Máquinas inúteis. "
+
+172
+00:12:18,405 --> 00:12:22,491
+Se não queremos repetir o excesso
+e o desperdício do século XX...
+
+173
+00:12:22,659 --> 00:12:26,453
+devemos falar às crianças sobre este planeta,
+não sobre deixá-lo.
+
+174
+00:12:27,288 --> 00:12:31,291
+Uma dessas máquinas inúteis era
+de ressonância magnética.
+
+175
+00:12:31,668 --> 00:12:34,962
+E se tivéssemos uma,
+os médicos teriam localizado...
+
+176
+00:12:35,130 --> 00:12:38,882
+o cisto no cérebro da minha esposa
+antes de sua morte, não depois.
+
+177
+00:12:39,092 --> 00:12:42,177
+E ela é que estaria ouvindo isto, não eu...
+
+178
+00:12:42,345 --> 00:12:45,431
+o que teria sido bom
+porque ela sempre foi...
+
+179
+00:12:46,015 --> 00:12:47,516
+a mais calma.
+
+180
+00:12:48,184 --> 00:12:50,269
+Sinto pela sua esposa, Sr. Cooper.
+
+181
+00:12:51,521 --> 00:12:55,190
+Mas Murph se envolveu
+numa briga com colegas devido...
+
+182
+00:12:55,400 --> 00:12:57,025
+a essa bobagem da Apollo.
+
+183
+00:12:57,193 --> 00:12:59,486
+Então, nós o chamamos
+para saber como...
+
+184
+00:12:59,654 --> 00:13:02,489
+pretende lidar
+com o comportamento dela em casa.
+
+185
+00:13:03,700 --> 00:13:06,702
+Quer saber?
+Amanhã à noite haverá um jogo.
+
+186
+00:13:06,953 --> 00:13:09,037
+Ela está na fase do beisebol.
+
+187
+00:13:09,205 --> 00:13:11,373
+Seu time favorito jogará.
+Haverá doces...
+
+188
+00:13:11,541 --> 00:13:13,417
+refrigerantes e...
+
+189
+00:13:16,504 --> 00:13:18,338
+acho que eu vou levá-la.
+
+190
+00:13:23,678 --> 00:13:24,928
+Como foi?
+
+191
+00:13:25,847 --> 00:13:27,723
+Fiz você ser suspensa.
+
+192
+00:13:28,141 --> 00:13:29,475
+<i>- O quê?
+- Cooper.</i>
+
+193
+00:13:31,227 --> 00:13:32,394
+Aqui é o Cooper.
+
+194
+00:13:32,562 --> 00:13:35,355
+<i>As ceifadeiras que você reconstruiu
+deram curto.</i>
+
+195
+00:13:35,565 --> 00:13:37,733
+Reinicie os controladores.
+
+196
+00:13:38,067 --> 00:13:40,694
+<i>Fiz isso.
+É melhor você vir dar uma olhada.</i>
+
+197
+00:14:00,465 --> 00:14:03,467
+Um a um, estão deixando o campo
+e vindo para cá.
+
+198
+00:14:03,676 --> 00:14:05,511
+Algo tem interferido com a bússola.
+
+199
+00:14:06,971 --> 00:14:09,389
+Magnetismo ou algo assim.
+
+200
+00:14:52,308 --> 00:14:53,976
+Nada de especial sobre o tal livro.
+
+201
+00:14:54,644 --> 00:14:56,895
+Tenho trabalhado nisso,
+como você disse.
+
+202
+00:14:57,647 --> 00:15:00,148
+- Contei os espaços.
+- Por quê?
+
+203
+00:15:02,151 --> 00:15:04,278
+Caso o fantasma queira se comunicar.
+
+204
+00:15:05,029 --> 00:15:06,613
+Estou tentando o Morse.
+
+205
+00:15:07,156 --> 00:15:08,448
+Morse?
+
+206
+00:15:08,783 --> 00:15:09,825
+É.
+
+207
+00:15:10,285 --> 00:15:12,786
+- Pontos e traços usados...
+- Sei o que é.
+
+208
+00:15:13,079 --> 00:15:15,998
+Só não acho que a estante está
+tentando falar com você.
+
+209
+00:15:27,552 --> 00:15:31,972
+Reiniciei o sistema de bússola e GPS
+para compensar a anomalia.
+
+210
+00:15:32,265 --> 00:15:34,808
+- E qual seria?
+- Não sei.
+
+211
+00:15:36,561 --> 00:15:38,687
+Se fosse uma casa construída
+sobre minério magnético...
+
+212
+00:15:38,855 --> 00:15:41,982
+teríamos visto na primeira vez
+que ligamos o trator.
+
+213
+00:15:44,652 --> 00:15:47,821
+Ouvi dizer que a reunião na escola
+não foi muito bem.
+
+214
+00:15:49,157 --> 00:15:50,157
+Ouviu dizer?
+
+215
+00:15:51,117 --> 00:15:53,952
+Parece que esquecemos
+quem somos, Donald.
+
+216
+00:15:55,622 --> 00:15:59,124
+Exploradores, pioneiros,
+não trabalhadores braçais.
+
+217
+00:16:00,835 --> 00:16:02,336
+Quando eu era criança...
+
+218
+00:16:02,503 --> 00:16:06,715
+parecia que faziam algo novo a cada dia.
+Alguma...
+
+219
+00:16:07,091 --> 00:16:10,385
+engenhoca ou ideia.
+Todo dia era uma festa.
+
+220
+00:16:10,887 --> 00:16:13,555
+Mas seis bilhões de pessoas...
+
+221
+00:16:13,973 --> 00:16:15,974
+Tente imaginar.
+
+222
+00:16:16,976 --> 00:16:19,978
+E cada uma delas tentando ter de tudo.
+
+223
+00:16:23,232 --> 00:16:25,233
+Este mundo não é tão ruim.
+
+224
+00:16:27,528 --> 00:16:29,363
+E Tom vai se sair bem.
+
+225
+00:16:29,614 --> 00:16:34,242
+É você que está deslocado.
+Nasceu 40 anos atrasado ou adiantado.
+
+226
+00:16:35,244 --> 00:16:37,746
+Minha filha sabia disso,
+que Deus a tenha.
+
+227
+00:16:38,623 --> 00:16:41,416
+E seus filhos sabem.
+Principalmente a Murph.
+
+228
+00:16:41,751 --> 00:16:45,128
+Nós olhávamos para o céu
+e imaginávamos...
+
+229
+00:16:45,421 --> 00:16:47,756
+nosso lugar nas estrelas.
+
+230
+00:16:50,134 --> 00:16:54,554
+Agora olhamos para baixo
+e nos preocupamos com nosso lugar na terra.
+
+231
+00:16:55,056 --> 00:16:57,891
+Cooper, você era bom em uma coisa...
+
+232
+00:16:58,226 --> 00:17:00,727
+e não teve a oportunidade de usar isso.
+
+233
+00:17:01,521 --> 00:17:02,854
+Sinto muito.
+
+234
+00:17:04,565 --> 00:17:08,652
+Ninguém esperava que essa terra
+que nos dava nossa comida...
+
+235
+00:17:09,028 --> 00:17:12,114
+iria se voltar contra nós
+e nos destruir.
+
+236
+00:17:12,490 --> 00:17:16,743
+Em abril, creio que foi isso...
+Quinze de abril, eu acho.
+
+237
+00:17:17,078 --> 00:17:19,454
+Aconteceu às 13h30,
+quando aquela coisa...
+
+238
+00:17:19,789 --> 00:17:22,082
+veio do alto do cânion.
+
+239
+00:17:23,292 --> 00:17:25,293
+Na minha época,
+havia bons jogadores.
+
+240
+00:17:25,670 --> 00:17:27,295
+Quem são esses inúteis?
+
+241
+00:17:27,672 --> 00:17:30,090
+Na minha época,
+estavam todos ocupados demais...
+
+242
+00:17:30,258 --> 00:17:32,426
+brigando por comida para jogar beisebol.
+
+243
+00:17:32,719 --> 00:17:37,222
+Pipoca num jogo não é natural.
+Quero um cachorro-quente.
+
+244
+00:17:37,557 --> 00:17:39,891
+Na escola, dizem que vai
+seguir meus passos.
+
+245
+00:17:40,643 --> 00:17:42,144
+Acho isso ótimo.
+
+246
+00:17:42,437 --> 00:17:45,689
+- Acha ótimo?
+- Você detesta ser fazendeiro.
+
+247
+00:17:46,482 --> 00:17:47,774
+O vovô disse.
+
+248
+00:17:48,109 --> 00:17:49,693
+Seu avô disse, foi?
+
+249
+00:17:50,153 --> 00:17:52,571
+Só o que importa é do que você gosta.
+
+250
+00:17:52,822 --> 00:17:54,489
+Gosto do que você faz.
+
+251
+00:17:55,199 --> 00:17:56,700
+Gosto da nossa fazenda.
+
+252
+00:17:57,410 --> 00:17:59,828
+Você vai se sair muito bem nisso.
+
+253
+00:18:11,841 --> 00:18:13,341
+Vamos sair daqui.
+
+254
+00:18:20,641 --> 00:18:22,642
+Certo, essa é das grandes.
+
+255
+00:18:23,352 --> 00:18:25,187
+Vamos colocar as máscaras.
+
+256
+00:18:28,524 --> 00:18:30,525
+- Tom? Murph? Pronto?
+- Sim.
+
+257
+00:19:24,080 --> 00:19:26,665
+Murph, Tom,
+vocês fecharam suas janelas?
+
+258
+00:19:30,920 --> 00:19:32,003
+Murph?
+
+259
+00:19:53,484 --> 00:19:54,484
+O fantasma.
+
+260
+00:19:56,237 --> 00:19:57,654
+Pegue seu travesseiro.
+
+261
+00:19:58,447 --> 00:20:00,282
+Você vai dormir com o Tom.
+
+262
+00:20:55,212 --> 00:20:56,880
+Não é um fantasma.
+
+263
+00:21:02,303 --> 00:21:03,720
+É a gravidade.
+
+264
+00:21:05,473 --> 00:21:07,724
+Vou deixar o Tom,
+depois vou para a cidade.
+
+265
+00:21:08,017 --> 00:21:12,187
+Pode limpar isso quando tiver terminado
+de fazer sua oração?
+
+266
+00:21:37,546 --> 00:21:39,798
+Não é Morse, Murph.
+É binário.
+
+267
+00:21:40,299 --> 00:21:42,550
+Grossa é um, fina é zero.
+
+268
+00:21:46,889 --> 00:21:48,223
+Coordenadas.
+
+269
+00:21:50,810 --> 00:21:51,810
+Não.
+
+270
+00:21:54,772 --> 00:21:55,939
+Aqui está.
+
+271
+00:21:57,525 --> 00:21:58,900
+Trinta e três.
+
+272
+00:22:01,904 --> 00:22:02,904
+É aqui.
+
+273
+00:22:04,198 --> 00:22:05,699
+Não posso perder isso!
+
+274
+00:22:06,033 --> 00:22:09,202
+O vovô estará de volta
+em umas duas horas.
+
+275
+00:22:09,996 --> 00:22:12,664
+Mas você não sabe o que vai encontrar.
+
+276
+00:22:13,666 --> 00:22:15,000
+É por isso...
+
+277
+00:22:16,085 --> 00:22:18,169
+que eu não posso levar você.
+
+278
+00:22:24,260 --> 00:22:25,385
+Murph?
+
+279
+00:22:27,471 --> 00:22:30,974
+Logo o vovô chega.
+Diga a ele que eu ligo pelo rádio.
+
+280
+00:22:37,356 --> 00:22:38,398
+Jesus.
+
+281
+00:22:39,400 --> 00:22:40,900
+O que está fazendo?
+
+282
+00:22:41,485 --> 00:22:43,611
+Você acha isso engraçado?
+
+283
+00:22:43,946 --> 00:22:46,281
+Não estaria aqui se não fosse por mim.
+
+284
+00:22:48,117 --> 00:22:50,118
+Faça algo de útil.
+
+285
+00:23:53,474 --> 00:23:54,808
+Ei, Murph?
+
+286
+00:23:56,477 --> 00:23:57,477
+Murph!
+
+287
+00:24:00,981 --> 00:24:03,316
+Acho que é o fim da estrada.
+
+288
+00:24:06,320 --> 00:24:08,363
+Você não trouxe os alicates?
+
+289
+00:24:09,532 --> 00:24:10,782
+Essa é minha garota!
+
+290
+00:24:38,519 --> 00:24:39,894
+Fique longe da cerca!
+
+291
+00:24:40,187 --> 00:24:43,523
+Não atire! Não estou armado.
+Minha filha está no carro.
+
+292
+00:24:49,113 --> 00:24:50,738
+Não tenha medo.
+
+293
+00:24:50,948 --> 00:24:52,031
+COMANDO DE DEFESA AÉREA
+
+294
+00:25:03,544 --> 00:25:05,628
+Como encontrou este lugar?
+
+295
+00:25:06,338 --> 00:25:07,672
+Onde está minha filha?
+
+296
+00:25:07,965 --> 00:25:11,885
+Tinha as coordenadas daqui no seu mapa.
+Onde as conseguiu?
+
+297
+00:25:12,052 --> 00:25:13,386
+Onde está minha filha?
+
+298
+00:25:13,554 --> 00:25:16,472
+Não me faça derrubar você de novo.
+Sente-se!
+
+299
+00:25:16,807 --> 00:25:18,933
+Ainda se julga um fuzileiro naval?
+
+300
+00:25:19,185 --> 00:25:21,769
+Fuzileiros navais não existem mais.
+
+301
+00:25:22,062 --> 00:25:25,106
+Tenho máquinas como você
+cortando minha grama.
+
+302
+00:25:25,316 --> 00:25:26,983
+Onde achou essas coordenadas?
+
+303
+00:25:27,234 --> 00:25:29,736
+Mas você não parece muito
+um cortador de grama.
+
+304
+00:25:29,945 --> 00:25:32,780
+Vou fazer de você
+um eficiente aspirador de pó.
+
+305
+00:25:32,948 --> 00:25:34,115
+Não, não vai.
+
+306
+00:25:35,951 --> 00:25:37,702
+TARS, para trás, por favor.
+
+307
+00:25:39,205 --> 00:25:42,332
+É um risco usar um ex-militar como segurança.
+
+308
+00:25:42,791 --> 00:25:46,461
+São velhos e suas unidades de controle
+são imprevisíveis.
+
+309
+00:25:46,795 --> 00:25:48,796
+É o que o governo podia pagar.
+
+310
+00:25:50,466 --> 00:25:51,633
+Quem é você?
+
+311
+00:25:52,092 --> 00:25:53,426
+Dra. Brand.
+
+312
+00:25:53,636 --> 00:25:55,970
+Conheci um Dr. Brand.
+Ele era professor.
+
+313
+00:25:56,347 --> 00:25:57,847
+Por que acha que não sou?
+
+314
+00:25:58,307 --> 00:26:00,642
+E estava longe de ser bonito assim.
+
+315
+00:26:00,976 --> 00:26:03,478
+Por favor.
+Não faço ideia do que é isto.
+
+316
+00:26:04,313 --> 00:26:06,814
+Estou preocupado com minha filha.
+Eu a quero comigo.
+
+317
+00:26:06,982 --> 00:26:09,442
+Permita isso,
+e direi o que quiser saber.
+
+318
+00:26:12,821 --> 00:26:15,823
+Leve os diretores e a garota
+à sala de conferência.
+
+319
+00:26:17,159 --> 00:26:18,534
+Sua filha está bem.
+
+320
+00:26:18,994 --> 00:26:19,994
+Menina brilhante.
+
+321
+00:26:20,621 --> 00:26:22,455
+Deve ter uma mãe inteligente.
+
+322
+00:26:22,623 --> 00:26:24,999
+Está claro que não querem visitas.
+
+323
+00:26:25,251 --> 00:26:29,170
+Então, coloquem-nos do outro lado da cerca
+e iremos embora.
+
+324
+00:26:29,463 --> 00:26:32,006
+- Não é tão simples.
+- É claro que é.
+
+325
+00:26:32,341 --> 00:26:36,010
+Não sei nada sobre vocês.
+Não sei nada sobre este lugar.
+
+326
+00:26:36,887 --> 00:26:38,054
+Sabe, sim.
+
+327
+00:26:43,769 --> 00:26:44,852
+Papai!
+
+328
+00:26:47,523 --> 00:26:48,523
+Olá, Cooper.
+
+329
+00:26:50,067 --> 00:26:51,067
+Professor Brand.
+
+330
+00:26:52,569 --> 00:26:55,196
+Explique-me como encontrou esta instalação.
+
+331
+00:26:55,364 --> 00:26:58,658
+Foi por acaso. Estávamos em busca
+de material descartado...
+
+332
+00:26:58,867 --> 00:27:01,536
+Você está dentro do segredo
+mais bem guardado do mundo.
+
+333
+00:27:01,704 --> 00:27:05,206
+Ninguém chega por acaso.
+Ninguém sai por acaso.
+
+334
+00:27:05,541 --> 00:27:07,208
+Cooper, por favor.
+
+335
+00:27:07,668 --> 00:27:09,669
+Coopere com essas pessoas.
+
+336
+00:27:09,920 --> 00:27:11,129
+Olha.
+
+337
+00:27:12,047 --> 00:27:13,715
+É meio difícil de explicar.
+
+338
+00:27:14,049 --> 00:27:18,219
+Descobrimos estas coordenadas
+a partir de uma anomalia.
+
+339
+00:27:18,887 --> 00:27:20,221
+Que tipo de anomalia?
+
+340
+00:27:20,389 --> 00:27:23,599
+Hesitei em chamar de sobrenatural,
+mas não era científica.
+
+341
+00:27:23,892 --> 00:27:27,729
+Vai ter que ser mais específico,
+Sr. Cooper. Agora.
+
+342
+00:27:28,022 --> 00:27:29,272
+Foi a gravidade.
+
+343
+00:27:34,403 --> 00:27:37,196
+Que tipo de anomalia gravitacional?
+Onde estava?
+
+344
+00:27:37,448 --> 00:27:40,700
+Fico contente que tenham
+se empolgado com a gravidade...
+
+345
+00:27:40,951 --> 00:27:43,619
+mas não vão obter respostas
+até eu ter garantias.
+
+346
+00:27:43,787 --> 00:27:45,455
+- Garantias?
+- É.
+
+347
+00:27:46,290 --> 00:27:49,792
+De que sairemos daqui.
+E não no porta-malas de um carro.
+
+348
+00:27:52,296 --> 00:27:54,422
+Não sabe quem somos, Coop?
+
+349
+00:27:54,590 --> 00:27:55,840
+Não, professor.
+
+350
+00:27:56,008 --> 00:27:58,009
+Você conhece meu pai,
+o Professor Brand.
+
+351
+00:27:58,594 --> 00:27:59,844
+Somos da NASA.
+
+352
+00:28:01,722 --> 00:28:03,931
+- NASA?
+- NASA.
+
+353
+00:28:04,266 --> 00:28:05,975
+A mesma para a qual pilotou.
+
+354
+00:28:17,112 --> 00:28:21,115
+Encerraram suas atividades por não quererem
+jogar bombas da estratosfera...
+
+355
+00:28:21,283 --> 00:28:22,950
+sobre pessoas famintas.
+
+356
+00:28:23,118 --> 00:28:25,453
+Quando entenderam que matar pessoas...
+
+357
+00:28:25,621 --> 00:28:28,414
+não era uma solução em longo prazo,
+recorreram a nós.
+
+358
+00:28:28,665 --> 00:28:30,583
+- Em segredo.
+- Por que em segredo?
+
+359
+00:28:30,918 --> 00:28:34,629
+A opinião pública não permitiria gastar
+com exploração espacial.
+
+360
+00:28:34,963 --> 00:28:37,298
+Não quando pôr comida na mesa é uma luta.
+
+361
+00:28:38,801 --> 00:28:39,967
+A praga.
+
+362
+00:28:40,427 --> 00:28:44,263
+Trigo, a sete anos atrás.
+Quiabo, este ano.
+
+363
+00:28:45,015 --> 00:28:46,682
+Agora só há milho.
+
+364
+00:28:47,017 --> 00:28:48,976
+E estamos cultivando como nunca.
+
+365
+00:28:49,144 --> 00:28:53,314
+Mas como a batata na Irlanda
+e o trigo com a tempestade de areia...
+
+366
+00:28:53,899 --> 00:28:56,401
+o milho morrerá.
+
+367
+00:28:57,152 --> 00:28:58,194
+Em breve.
+
+368
+00:29:03,492 --> 00:29:07,078
+Vamos dar um jeito, professor.
+Sempre demos.
+
+369
+00:29:07,830 --> 00:29:11,833
+Movidos por uma fé inabalável,
+a Terra é nossa.
+
+370
+00:29:12,334 --> 00:29:14,210
+Não só nossa. Não.
+
+371
+00:29:14,837 --> 00:29:16,337
+Mas é nosso lar.
+
+372
+00:29:17,673 --> 00:29:20,842
+A atmosfera da Terra é
+80 por cento nitrogênio.
+
+373
+00:29:21,093 --> 00:29:22,844
+Nós nem respiramos nitrogênio.
+
+374
+00:29:23,095 --> 00:29:28,099
+A praga, sim. E nosso ar vai ficando
+com cada vez menos oxigênio.
+
+375
+00:29:28,559 --> 00:29:32,019
+Os últimos a passar fome serão
+os primeiros a sufocar.
+
+376
+00:29:32,229 --> 00:29:34,355
+E a geração da sua filha...
+
+377
+00:29:36,024 --> 00:29:38,234
+será a última a sobreviver na Terra.
+
+378
+00:29:38,485 --> 00:29:41,988
+Murph está cansada.
+Poderia tirar um cochilo na minha sala.
+
+379
+00:29:42,531 --> 00:29:44,031
+Sim. Obrigado.
+
+380
+00:29:46,827 --> 00:29:47,869
+Certo...
+
+381
+00:29:48,871 --> 00:29:52,373
+agora tem que me dizer qual é
+seu plano para salvar o mundo.
+
+382
+00:29:53,000 --> 00:29:56,544
+Não estamos destinados a salvar o mundo,
+mas a deixá-lo.
+
+383
+00:30:02,384 --> 00:30:03,384
+Rangers.
+
+384
+00:30:03,719 --> 00:30:08,681
+Os últimos componentes de nossa versátil
+nave em órbita, a Endurance.
+
+385
+00:30:08,974 --> 00:30:10,600
+Nossa expedição final.
+
+386
+00:30:11,393 --> 00:30:14,353
+Mandou gente lá
+em busca de um novo lar?
+
+387
+00:30:14,980 --> 00:30:16,272
+As missões Lázaro.
+
+388
+00:30:16,607 --> 00:30:19,567
+- Muito animador.
+- Lázaro voltou dos mortos.
+
+389
+00:30:19,902 --> 00:30:21,903
+Claro, mas antes teve que morrer.
+
+390
+00:30:22,529 --> 00:30:25,239
+Não há vida possível
+em nenhum planeta do sistema solar.
+
+391
+00:30:25,407 --> 00:30:27,909
+A estrela mais próxima está
+a mil anos de distância.
+
+392
+00:30:28,076 --> 00:30:30,745
+Isso nem mesmo chega a ser viável.
+
+393
+00:30:32,414 --> 00:30:33,748
+Para onde os mandou?
+
+394
+00:30:34,208 --> 00:30:35,208
+Cooper.
+
+395
+00:30:35,751 --> 00:30:38,419
+Não posso Ihe dizer mais,
+a menos que concorde...
+
+396
+00:30:38,587 --> 00:30:40,505
+em pilotar esta nave.
+
+397
+00:30:40,756 --> 00:30:44,008
+- É o melhor piloto que tivemos.
+- Mal saí da estratosfera.
+
+398
+00:30:44,301 --> 00:30:46,427
+Esta equipe nunca saiu do simulador.
+
+399
+00:30:46,762 --> 00:30:50,515
+Precisamos de um piloto.
+Você foi treinado para esta missão.
+
+400
+00:30:50,724 --> 00:30:52,225
+Sem nem mesmo saber?
+
+401
+00:30:53,268 --> 00:30:57,438
+Há uma hora, nem sabiam que eu estava vivo.
+Vocês iam do mesmo jeito.
+
+402
+00:30:57,689 --> 00:30:59,357
+Não tínhamos escolha.
+
+403
+00:30:59,566 --> 00:31:01,317
+Mas algo mandou você aqui.
+
+404
+00:31:01,652 --> 00:31:04,195
+- Eles escolheram você.
+- Quem são "eles"?
+
+405
+00:31:12,329 --> 00:31:14,080
+Quanto tempo eu ficaria fora?
+
+406
+00:31:14,831 --> 00:31:16,165
+Difícil saber.
+
+407
+00:31:16,583 --> 00:31:17,750
+Anos?
+
+408
+00:31:18,460 --> 00:31:19,961
+Tenho filhos, professor.
+
+409
+00:31:20,587 --> 00:31:22,505
+Vá até lá e salve-os.
+
+410
+00:31:26,009 --> 00:31:27,343
+Quem são "eles"?
+
+411
+00:31:27,594 --> 00:31:31,347
+Começamos a detectar
+anomalias gravitacionais há quase 50 anos.
+
+412
+00:31:31,682 --> 00:31:35,184
+Pequenas distorções
+em nossos instrumentos na alta atmosfera.
+
+413
+00:31:35,352 --> 00:31:38,604
+Aliás, acho que você mesmo encontrou uma.
+
+414
+00:31:39,273 --> 00:31:41,274
+Sim, sobre os Estreitos.
+
+415
+00:31:42,276 --> 00:31:45,027
+Minha queda.
+Algo desativou o piloto automático.
+
+416
+00:31:45,362 --> 00:31:46,696
+Exato.
+
+417
+00:31:47,531 --> 00:31:52,159
+Mas, de todas essas anomalias,
+a mais significativa é esta.
+
+418
+00:31:52,369 --> 00:31:53,536
+Perto de Saturno...
+
+419
+00:31:54,788 --> 00:31:56,872
+um distúrbio de espaço-tempo.
+
+420
+00:31:58,959 --> 00:32:02,128
+- É um buraco de minhoca?
+- Apareceu há 48 anos.
+
+421
+00:32:02,421 --> 00:32:04,505
+E leva aonde?
+
+422
+00:32:05,048 --> 00:32:06,674
+A outra galáxia.
+
+423
+00:32:08,135 --> 00:32:10,511
+Não é um fenômeno que ocorre naturalmente.
+
+424
+00:32:10,679 --> 00:32:12,179
+Alguém o colocou lá.
+
+425
+00:32:13,056 --> 00:32:14,140
+"Eles"?
+
+426
+00:32:15,058 --> 00:32:19,145
+E quem quer que sejam eles,
+parecem estar cuidando de nós.
+
+427
+00:32:19,605 --> 00:32:22,189
+O buraco nos permite viajar
+para outras estrelas.
+
+428
+00:32:22,357 --> 00:32:24,191
+Apareceu quando precisávamos.
+
+429
+00:32:24,359 --> 00:32:27,361
+Puseram mundos habitáveis
+ao nosso alcance.
+
+430
+00:32:27,529 --> 00:32:29,363
+Doze, segundo as sondas iniciais.
+
+431
+00:32:29,823 --> 00:32:31,657
+Mandaram sondas até lá?
+
+432
+00:32:32,159 --> 00:32:35,161
+Mandamos pessoas.
+A dez anos atrás.
+
+433
+00:32:36,496 --> 00:32:38,164
+As missões Lázaro.
+
+434
+00:32:38,498 --> 00:32:39,999
+Doze planetas possíveis...
+
+435
+00:32:40,167 --> 00:32:42,084
+doze Rangers levando...
+
+436
+00:32:42,669 --> 00:32:45,046
+os humanos mais corajosos que existiram...
+
+437
+00:32:45,213 --> 00:32:47,882
+liderados pelo extraordinário Dr. Mann.
+
+438
+00:32:48,216 --> 00:32:51,218
+A cápsula de pouso de cada um tem
+suporte para dois anos de vida.
+
+439
+00:32:51,386 --> 00:32:53,387
+Mas com hibernação podem estender isso...
+
+440
+00:32:53,680 --> 00:32:56,849
+e fazer observações químicas
+por dez anos ou mais.
+
+441
+00:32:57,100 --> 00:33:00,895
+A missão era avaliar o planeta deles.
+Se ele mostrasse potencial...
+
+442
+00:33:01,229 --> 00:33:05,399
+poderiam mandar um sinal e dormir
+por um bom tempo à espera de resgate.
+
+443
+00:33:05,692 --> 00:33:07,860
+E se o planeta não fosse promissor?
+
+444
+00:33:08,487 --> 00:33:09,820
+Por isso, a coragem.
+
+445
+00:33:10,697 --> 00:33:13,199
+Não há recursos para visitar os 12.
+
+446
+00:33:13,533 --> 00:33:14,533
+Não.
+
+447
+00:33:15,410 --> 00:33:18,204
+A transmissão de dados
+pelo buraco de minhoca é rudimentar.
+
+448
+00:33:18,372 --> 00:33:23,376
+Anualmente, sinais binários dão
+algumas pistas de quais planetas têm potencial.
+
+449
+00:33:23,627 --> 00:33:25,378
+E um sistema parece promissor.
+
+450
+00:33:25,712 --> 00:33:28,255
+Um.
+As chances são mínimas, não?
+
+451
+00:33:29,091 --> 00:33:31,926
+Um sistema com três planetas em potencial?
+
+452
+00:33:32,260 --> 00:33:33,928
+A chance não é mínima.
+
+453
+00:33:36,098 --> 00:33:37,223
+Está bem.
+
+454
+00:33:37,933 --> 00:33:40,267
+Então, encontramos um lar.
+
+455
+00:33:42,938 --> 00:33:44,105
+E depois?
+
+456
+00:33:44,272 --> 00:33:46,399
+Aí, sim, a chance é mínima.
+
+457
+00:33:46,733 --> 00:33:49,944
+Há um Plano A e um Plano B.
+
+458
+00:33:50,445 --> 00:33:53,280
+Notou algo estranho
+na câmara de Iançamento?
+
+459
+00:34:05,127 --> 00:34:08,045
+Esta instalação inteira é uma centrífuga.
+
+460
+00:34:08,380 --> 00:34:10,881
+Um tipo de veículo.
+Uma estação espacial?
+
+461
+00:34:11,216 --> 00:34:12,883
+Ambos. Plano A.
+
+462
+00:34:13,176 --> 00:34:15,177
+Como vai tirá-lo do chão?
+
+463
+00:34:15,387 --> 00:34:19,056
+As primeiras anomalias gravitacionais
+mudaram tudo.
+
+464
+00:34:19,391 --> 00:34:23,728
+De repente, sabíamos que era possível
+controlar a gravidade.
+
+465
+00:34:24,062 --> 00:34:28,733
+Comecei a trabalhar numa teoria
+e começamos a construir esta estação.
+
+466
+00:34:29,109 --> 00:34:31,193
+Mas ainda não solucionou.
+
+467
+00:34:32,279 --> 00:34:33,821
+Por isso há um Plano B.
+
+468
+00:34:34,322 --> 00:34:38,993
+Gravidade é o problema. Como tirar
+um bom número de humanos do planeta.
+
+469
+00:34:39,202 --> 00:34:40,494
+Desta forma.
+
+470
+00:34:40,829 --> 00:34:43,330
+Plano B: uma bomba populacional.
+
+471
+00:34:43,665 --> 00:34:48,419
+Mais de 5 mil óvulos fertilizados
+pesando pouco menos de 900 quilos.
+
+472
+00:34:49,129 --> 00:34:50,629
+Como seriam gerados?
+
+473
+00:34:50,797 --> 00:34:53,215
+Com o equipamento a bordo,
+incubamos os dez primeiros.
+
+474
+00:34:53,467 --> 00:34:57,303
+Depois, com barrigas de aluguel,
+o crescimento será exponencial.
+
+475
+00:34:58,013 --> 00:35:01,223
+Em 30 anos, poderemos ter
+uma colônia de centenas.
+
+476
+00:35:01,516 --> 00:35:04,852
+A dificuldade da colonização é
+a diversidade genética.
+
+477
+00:35:05,479 --> 00:35:06,979
+Isto resolve o problema.
+
+478
+00:35:07,314 --> 00:35:09,648
+Mas e as pessoas daqui?
+Vocês...
+
+479
+00:35:10,025 --> 00:35:11,358
+desistem delas?
+
+480
+00:35:11,985 --> 00:35:13,235
+Meus filhos?
+
+481
+00:35:13,862 --> 00:35:17,114
+Por isso o Plano A é muito mais legal.
+
+482
+00:35:19,367 --> 00:35:21,702
+- Até onde chegou?
+- Estou quase lá.
+
+483
+00:35:22,329 --> 00:35:24,830
+Está me pedindo que arrisque tudo...
+
+484
+00:35:25,874 --> 00:35:27,208
+por um quase?
+
+485
+00:35:27,751 --> 00:35:30,044
+Estou pedindo que confie em mim.
+
+486
+00:35:33,131 --> 00:35:34,799
+Ache um novo lar para nós.
+
+487
+00:35:35,550 --> 00:35:37,551
+E quando você voltar...
+
+488
+00:35:38,136 --> 00:35:40,805
+terei resolvido o problema da gravidade.
+
+489
+00:35:41,765 --> 00:35:43,265
+Dou minha palavra.
+
+490
+00:35:55,987 --> 00:35:57,488
+Vá embora!
+
+491
+00:36:08,208 --> 00:36:09,208
+Murph.
+
+492
+00:36:09,584 --> 00:36:12,586
+Vá embora!
+Se vai embora, vá logo!
+
+493
+00:36:15,382 --> 00:36:18,217
+Este planeta nunca Ihe bastou, não é, Coop?
+
+494
+00:36:19,052 --> 00:36:22,805
+Porque ir até lá é o que eu acho
+que nasci para fazer?
+
+495
+00:36:23,765 --> 00:36:25,599
+E isso me estimula?
+
+496
+00:36:26,309 --> 00:36:28,727
+Não, isso não faz com que seja errado.
+
+497
+00:36:28,937 --> 00:36:30,062
+Talvez sim.
+
+498
+00:36:30,438 --> 00:36:33,566
+Não confie na coisa certa
+feita pela razão errada.
+
+499
+00:36:34,317 --> 00:36:36,610
+O porquê da coisa é o alicerce.
+
+500
+00:36:36,820 --> 00:36:38,904
+E o alicerce é sólido.
+
+501
+00:36:42,075 --> 00:36:47,079
+Nós, fazendeiros, sentamos aqui todo ano
+quando não chove e dizemos:
+
+502
+00:36:47,372 --> 00:36:48,622
+"No ano que vem. "
+
+503
+00:36:49,291 --> 00:36:52,960
+O ano que vem não vai nos salvar,
+nem o ano seguinte.
+
+504
+00:36:53,587 --> 00:36:57,923
+Este mundo é precioso, mas ele tem dito
+para partirmos há um bom tempo.
+
+505
+00:37:02,637 --> 00:37:06,432
+A humanidade nasceu na Terra.
+Nunca esteve destinada a morrer aqui.
+
+506
+00:37:09,561 --> 00:37:12,730
+Tom ficará bem,
+mas tem que se entender com a Murph.
+
+507
+00:37:12,939 --> 00:37:13,981
+Farei isso.
+
+508
+00:37:14,941 --> 00:37:18,110
+Sem fazer promessas
+que não sabe se poderá cumprir.
+
+509
+00:37:28,747 --> 00:37:30,748
+Você tem que conversar comigo.
+
+510
+00:37:33,251 --> 00:37:35,336
+Vamos resolver isso para eu partir.
+
+511
+00:37:35,587 --> 00:37:38,422
+Não vamos resolver para você ficar.
+
+512
+00:37:40,008 --> 00:37:45,012
+Antes de vocês nascerem,
+sua mãe me disse algo que nunca entendi.
+
+513
+00:37:45,388 --> 00:37:47,014
+Ela disse:
+
+514
+00:37:48,892 --> 00:37:53,395
+"Nós só estamos aqui para ser
+memórias para nossos filhos. "
+
+515
+00:37:58,526 --> 00:38:01,028
+Agora acho que entendo o que ela quis dizer.
+
+516
+00:38:04,783 --> 00:38:08,535
+Quando se tem filhos,
+você se torna o fantasma do futuro deles.
+
+517
+00:38:10,163 --> 00:38:12,331
+Você disse que fantasmas não existem.
+
+518
+00:38:18,797 --> 00:38:20,297
+Isso mesmo, Murph.
+
+519
+00:38:23,510 --> 00:38:24,843
+Murph, olhe para mim.
+
+520
+00:38:27,889 --> 00:38:30,391
+Eu não posso ser seu fantasma agora.
+
+521
+00:38:32,185 --> 00:38:34,186
+Eu preciso existir.
+
+522
+00:38:35,814 --> 00:38:37,731
+Eles me escolheram.
+
+523
+00:38:38,441 --> 00:38:42,403
+Eles me escolheram. Você viu.
+Foi você que me conduziu até eles.
+
+524
+00:38:45,031 --> 00:38:47,533
+Por isso mesmo você não pode ir.
+
+525
+00:38:50,745 --> 00:38:52,705
+Eu decifrei a mensagem.
+
+526
+00:38:53,123 --> 00:38:56,291
+- Uma palavra. Sabe qual é?
+- Murph.
+
+527
+00:38:56,459 --> 00:38:57,835
+"Fica. "
+
+528
+00:38:58,211 --> 00:39:00,754
+Ela diz "fica", pai.
+
+529
+00:39:01,548 --> 00:39:02,881
+Você não acredita em mim.
+
+530
+00:39:03,466 --> 00:39:06,385
+Olhe os livros! Olhe isto.
+Aqui diz: "Fica. "
+
+531
+00:39:06,928 --> 00:39:09,596
+Você não me dá ouvidos!
+Aqui diz: "Fica!"
+
+532
+00:39:09,931 --> 00:39:11,765
+Não, eu vou voltar.
+
+533
+00:39:11,933 --> 00:39:13,267
+Quando?
+
+534
+00:39:26,281 --> 00:39:28,741
+Um para você, um para mim.
+
+535
+00:39:29,117 --> 00:39:32,286
+Quando eu estiver
+em animação suspensa, ou...
+
+536
+00:39:32,620 --> 00:39:35,164
+viajando quase à velocidade da luz, ou...
+
+537
+00:39:36,166 --> 00:39:38,292
+perto de um buraco negro...
+
+538
+00:39:38,752 --> 00:39:43,297
+o tempo vai mudar para mim.
+Vai passar mais lentamente.
+
+539
+00:39:44,883 --> 00:39:46,675
+Quando nós voltarmos...
+
+540
+00:39:47,802 --> 00:39:49,178
+vamos comparar.
+
+541
+00:39:49,387 --> 00:39:52,014
+- Nosso tempo será diferente?
+- Sim.
+
+542
+00:39:53,099 --> 00:39:57,770
+Quando eu voltar, talvez até tenhamos
+a mesma idade, você e eu.
+
+543
+00:39:58,146 --> 00:40:00,481
+"O quê?"
+Imagine só!
+
+544
+00:40:05,028 --> 00:40:06,153
+Ah, Murph.
+
+545
+00:40:06,404 --> 00:40:08,989
+Você não tem ideia de quando vai voltar.
+
+546
+00:40:10,784 --> 00:40:12,284
+A mínima ideia!
+
+547
+00:40:15,413 --> 00:40:17,414
+Murph, não me deixe partir assim.
+
+548
+00:40:17,707 --> 00:40:19,208
+Por favor, Murph!
+
+549
+00:40:19,709 --> 00:40:22,044
+Não me deixe partir assim, Murph!
+
+550
+00:40:31,221 --> 00:40:32,554
+Eu amo você.
+
+551
+00:40:32,931 --> 00:40:34,848
+Para sempre. Você ouviu?
+
+552
+00:40:35,308 --> 00:40:38,519
+Amo você para sempre,
+e vou voltar.
+
+553
+00:40:44,317 --> 00:40:45,651
+Eu vou voltar.
+
+554
+00:41:03,878 --> 00:41:06,046
+- Como foi?
+- Bem.
+
+555
+00:41:06,381 --> 00:41:07,714
+Foi bem.
+
+556
+00:41:14,722 --> 00:41:15,848
+Amo você, Tom.
+
+557
+00:41:16,391 --> 00:41:18,016
+- Vá com cuidado.
+- Está bem.
+
+558
+00:41:18,226 --> 00:41:20,394
+Cuide da nossa casa por mim, está bem?
+
+559
+00:41:20,854 --> 00:41:21,854
+Certo?
+
+560
+00:41:27,235 --> 00:41:30,612
+- Posso usar sua caminhonete?
+- Quer dizer, a sua?
+
+561
+00:41:31,865 --> 00:41:33,740
+Vou pedir que a tragam de volta.
+
+562
+00:41:35,869 --> 00:41:37,661
+Cuide dos meus filhos, Donald!
+
+563
+00:41:50,133 --> 00:41:53,760
+<i>Motor principal autorizado.
+T menos 10.</i>
+
+564
+00:41:54,429 --> 00:41:56,513
+<i>- Papai!
+- Nove.</i>
+
+565
+00:41:56,681 --> 00:41:57,931
+Papai!
+
+566
+00:41:58,600 --> 00:41:59,600
+<i>Oito.</i>
+
+567
+00:42:00,935 --> 00:42:02,019
+<i>Sete.</i>
+
+568
+00:42:02,187 --> 00:42:03,437
+Papai!
+
+569
+00:42:03,771 --> 00:42:04,813
+<i>Seis.</i>
+
+570
+00:42:06,191 --> 00:42:09,109
+<i>Cinco. Motor principal ligado.
+Quatro.</i>
+
+571
+00:42:10,445 --> 00:42:11,612
+<i>Três.</i>
+
+572
+00:42:12,280 --> 00:42:13,405
+<i>Dois.</i>
+
+573
+00:42:14,324 --> 00:42:16,408
+<i>Um.
+Acionar ignição e...</i>
+
+574
+00:42:25,877 --> 00:42:28,337
+Os motores parecem está bem.
+Iniciar programa de rolamento.
+
+575
+00:42:32,634 --> 00:42:35,469
+Preparar para separação do Estágio 1.
+
+576
+00:42:35,803 --> 00:42:36,803
+Estágio 1.
+
+577
+00:42:42,810 --> 00:42:44,645
+Estamos em Mach 1.
+
+578
+00:42:45,605 --> 00:42:49,316
+Estão todos bem?
+Muitos escravos para minha colônia de robôs?
+
+579
+00:42:51,194 --> 00:42:54,488
+Deram-Ihe senso de humor
+para se enturmar com sua unidade.
+
+580
+00:42:54,822 --> 00:42:56,406
+Acha que isso nos relaxa.
+
+581
+00:42:56,616 --> 00:42:59,451
+Um robô sarcástico gigante.
+
+582
+00:43:00,328 --> 00:43:01,662
+Que ótima ideia!
+
+583
+00:43:01,829 --> 00:43:04,456
+Posso acender uma luz
+quando estiver brincando.
+
+584
+00:43:04,624 --> 00:43:05,749
+Isso deve ajudar.
+
+585
+00:43:05,959 --> 00:43:09,628
+Use-a para conseguir voltar para a nave
+quando eu o expulsar.
+
+586
+00:43:10,838 --> 00:43:13,715
+- Qual seu nível de humor?
+- Cem por cento.
+
+587
+00:43:13,967 --> 00:43:15,968
+Vamos abaixar para 75, por favor.
+
+588
+00:43:16,302 --> 00:43:18,136
+Separação do Estágio 2.
+
+589
+00:43:28,815 --> 00:43:30,983
+Iniciando operação manual.
+
+590
+00:43:31,276 --> 00:43:32,693
+Operação manual.
+
+591
+00:43:34,988 --> 00:43:37,990
+- Desativar aquecedor de sondas.
+- Pronto.
+
+592
+00:43:43,955 --> 00:43:46,707
+- Assumindo controle.
+- O controle é todo seu.
+
+593
+00:43:50,878 --> 00:43:53,005
+- Localizador pronto.
+- Entendido.
+
+594
+00:43:53,339 --> 00:43:56,842
+Reduzir propulsores.
+Células de combustível 1, 2 e 3.
+
+595
+00:43:57,176 --> 00:43:58,343
+Cem por cento.
+
+596
+00:43:58,678 --> 00:44:00,012
+Já era.
+
+597
+00:44:09,480 --> 00:44:11,315
+É duro deixar tudo para trás.
+
+598
+00:44:11,691 --> 00:44:14,192
+Meus filhos.
+Seu pai.
+
+599
+00:44:14,861 --> 00:44:17,070
+Vamos passar muito tempo juntos.
+
+600
+00:44:17,322 --> 00:44:20,365
+- Devemos aprender a conversar.
+- E quando não conversar.
+
+601
+00:44:22,702 --> 00:44:24,369
+Só estou sendo sincera.
+
+602
+00:44:24,537 --> 00:44:26,747
+Acho que não precisa ser tão sincera.
+
+603
+00:44:27,165 --> 00:44:29,499
+TARS, qual é seu parâmetro de sinceridade?
+
+604
+00:44:29,876 --> 00:44:32,252
+- Noventa por cento.
+- Noventa por cento?
+
+605
+00:44:32,545 --> 00:44:35,547
+Sinceridade total nem sempre é
+o modo mais diplomático...
+
+606
+00:44:35,757 --> 00:44:38,383
+ou seguro de se comunicar
+com seres emotivos.
+
+607
+00:44:38,593 --> 00:44:39,968
+Certo.
+
+608
+00:44:40,428 --> 00:44:43,055
+Então, 90 por cento, Dra. Brand.
+
+609
+00:44:46,768 --> 00:44:49,978
+Estamos nos aproximando da Endurance.
+Doze minutos.
+
+610
+00:45:07,080 --> 00:45:09,081
+Certo.
+Assumindo o controle.
+
+611
+00:45:12,585 --> 00:45:15,420
+Aproximando-nos do portal modular,
+500 metros.
+
+612
+00:45:28,393 --> 00:45:29,559
+É com você, Doyle.
+
+613
+00:45:48,079 --> 00:45:50,580
+Bem devagar, Doyle.
+Bem devagar.
+
+614
+00:45:55,753 --> 00:45:57,087
+Estou tranquilo.
+
+615
+00:45:57,255 --> 00:45:58,422
+Leve-nos para casa.
+
+616
+00:46:06,097 --> 00:46:08,515
+- Travado.
+- Alvo travado.
+
+617
+00:46:08,683 --> 00:46:10,517
+- Muito bem.
+- Colocar capacetes.
+
+618
+00:46:10,685 --> 00:46:11,685
+Bom trabalho.
+
+619
+00:46:45,136 --> 00:46:46,803
+A porta não está carregando.
+
+620
+00:46:47,054 --> 00:46:48,555
+Deixe pra lá.
+
+621
+00:47:11,454 --> 00:47:13,038
+Cooper, deve ficar no controle.
+
+622
+00:47:13,372 --> 00:47:14,873
+Assumi o controle.
+
+623
+00:47:16,292 --> 00:47:18,919
+<i>Comunicação com anel modular ativa.</i>
+
+624
+00:47:32,725 --> 00:47:33,892
+Iniciando.
+
+625
+00:47:41,442 --> 00:47:43,944
+<i>- Estamos prontos para girar?
+- Um segundo.</i>
+
+626
+00:47:55,373 --> 00:47:57,707
+- Olá, CASE.
+- Olá, TARS.
+
+627
+00:47:58,668 --> 00:48:00,585
+Certo, estamos prontos.
+
+628
+00:48:01,045 --> 00:48:02,546
+Certo, vamos lá.
+
+629
+00:48:31,701 --> 00:48:33,034
+<i>Trinta por cento de rotação.</i>
+
+630
+00:48:39,917 --> 00:48:41,251
+<i>Um G.</i>
+
+631
+00:48:42,003 --> 00:48:44,004
+<i>Como a gravidade está tratando vocês?</i>
+
+632
+00:48:44,338 --> 00:48:45,505
+Bem.
+
+633
+00:48:48,676 --> 00:48:50,427
+Romilly? Tudo bem?
+
+634
+00:48:50,636 --> 00:48:52,095
+- Sim.
+- Você está bem?
+
+635
+00:48:52,263 --> 00:48:53,930
+Sim. Só preciso de um minuto.
+
+636
+00:48:54,348 --> 00:48:59,019
+Há remédio para enjoo nas cápsulas
+ou nas câmaras criogênicas. Já volto.
+
+637
+00:48:59,186 --> 00:49:01,354
+- Ei, Brand!
+- Sim?
+
+638
+00:49:01,689 --> 00:49:03,023
+Traga um monte.
+
+639
+00:49:12,199 --> 00:49:14,868
+<i>Amelia, cuide-se.</i>
+
+640
+00:49:15,202 --> 00:49:18,538
+<i>- Lembranças ao Dr. Mann.
+- Vou dar, pai.</i>
+
+641
+00:49:18,789 --> 00:49:20,790
+<i>A trajetória de vocês está boa.</i>
+
+642
+00:49:20,958 --> 00:49:24,294
+<i>Calculamos dois anos até Saturno.</i>
+
+643
+00:49:24,879 --> 00:49:26,546
+Haja remédio para enjoo!
+
+644
+00:49:27,256 --> 00:49:29,716
+Cuide da minha família,
+por favor, senhor.
+
+645
+00:49:30,259 --> 00:49:33,053
+<i>Estaremos à espera
+quando vocês voltarem.</i>
+
+646
+00:49:33,554 --> 00:49:37,390
+<i>Um pouco mais velhos, mais sábios,
+mas felizes por vê-los.</i>
+
+647
+00:49:40,227 --> 00:49:43,563
+<i>"Não adentre a boa noite apenas com ternura</i>
+
+648
+00:49:44,106 --> 00:49:48,276
+<i>A velhice queima e clama ao cair do dia</i>
+
+649
+00:49:49,445 --> 00:49:54,407
+<i>Fúria, fúria contra a luz que já não fulgura</i>
+
+650
+00:49:55,284 --> 00:49:59,079
+<i>Embora os sábios, no fim da vida,
+saibam que é a treva que perdura</i>
+
+651
+00:49:59,413 --> 00:50:02,290
+<i>Porque suas palavras
+não capturaram a centelha tardia</i>
+
+652
+00:50:02,708 --> 00:50:06,252
+<i>Não adentre a boa noite apenas com ternura</i>
+
+653
+00:50:06,921 --> 00:50:11,257
+<i>Fúria, fúria contra a luz que já não fulgura"</i>
+
+654
+00:50:27,858 --> 00:50:29,526
+- Tudo bem?
+- Sim.
+
+655
+00:50:30,444 --> 00:50:31,945
+Obrigado.
+
+656
+00:50:35,449 --> 00:50:36,783
+Tome. Comprimidos.
+
+657
+00:50:39,537 --> 00:50:40,954
+Tão solitário.
+
+658
+00:50:41,455 --> 00:50:43,456
+Temos um ao outro.
+Com o Dr. Mann foi pior.
+
+659
+00:50:43,624 --> 00:50:44,958
+Não, falei deles.
+
+660
+00:50:46,377 --> 00:50:49,713
+É um planeta perfeito.
+Não encontraremos outro igual.
+
+661
+00:50:50,297 --> 00:50:53,550
+Não, não é como procurar outro apartamento.
+
+662
+00:50:54,677 --> 00:50:56,845
+A raça humana vai ficar...
+
+663
+00:50:57,304 --> 00:50:58,304
+à deriva...
+
+664
+00:50:58,556 --> 00:51:02,058
+buscando uma rocha
+para se segurar para recuperar o fôlego.
+
+665
+00:51:02,643 --> 00:51:04,477
+Precisamos achar essa rocha.
+
+666
+00:51:04,812 --> 00:51:07,480
+Nossos três prospectos estão no limite do que...
+
+667
+00:51:07,648 --> 00:51:09,566
+pode sustentar a vida humana.
+
+668
+00:51:10,067 --> 00:51:12,402
+O planeta de Laura Miller é o primeiro.
+
+669
+00:51:12,653 --> 00:51:14,821
+Laura começou nosso programa de biologia.
+
+670
+00:51:19,994 --> 00:51:22,996
+- O de Wolf Edmunds está aqui.
+- Fale sobre Edmunds.
+
+671
+00:51:23,914 --> 00:51:26,583
+Wolf era um físico de partículas.
+
+672
+00:51:28,878 --> 00:51:31,212
+Nenhum deles tinha família, certo?
+
+673
+00:51:32,256 --> 00:51:35,091
+Não. Nenhuma ligação afetiva.
+Meu pai insistiu.
+
+674
+00:51:35,301 --> 00:51:38,803
+Todos sabiam quais suas chances
+de ver outro ser humano.
+
+675
+00:51:38,971 --> 00:51:40,889
+Espero que surpreendamos ao menos três.
+
+676
+00:51:41,140 --> 00:51:43,057
+- E quanto a Mann?
+- O Dr. Mann?
+
+677
+00:51:43,225 --> 00:51:45,226
+Ele é incrível.
+O melhor de nós.
+
+678
+00:51:45,394 --> 00:51:49,647
+Inspirou onze pessoas a segui-lo
+na mais solitária das jornadas.
+
+679
+00:51:49,857 --> 00:51:51,524
+Cientistas, exploradores.
+
+680
+00:51:51,692 --> 00:51:55,695
+É o que eu amo. No espaço,
+nós nos deparamos com dificuldades.
+
+681
+00:51:56,197 --> 00:51:57,614
+Com a morte, mas...
+
+682
+00:51:59,366 --> 00:52:00,700
+não o mal.
+
+683
+00:52:00,993 --> 00:52:02,744
+Não acha que a natureza pode ser má?
+
+684
+00:52:03,120 --> 00:52:05,789
+Não. Formidável.
+Assustadora. Mas...
+
+685
+00:52:06,665 --> 00:52:08,166
+não, não má.
+
+686
+00:52:09,877 --> 00:52:13,046
+Um leão é mau porque destroça uma gazela?
+
+687
+00:52:13,547 --> 00:52:15,548
+Então, é só o que levamos conosco.
+
+688
+00:52:16,133 --> 00:52:17,133
+É.
+
+689
+00:52:17,718 --> 00:52:19,719
+Esta tripulação representa
+o melhor da humanidade.
+
+690
+00:52:19,887 --> 00:52:21,054
+Até eu, hein?
+
+691
+00:52:21,222 --> 00:52:23,223
+Quer saber?
+Concordamos: 90 por cento.
+
+692
+00:52:23,432 --> 00:52:24,432
+Viu só?
+
+693
+00:52:24,892 --> 00:52:27,227
+- Não fique acordado.
+- Vou num instante.
+
+694
+00:52:27,478 --> 00:52:31,481
+Lembre-se, Coop,
+está literalmente desperdiçando seu fôlego.
+
+695
+00:52:38,155 --> 00:52:41,324
+TARS? Vamos repassar
+a trajetória de novo.
+
+696
+00:52:41,700 --> 00:52:43,368
+Oito meses até Marte.
+
+697
+00:52:43,786 --> 00:52:48,122
+Aí, usamos um estilingue gravitacional.
+Quatorze meses até Saturno. Nada mudou.
+
+698
+00:52:48,332 --> 00:52:50,416
+Deixe-me fazer uma pergunta.
+
+699
+00:52:52,628 --> 00:52:56,130
+- A Dra. Brand e Edmunds...
+- Por que sussurra? Eles não conseguem ouvir.
+
+700
+00:52:57,675 --> 00:53:00,677
+A Dra. Brand e Edmunds eram próximos?
+
+701
+00:53:00,886 --> 00:53:02,136
+Eu não sei.
+
+702
+00:53:02,304 --> 00:53:05,139
+É 90 por cento "eu não sei"
+ou 10 por cento "eu não sei"?
+
+703
+00:53:05,349 --> 00:53:07,851
+Eu também tenho um nível de discrição.
+
+704
+00:53:10,104 --> 00:53:12,272
+Mas não sabe disfarçar, Espertalhão.
+
+705
+00:53:24,618 --> 00:53:25,869
+Oi, gente.
+
+706
+00:53:26,704 --> 00:53:29,372
+O papai vai entrar num sono profundo.
+
+707
+00:53:29,707 --> 00:53:32,542
+<i>Então, eu queria dar notícias para vocês.</i>
+
+708
+00:53:34,295 --> 00:53:36,713
+<i>A Terra é incrível vista daqui.</i>
+
+709
+00:53:38,424 --> 00:53:40,592
+<i>Não se vê nenhuma poeira.</i>
+
+710
+00:53:42,720 --> 00:53:45,555
+<i>Eu espero que vocês estejam bem.</i>
+
+711
+00:53:45,890 --> 00:53:50,143
+<i>Sei que receberão esta mensagem.
+O Professor Brand me garantiu.</i>
+
+712
+00:53:50,811 --> 00:53:52,729
+<i>Saibam que eu amo vocês.</i>
+
+713
+00:53:54,231 --> 00:53:56,482
+- É ele?
+- Acho que não, Murph.
+
+714
+00:54:03,365 --> 00:54:05,033
+Você deve ser o Donald.
+
+715
+00:54:07,244 --> 00:54:08,411
+Olá, Murph.
+
+716
+00:54:09,163 --> 00:54:11,164
+Por que está na caminhonete do meu pai?
+
+717
+00:54:11,790 --> 00:54:13,958
+Ele pediu para trazer para o seu irmão.
+
+718
+00:54:14,710 --> 00:54:16,878
+Ele enviou uma mensagem.
+
+719
+00:54:19,965 --> 00:54:21,966
+Ela está brava por ele ter partido.
+
+720
+00:54:22,134 --> 00:54:26,220
+Se gravarem alguma mensagem,
+posso transmiti-la para o Cooper.
+
+721
+00:54:27,306 --> 00:54:29,974
+Murph é uma faísca brilhante.
+
+722
+00:54:30,976 --> 00:54:33,478
+Talvez eu devesse alimentar a chama.
+
+723
+00:54:33,687 --> 00:54:36,189
+Ela já está fazendo
+os professores de bobos.
+
+724
+00:54:36,482 --> 00:54:39,275
+Talvez ela possa fazer
+você de bobo também.
+
+725
+00:54:40,194 --> 00:54:43,196
+- Onde eles estão?
+- Indo rumo a Marte.
+
+726
+00:54:43,906 --> 00:54:47,909
+Na próxima vez que tiverem notícias,
+eles estarão perto de Saturno.
+
+727
+00:55:27,908 --> 00:55:32,912
+<i>Na escola, a diretoria quer que eu faça
+Patologia de Plantas de novo. É um saco.</i>
+
+728
+00:55:33,414 --> 00:55:36,624
+<i>Mas vou poder começar
+Agricultura Avançada um ano antes.</i>
+
+729
+00:55:38,419 --> 00:55:42,296
+<i>Tenho que ir, pai.
+Espero que você esteja bem aí em cima.</i>
+
+730
+00:55:46,301 --> 00:55:47,760
+<i>Lamento, Coop.</i>
+
+731
+00:55:48,095 --> 00:55:52,932
+<i>Pedi para a Murph dizer oi,
+mas ela é tão teimosa quanto o pai.</i>
+
+732
+00:55:53,350 --> 00:55:55,184
+<i>Tentarei de novo na próxima.</i>
+
+733
+00:56:10,200 --> 00:56:11,701
+Você está bem, Rom?
+
+734
+00:56:14,121 --> 00:56:15,788
+Isto me aflige, Cooper.
+
+735
+00:56:15,998 --> 00:56:17,790
+Isto. Isto.
+
+736
+00:56:18,292 --> 00:56:21,085
+Milímetros de alumínio e mais nada...
+
+737
+00:56:21,378 --> 00:56:25,298
+por milhões de quilômetros,
+o que poderia nos matar em segundos.
+
+738
+00:56:26,216 --> 00:56:28,092
+Sabia que alguns dos melhores...
+
+739
+00:56:28,302 --> 00:56:32,138
+iatistas solo do mundo não sabem nadar?
+
+740
+00:56:32,723 --> 00:56:35,892
+Eles não sabem.
+E, se caírem do barco, já eram.
+
+741
+00:56:37,644 --> 00:56:39,604
+Somos exploradores, Rom.
+
+742
+00:56:41,148 --> 00:56:42,815
+Este é nosso barco.
+
+743
+00:56:43,108 --> 00:56:44,150
+Aqui.
+
+744
+00:57:11,220 --> 00:57:13,054
+Isto é da sonda de relés?
+
+745
+00:57:13,222 --> 00:57:15,223
+Estava em órbita
+ao redor do buraco de minhoca.
+
+746
+00:57:15,724 --> 00:57:18,810
+Este é o buraco de minhoca.
+Sempre que passamos perto...
+
+747
+00:57:18,977 --> 00:57:22,146
+recebemos imagens do outro lado
+da galáxia distante.
+
+748
+00:57:22,481 --> 00:57:24,649
+Entendi.
+Como se girasse um periscópio.
+
+749
+00:57:24,858 --> 00:57:25,858
+Exatamente.
+
+750
+00:57:26,110 --> 00:57:30,530
+Então, temos uma boa noção
+do que encontraremos do outro lado.
+
+751
+00:57:31,615 --> 00:57:32,949
+Em termos de navegação.
+
+752
+00:57:34,409 --> 00:57:38,162
+<i>Estaremos nos aproximando
+do buraco de minhoca em três horas.</i>
+
+753
+00:57:44,586 --> 00:57:45,586
+Ei, Coop!
+
+754
+00:57:46,463 --> 00:57:48,214
+Podemos parar de girar?
+
+755
+00:57:48,382 --> 00:57:49,382
+Por quê?
+
+756
+00:57:49,633 --> 00:57:51,968
+Porque chegamos perto
+o bastante para vê-lo?
+
+757
+00:57:53,804 --> 00:57:54,971
+Certo.
+
+758
+00:57:55,139 --> 00:57:56,180
+Obrigado.
+
+759
+00:58:01,937 --> 00:58:03,938
+Lá! É ele!
+É o buraco de minhoca!
+
+760
+00:58:04,189 --> 00:58:05,857
+Fale sem cuspir, Rom.
+
+761
+00:58:06,233 --> 00:58:07,567
+É uma esfera.
+
+762
+00:58:07,734 --> 00:58:11,654
+Claro que é.
+Pensou que fosse só um buraco?
+
+763
+00:58:12,865 --> 00:58:15,950
+Não, é que em todas
+as ilustrações que já vi...
+
+764
+00:58:16,493 --> 00:58:19,579
+Nas ilustrações,
+eles tentam mostrar como funciona.
+
+765
+00:58:20,289 --> 00:58:24,125
+Então, digamos que você quer ir daqui até aqui.
+
+766
+00:58:24,459 --> 00:58:25,960
+Mas é longe demais, certo?
+
+767
+00:58:27,212 --> 00:58:31,966
+Então, um buraco de minhoca dobra o espaço
+para você pegar um atalho...
+
+768
+00:58:32,301 --> 00:58:33,801
+por outra dimensão.
+
+769
+00:58:34,011 --> 00:58:35,511
+Certo, então...
+
+770
+00:58:35,846 --> 00:58:39,765
+para mostrar isso, transformaram
+o espaço tridimensional em duas dimensões.
+
+771
+00:58:39,933 --> 00:58:43,853
+Isso coloca o buraco de minhoca
+em duas dimensões. Um círculo.
+
+772
+00:58:44,062 --> 00:58:46,314
+O que é um círculo em três dimensões?
+
+773
+00:58:47,524 --> 00:58:49,025
+- Uma esfera.
+- Exato.
+
+774
+00:58:49,443 --> 00:58:50,943
+Um buraco esférico.
+
+775
+00:58:51,486 --> 00:58:54,322
+Mas quem o pôs lá?
+A quem devemos agradecer?
+
+776
+00:58:54,740 --> 00:58:59,410
+Não vou agradecer a ninguém
+até nós voltarmos inteiros, Rom.
+
+777
+00:59:06,376 --> 00:59:08,044
+Algum macete aqui, Doyle?
+
+778
+00:59:09,546 --> 00:59:11,047
+Vai saber...
+
+779
+00:59:18,180 --> 00:59:19,847
+Os outros conseguiram, não?
+
+780
+00:59:21,892 --> 00:59:23,559
+Alguns deles, sim.
+
+781
+00:59:55,509 --> 00:59:58,678
+Todos prontos para dizer adeus
+ao nosso sistema solar?
+
+782
+00:59:59,554 --> 01:00:01,555
+À nossa galáxia.
+
+783
+01:00:03,558 --> 01:00:04,558
+Lá vamos nós.
+
+784
+01:00:37,134 --> 01:00:40,636
+Os controles não funcionam aqui.
+Estamos passando pelo bulk.
+
+785
+01:00:40,804 --> 01:00:45,224
+Espaço além de nossas três dimensões.
+Só podemos registrar e observar.
+
+786
+01:00:56,445 --> 01:00:57,445
+O que é aquilo?
+
+787
+01:00:59,990 --> 01:01:01,657
+Acho que são eles.
+
+788
+01:01:01,992 --> 01:01:03,826
+Distorcendo o espaço-tempo.
+
+789
+01:01:06,038 --> 01:01:07,038
+Não! Não!
+
+790
+01:01:35,025 --> 01:01:36,275
+O que foi isso?
+
+791
+01:01:39,279 --> 01:01:40,780
+O primeiro aperto de mão.
+
+792
+01:01:42,491 --> 01:01:43,491
+Estamos...
+
+793
+01:01:45,202 --> 01:01:46,452
+Estamos aqui.
+
+794
+01:02:06,932 --> 01:02:09,016
+As comunicações perdidas chegaram.
+
+795
+01:02:09,226 --> 01:02:12,061
+- Como?
+- O relé deste lado as armazenou.
+
+796
+01:02:12,312 --> 01:02:15,815
+São anos de dados básicos.
+Nenhuma grande surpresa.
+
+797
+01:02:16,733 --> 01:02:20,152
+Do local de pouso de Miller e do Dr. Mann
+continuam chegando sinais.
+
+798
+01:02:20,487 --> 01:02:22,822
+O de Edmunds parou há três anos.
+
+799
+01:02:23,073 --> 01:02:24,240
+Falha no transmissor?
+
+800
+01:02:24,408 --> 01:02:27,326
+Talvez. Mandava sinais até que apagou.
+
+801
+01:02:27,494 --> 01:02:29,370
+O de Miller ainda parece bom, não?
+
+802
+01:02:29,788 --> 01:02:31,789
+Porque ela se aproxima rápido.
+
+803
+01:02:32,249 --> 01:02:34,250
+Com uma complicação.
+
+804
+01:02:34,668 --> 01:02:37,670
+O planeta é mais perto de Gargantua
+do que pensávamos.
+
+805
+01:02:37,838 --> 01:02:40,506
+- Gargantua?
+- É como chamamos o buraco negro.
+
+806
+01:02:40,674 --> 01:02:42,842
+Os planetas de Miller e do Dr. Mann o orbitam.
+
+807
+01:02:43,093 --> 01:02:46,345
+- O de Miller está no horizonte?
+- Feito uma bola ao redor da cesta.
+
+808
+01:02:46,513 --> 01:02:48,514
+Pousar lá é chegar perigosamente perto.
+
+809
+01:02:48,682 --> 01:02:51,934
+Um buraco negro tão grande tem
+grande força gravitacional.
+
+810
+01:02:54,521 --> 01:02:57,523
+Posso rodear a estrela de nêutrons
+para desacelerar.
+
+811
+01:02:57,691 --> 01:02:59,525
+Não, não é isso. É o tempo.
+
+812
+01:02:59,734 --> 01:03:04,238
+A gravidade vai desacelerar muito nosso relógio
+comparado ao da Terra.
+
+813
+01:03:04,990 --> 01:03:05,990
+Quanto?
+
+814
+01:03:06,241 --> 01:03:09,743
+Cada hora naquele planeta corresponderá...
+
+815
+01:03:10,620 --> 01:03:12,788
+a sete anos lá na Terra.
+
+816
+01:03:13,707 --> 01:03:14,707
+Meu Deus!
+
+817
+01:03:15,041 --> 01:03:16,709
+É a relatividade, pessoal.
+
+818
+01:03:18,128 --> 01:03:20,546
+Não podemos ir até lá sem que...
+
+819
+01:03:20,797 --> 01:03:22,631
+Cooper, temos uma missão.
+
+820
+01:03:22,799 --> 01:03:25,468
+Sim, e o Plano A da missão é...
+
+821
+01:03:25,635 --> 01:03:28,804
+encontrar um planeta que possa ser habitado
+por quem vive na Terra.
+
+822
+01:03:28,972 --> 01:03:31,807
+Não pode só pensar na sua família.
+Tem que pensar maior.
+
+823
+01:03:31,975 --> 01:03:35,144
+Estou pensando na minha família
+e em milhões de outras.
+
+824
+01:03:35,353 --> 01:03:39,523
+O Plano A não funciona se, ao final,
+o povo da Terra estiver morto.
+
+825
+01:03:40,817 --> 01:03:42,485
+Não, não funciona.
+
+826
+01:03:42,819 --> 01:03:44,487
+Por isso há um Plano B.
+
+827
+01:03:46,406 --> 01:03:47,907
+Cooper está certo.
+
+828
+01:03:48,074 --> 01:03:51,994
+Tempo é um recurso, como oxigênio e comida.
+Ir lá nos custará caro.
+
+829
+01:03:54,289 --> 01:03:55,456
+Bem, ouçam.
+
+830
+01:03:56,750 --> 01:04:00,252
+O Dr. Mann tem dados promissores,
+mas chegar lá levará meses.
+
+831
+01:04:00,545 --> 01:04:02,463
+Chegar ao de Edmunds, ainda mais.
+
+832
+01:04:02,714 --> 01:04:06,884
+O pouco que Miller disse é promissor.
+Tem água, matéria orgânica.
+
+833
+01:04:07,093 --> 01:04:09,261
+- Não se encontra todo dia.
+- Não mesmo.
+
+834
+01:04:09,429 --> 01:04:14,433
+E pensem nos recursos que seriam gastos
+tentando voltar para cá.
+
+835
+01:04:15,560 --> 01:04:16,560
+Romilly.
+
+836
+01:04:16,978 --> 01:04:21,398
+A que distância do planeta de Miller precisamos
+estar para ficar fora do deslocamento do tempo?
+
+837
+01:04:21,566 --> 01:04:23,234
+Pouco antes da cúspide.
+
+838
+01:04:23,568 --> 01:04:26,237
+Que é aqui,
+próximo ao planeta de Miller.
+
+839
+01:04:26,571 --> 01:04:28,280
+- Certo.
+- Certo.
+
+840
+01:04:29,199 --> 01:04:32,034
+Aqui está Gargantua.
+Aqui está o planeta de Miller.
+
+841
+01:04:32,327 --> 01:04:35,329
+Em vez de fazermos a Endurance
+orbitar o planeta dela...
+
+842
+01:04:35,497 --> 01:04:38,332
+o que nos pouparia combustível,
+mas nos faria perder tempo...
+
+843
+01:04:38,583 --> 01:04:42,670
+que tal uma rotação maior ao redor
+de Gargantua, paralelo ao planeta dela...
+
+844
+01:04:42,879 --> 01:04:45,297
+fora do deslocamento do tempo, até aqui?
+
+845
+01:04:45,465 --> 01:04:48,300
+Aí, levamos um Ranger para baixo,
+coletamos as amostras.
+
+846
+01:04:48,468 --> 01:04:51,136
+Voltamos, analisamos.
+Entramos e saímos.
+
+847
+01:04:51,304 --> 01:04:53,639
+Perderemos combustível,
+mas pouparemos muito tempo.
+
+848
+01:04:53,807 --> 01:04:55,558
+- Isso vai funcionar.
+- Parece bom.
+
+849
+01:04:55,725 --> 01:04:58,561
+Não haverá tempo para brincadeira
+ou conversa lá.
+
+850
+01:04:58,728 --> 01:05:01,146
+Então, TARS, sem dúvida,
+deve ficar aqui.
+
+851
+01:05:01,314 --> 01:05:03,732
+CASE, você vem comigo.
+Os outros podem ficar.
+
+852
+01:05:03,900 --> 01:05:07,444
+Se serão uns dois anos,
+eu posso pesquisar a gravidade.
+
+853
+01:05:07,612 --> 01:05:10,531
+Observações de um buraco de minhoca.
+Isso é ouro para o Professor Brand.
+
+854
+01:05:10,740 --> 01:05:12,408
+TARS, calcule a órbita de Gargantua.
+
+855
+01:05:12,701 --> 01:05:17,288
+Poupe combustível,
+mas deixe-nos ao alcance do planeta de Miller.
+
+856
+01:05:17,455 --> 01:05:20,040
+- Entendeu?
+- Não deixaria você para trás...
+
+857
+01:05:20,208 --> 01:05:21,208
+Dra. Brand.
+
+858
+01:05:25,880 --> 01:05:27,464
+- Está pronto, CASE?
+- Sim.
+
+859
+01:05:28,466 --> 01:05:31,885
+- Não fala muito, não é?
+- TARS fala por nós dois.
+
+860
+01:05:33,138 --> 01:05:34,138
+Desacoplar.
+
+861
+01:05:41,521 --> 01:05:44,398
+<i>- Romilly, consegue ler estas forças?
+- É inacreditável.</i>
+
+862
+01:05:47,694 --> 01:05:49,820
+É como um coração da escuridão.
+
+863
+01:05:53,992 --> 01:05:56,493
+Se pudéssemos ver a estrela colapsada lá...
+
+864
+01:05:56,786 --> 01:05:59,622
+a singularidade,
+resolveríamos a gravidade.
+
+865
+01:06:00,123 --> 01:06:03,125
+<i>- Não podemos tirar nada de lá?
+- Nada escapa do horizonte.</i>
+
+866
+01:06:03,335 --> 01:06:04,710
+Nem mesmo a luz.
+
+867
+01:06:04,919 --> 01:06:08,505
+<i>- A resposta está lá, só não se vê.
+- Lá está o planeta de Miller.</i>
+
+868
+01:06:11,176 --> 01:06:12,509
+Adeus, Ranger.
+
+869
+01:06:25,315 --> 01:06:27,483
+É rápido para uma entrada atmosférica.
+
+870
+01:06:27,776 --> 01:06:29,777
+- Usamos propulsores para desacelerar?
+- Não.
+
+871
+01:06:30,487 --> 01:06:33,572
+Usarei a aerodinâmica do Ranger
+para poupar combustível.
+
+872
+01:06:33,865 --> 01:06:34,907
+Freio aéreo?
+
+873
+01:06:35,075 --> 01:06:38,661
+- Queremos descer rápido, não?
+- Queremos chegar inteiros.
+
+874
+01:06:39,079 --> 01:06:42,081
+- Segurem-se.
+- Brand, Doyle, preparem-se.
+
+875
+01:06:58,306 --> 01:07:00,432
+- Devemos desacelerar!
+- Mãos onde eu possa ver!
+
+876
+01:07:00,600 --> 01:07:03,894
+A única vez que caí foi quando uma máquina
+desacelerou na hora errada.
+
+877
+01:07:04,145 --> 01:07:07,272
+- Cautela iria...
+- Matar, como direção imprudente.
+
+878
+01:07:07,440 --> 01:07:09,274
+- Está rápido demais!
+- Deixe comigo.
+
+879
+01:07:14,447 --> 01:07:18,117
+- Devo desativar os alarmes?
+- Não, preciso sentir o ar.
+
+880
+01:07:22,455 --> 01:07:23,622
+Lá vamos nós.
+
+881
+01:07:26,584 --> 01:07:27,876
+É só água!
+
+882
+01:07:29,379 --> 01:07:30,879
+A essência da vida.
+
+883
+01:07:31,339 --> 01:07:32,673
+Mil e duzentos metros.
+
+884
+01:07:32,882 --> 01:07:35,050
+- Temos o local do sinalizador?
+- Achei!
+
+885
+01:07:35,218 --> 01:07:37,720
+- Podemos manobrar?
+- Preciso reduzir a velocidade.
+
+886
+01:07:37,971 --> 01:07:40,681
+Vou descer em espiral.
+Segurem-se todos!
+
+887
+01:07:42,934 --> 01:07:43,934
+Setecentos.
+
+888
+01:07:46,146 --> 01:07:47,980
+Ao meu comando, CASE.
+
+889
+01:07:51,651 --> 01:07:53,152
+Quinhentos metros.
+
+890
+01:08:02,620 --> 01:08:03,662
+Ligue!
+
+891
+01:08:17,260 --> 01:08:18,260
+Pouso gracioso.
+
+892
+01:08:18,553 --> 01:08:19,553
+Não.
+
+893
+01:08:20,180 --> 01:08:23,140
+Mas muito eficiente.
+
+894
+01:08:24,726 --> 01:08:26,894
+O que estão esperando?
+Vamos!
+
+895
+01:08:27,187 --> 01:08:29,021
+Vão, vão, vão!
+
+896
+01:08:29,355 --> 01:08:32,691
+Sete anos por hora aqui.
+Vamos fazer valer!
+
+897
+01:08:58,802 --> 01:09:00,052
+Por aqui.
+
+898
+01:09:02,889 --> 01:09:04,640
+Uns 200 metros.
+
+899
+01:09:14,150 --> 01:09:15,776
+A gravidade é implacável.
+
+900
+01:09:16,736 --> 01:09:18,904
+Está flutuando no espaço há muito tempo?
+
+901
+01:09:19,072 --> 01:09:21,073
+Cento e trinta por cento
+da gravidade da Terra.
+
+902
+01:09:21,407 --> 01:09:22,741
+Vamos.
+
+903
+01:09:26,037 --> 01:09:28,872
+- Não há nada aqui.
+- Deveria estar aqui.
+
+904
+01:09:30,792 --> 01:09:33,794
+Se o sinal está vindo daqui, então...
+
+905
+01:09:43,429 --> 01:09:44,596
+O localizador dela.
+
+906
+01:09:52,730 --> 01:09:53,772
+Destroços.
+
+907
+01:09:54,440 --> 01:09:55,607
+<i>Onde está o resto?</i>
+
+908
+01:09:56,109 --> 01:09:57,609
+Nas montanhas!
+
+909
+01:10:01,447 --> 01:10:03,282
+Não são montanhas.
+
+910
+01:10:04,951 --> 01:10:06,285
+São ondas.
+
+911
+01:10:11,624 --> 01:10:14,293
+Ah, merda! Merda! Merda!
+
+912
+01:10:14,794 --> 01:10:16,795
+<i>Aquela está se distanciando de nós.</i>
+
+913
+01:10:23,303 --> 01:10:24,970
+Precisamos do gravador.
+
+914
+01:10:35,148 --> 01:10:37,316
+Brand, Doyle,
+voltem já para o Ranger!
+
+915
+01:10:37,525 --> 01:10:40,736
+Não vamos partir sem os dados dela.
+
+916
+01:10:40,987 --> 01:10:42,321
+Volte aqui agora!
+
+917
+01:10:42,488 --> 01:10:44,197
+<i>Não temos tempo!</i>
+
+918
+01:10:44,365 --> 01:10:46,867
+Uma segunda onda!
+Estamos em meio a um marulho!
+
+919
+01:10:48,244 --> 01:10:49,536
+Não, eu encontrei.
+
+920
+01:10:49,829 --> 01:10:51,830
+Volte para o Ranger, agora!
+
+921
+01:10:56,836 --> 01:10:58,879
+Brand, volte aqui, agora!
+
+922
+01:11:00,840 --> 01:11:03,008
+Não, Cooper, vão.
+Não vou conseguir.
+
+923
+01:11:03,468 --> 01:11:05,844
+<i>- Vão!
+- CASE, vá buscá-la.</i>
+
+924
+01:11:10,642 --> 01:11:12,643
+- Vão!
+- Levante-se, Brand!
+
+925
+01:11:13,561 --> 01:11:15,062
+Vá, ande!
+
+926
+01:11:16,648 --> 01:11:19,483
+- Não vou conseguir!
+- Vai, sim! Você vai!
+
+927
+01:11:26,491 --> 01:11:28,659
+CASE está com ela!
+Volte aqui, Doyle!
+
+928
+01:11:31,579 --> 01:11:32,579
+Ande!
+
+929
+01:11:35,416 --> 01:11:36,875
+Pela escotilha!
+
+930
+01:11:41,422 --> 01:11:42,923
+Vão, vão!
+
+931
+01:11:48,429 --> 01:11:49,554
+Merda.
+
+932
+01:11:50,056 --> 01:11:51,890
+Assumindo controle na escotilha!
+
+933
+01:11:55,395 --> 01:11:56,561
+Cooper! Espere!
+
+934
+01:12:03,903 --> 01:12:07,572
+Os motores inundaram!
+Vou ter que desligar.
+
+935
+01:12:40,982 --> 01:12:42,357
+Caramba!
+
+936
+01:12:46,779 --> 01:12:48,113
+Segurem-se!
+
+937
+01:13:19,353 --> 01:13:20,687
+CASE, qual o problema?
+
+938
+01:13:20,855 --> 01:13:23,190
+Entrou água demais.
+É preciso drenar.
+
+939
+01:13:24,358 --> 01:13:25,525
+Maldição!
+
+940
+01:13:25,693 --> 01:13:30,363
+- Eu falei para você me deixar!
+- E eu, para você voltar aqui!
+
+941
+01:13:30,531 --> 01:13:35,202
+- Um de nós pensou na missão!
+- Você pensou em voltar para casa!
+
+942
+01:13:37,038 --> 01:13:39,372
+Eu estava tentando fazer a coisa certa!
+
+943
+01:13:39,540 --> 01:13:41,500
+Pode dizer isso ao Doyle?
+
+944
+01:13:43,753 --> 01:13:46,046
+- CASE, quanto tempo?
+- De 45 a uma hora.
+
+945
+01:13:47,757 --> 01:13:49,091
+A essência da vida, hein?
+
+946
+01:13:50,009 --> 01:13:52,135
+Quanto isso vai nos custar, Brand?
+
+947
+01:13:52,386 --> 01:13:54,387
+Muito. Décadas.
+
+948
+01:14:01,521 --> 01:14:02,854
+O que houve com Miller?
+
+949
+01:14:03,731 --> 01:14:06,316
+A julgar pelos destroços,
+a nave dela foi...
+
+950
+01:14:06,567 --> 01:14:09,152
+atingida por uma onda
+logo após o impacto.
+
+951
+01:14:09,403 --> 01:14:12,155
+Como os destroços ficaram juntos
+após tantos anos?
+
+952
+01:14:13,407 --> 01:14:15,408
+Por causa do lapso temporal.
+
+953
+01:14:16,536 --> 01:14:21,039
+No tempo deste planeta,
+ela só pousou a horas atrás.
+
+954
+01:14:21,958 --> 01:14:24,209
+Provavelmente,
+morreu minutos atrás.
+
+955
+01:14:24,544 --> 01:14:28,547
+Doyle recebeu dados do status inicial
+repetidos incessantemente.
+
+956
+01:14:28,923 --> 01:14:31,091
+Não estamos preparados para isso.
+
+957
+01:14:33,469 --> 01:14:36,805
+Vocês, cientistas, não sabem nada
+sobre sobrevivência.
+
+958
+01:14:37,098 --> 01:14:40,433
+Nosso cérebro nos levou mais longe
+que qualquer humano.
+
+959
+01:14:40,601 --> 01:14:42,102
+Não longe o bastante!
+
+960
+01:14:42,436 --> 01:14:45,939
+E ficaremos aqui até não sobrar
+ninguém na Terra para salvar.
+
+961
+01:14:48,985 --> 01:14:51,653
+Estou contando cada minuto,
+assim como você.
+
+962
+01:14:56,450 --> 01:14:58,118
+Há alguma possibilidade...
+
+963
+01:14:58,452 --> 01:15:02,122
+alguma forma de todos nós pularmos
+num buraco negro?
+
+964
+01:15:02,373 --> 01:15:04,082
+Recuperar os anos?
+
+965
+01:15:04,584 --> 01:15:06,168
+Não balance a cabeça para mim.
+
+966
+01:15:06,460 --> 01:15:08,128
+O tempo é relativo, está bem?
+
+967
+01:15:08,462 --> 01:15:11,464
+Pode ser esticado e comprimido, mas...
+
+968
+01:15:11,966 --> 01:15:14,134
+andar para trás, não.
+Não pode.
+
+969
+01:15:14,343 --> 01:15:18,763
+Só o que pode se mover por dimensões
+como o tempo é a gravidade.
+
+970
+01:15:21,475 --> 01:15:22,642
+Certo.
+
+971
+01:15:24,604 --> 01:15:28,315
+Os seres que nos trouxeram aqui...
+Eles se comunicam...
+
+972
+01:15:28,649 --> 01:15:30,609
+- através da gravidade, certo?
+- Sim.
+
+973
+01:15:30,902 --> 01:15:32,819
+Podem estar falando do futuro?
+
+974
+01:15:33,738 --> 01:15:35,989
+- Talvez.
+- Certo. Se eles podem...
+
+975
+01:15:37,200 --> 01:15:40,452
+"Eles" são seres de cinco dimensões.
+
+976
+01:15:40,870 --> 01:15:44,206
+Para eles, o tempo pode ser
+outra dimensão física.
+
+977
+01:15:44,540 --> 01:15:45,874
+Para eles...
+
+978
+01:15:46,292 --> 01:15:50,462
+o passado pode ser um cânion
+no qual podem entrar, e o futuro...
+
+979
+01:15:50,630 --> 01:15:53,632
+uma montanha que podem escalar.
+Mas, para nós, não é.
+
+980
+01:15:54,717 --> 01:15:57,135
+Ouça, Cooper, fiz bobagem.
+Sinto muito.
+
+981
+01:15:59,305 --> 01:16:01,139
+Mas você sabia sobre a relatividade.
+
+982
+01:16:04,268 --> 01:16:05,435
+Brand...
+
+983
+01:16:10,316 --> 01:16:12,234
+minha filha tinha 10 anos.
+
+984
+01:16:12,860 --> 01:16:15,654
+Não pude ensinar as teorias de Einstein
+antes de partir.
+
+985
+01:16:16,072 --> 01:16:18,907
+Não podia ter dito a ela
+que ia salvar o mundo?
+
+986
+01:16:19,533 --> 01:16:20,533
+Não.
+
+987
+01:16:22,203 --> 01:16:26,373
+Quando você tem filhos,
+uma coisa fica clara.
+
+988
+01:16:27,875 --> 01:16:31,044
+Você quer transmitir segurança
+aos seus filhos.
+
+989
+01:16:32,088 --> 01:16:35,840
+Isso exclui dizer a uma menina de 10 anos
+que o mundo vai acabar.
+
+990
+01:16:38,302 --> 01:16:39,678
+Cooper?
+
+991
+01:16:43,391 --> 01:16:45,725
+- Quanto tempo para os motores?
+- Um ou dois minutos.
+
+992
+01:16:45,893 --> 01:16:48,228
+Não temos tempo.
+Colocar capacetes!
+
+993
+01:16:52,066 --> 01:16:53,817
+Brand, será a copiloto!
+
+994
+01:16:53,985 --> 01:16:56,486
+CASE, libere oxigênio da cabine
+para os propulsores.
+
+995
+01:16:56,696 --> 01:16:58,405
+- Vamos provocar combustão.
+- Entendido.
+
+996
+01:16:58,698 --> 01:17:00,031
+- Travada.
+- Despressurizando.
+
+997
+01:17:06,038 --> 01:17:07,289
+Motores ativados!
+
+998
+01:17:36,027 --> 01:17:37,527
+Olá, Rom.
+
+999
+01:17:37,987 --> 01:17:39,654
+Eu esperei anos.
+
+1000
+01:17:40,740 --> 01:17:42,574
+Quantos anos?
+
+1001
+01:17:44,410 --> 01:17:49,247
+- Devem ter sido...
+- Vinte e três anos, quatro meses e oito dias.
+
+1002
+01:17:53,711 --> 01:17:54,711
+Doyle?
+
+1003
+01:18:01,052 --> 01:18:04,054
+Achei que eu estivesse preparada.
+Sabia a teoria.
+
+1004
+01:18:05,431 --> 01:18:06,931
+A realidade é diferente.
+
+1005
+01:18:07,975 --> 01:18:09,142
+E Miller?
+
+1006
+01:18:10,728 --> 01:18:12,729
+Não há nada aqui para nós.
+
+1007
+01:18:15,483 --> 01:18:16,983
+Por que não dormiu?
+
+1008
+01:18:17,943 --> 01:18:22,030
+Dei umas dormidas.
+Mas já não acreditava que vocês iam voltar.
+
+1009
+01:18:22,531 --> 01:18:25,533
+E parecia errado passar a vida sonhando.
+
+1010
+01:18:26,202 --> 01:18:29,204
+Aprendi o que podia do buraco negro...
+
+1011
+01:18:29,580 --> 01:18:31,998
+mas não pude mandar nada para o seu pai.
+
+1012
+01:18:32,208 --> 01:18:34,376
+Recebemos,
+mas nada é transmitido.
+
+1013
+01:18:34,627 --> 01:18:36,711
+- Ele está vivo?
+- Sim.
+
+1014
+01:18:37,129 --> 01:18:38,922
+- Está?
+- Está.
+
+1015
+01:18:41,926 --> 01:18:44,928
+Temos anos de mensagens armazenadas.
+
+1016
+01:18:45,262 --> 01:18:46,262
+Cooper.
+
+1017
+01:18:46,555 --> 01:18:49,557
+<i>Mensagens dos últimos 23 anos.</i>
+
+1018
+01:18:51,602 --> 01:18:53,269
+Ponha desde o início.
+
+1019
+01:18:56,315 --> 01:18:58,149
+<i>Oi, pai.</i>
+
+1020
+01:18:58,859 --> 01:19:01,277
+<i>Só passei aqui para dar um oi.</i>
+
+1021
+01:19:04,073 --> 01:19:05,824
+<i>Acabei o colégio em segundo lugar.</i>
+
+1022
+01:19:07,410 --> 01:19:09,828
+<i>Mas a Srta. Kurlling continua me dando C.</i>
+
+1023
+01:19:10,121 --> 01:19:12,956
+<i>Abaixou minha média,
+mas segundo lugar não é ruim.</i>
+
+1024
+01:19:14,125 --> 01:19:16,292
+<i>O vovô compareceu à colação.</i>
+
+1025
+01:19:20,881 --> 01:19:22,799
+<i>Conheci outra garota, pai.</i>
+
+1026
+01:19:25,344 --> 01:19:27,345
+<i>Acho que será esta.</i>
+
+1027
+01:19:28,639 --> 01:19:31,224
+<i>O nome dela é Lois.
+Ela está bem aqui.</i>
+
+1028
+01:19:34,270 --> 01:19:36,271
+<i>Murphy pegou o carro do vovô escondido.</i>
+
+1029
+01:19:36,939 --> 01:19:39,607
+<i>Bateu o carro.
+Mas ela está bem.</i>
+
+1030
+01:19:40,276 --> 01:19:41,359
+<i>Oi, pai.</i>
+
+1031
+01:19:42,278 --> 01:19:43,611
+<i>Olhe aqui!</i>
+
+1032
+01:19:44,447 --> 01:19:45,947
+Você é avô.
+
+1033
+01:19:47,366 --> 01:19:49,033
+<i>O nome dele é Jesse.</i>
+
+1034
+01:19:49,702 --> 01:19:54,289
+<i>Eu queria dar o nome de Coop,
+mas Lois disse que talvez na próxima.</i>
+
+1035
+01:19:54,957 --> 01:19:59,377
+<i>Donald disse que ele já conquistou o "bi",
+então está bom assim.</i>
+
+1036
+01:20:02,548 --> 01:20:04,382
+<i>Ah, querido. Querido.</i>
+
+1037
+01:20:05,134 --> 01:20:06,759
+<i>Diga: "Tchau, vovô. "</i>
+
+1038
+01:20:07,136 --> 01:20:08,970
+<i>Tchau, vovô.
+Está bem.</i>
+
+1039
+01:20:09,388 --> 01:20:11,890
+<i>Desculpe se passou muito tempo.</i>
+
+1040
+01:20:13,309 --> 01:20:14,309
+<i>É que...</i>
+
+1041
+01:20:16,520 --> 01:20:18,521
+<i>com o que houve com o Jesse...</i>
+
+1042
+01:20:25,029 --> 01:20:27,363
+<i>O vovô morreu na semana passada.</i>
+
+1043
+01:20:27,781 --> 01:20:30,867
+<i>Nós o enterramos ao lado da mamãe e...</i>
+
+1044
+01:20:31,744 --> 01:20:32,827
+<i>do Jesse...</i>
+
+1045
+01:20:33,704 --> 01:20:36,789
+<i>que é onde teríamos enterrado
+você se tivesse...</i>
+
+1046
+01:20:37,541 --> 01:20:39,042
+<i>voltado.</i>
+
+1047
+01:20:40,544 --> 01:20:42,795
+<i>Murph esteve no funeral.</i>
+
+1048
+01:20:43,422 --> 01:20:46,174
+<i>Não a vemos com frequência,
+mas ela veio.</i>
+
+1049
+01:20:49,386 --> 01:20:51,804
+<i>Você não está ouvindo isto, eu sei.</i>
+
+1050
+01:20:54,934 --> 01:20:57,685
+<i>Todas essas mensagens estão...</i>
+
+1051
+01:20:58,854 --> 01:21:02,524
+<i>vagueando por aí na escuridão.</i>
+
+1052
+01:21:03,609 --> 01:21:05,944
+<i>Lois disse que...</i>
+
+1053
+01:21:06,737 --> 01:21:09,489
+<i>eu tenho que me desapegar.</i>
+
+1054
+01:21:09,865 --> 01:21:11,699
+<i>E...</i>
+
+1055
+01:21:12,159 --> 01:21:13,201
+<i>então...</i>
+
+1056
+01:21:16,539 --> 01:21:19,624
+<i>bem, acho que eu vou me desapegar.</i>
+
+1057
+01:21:20,584 --> 01:21:23,253
+<i>Não sei onde você está, pai...</i>
+
+1058
+01:21:23,587 --> 01:21:26,506
+<i>mas espero que esteja em paz.</i>
+
+1059
+01:21:28,300 --> 01:21:29,384
+<i>Adeus.</i>
+
+1060
+01:21:42,982 --> 01:21:44,232
+<i>Oi, pai.</i>
+
+1061
+01:21:47,069 --> 01:21:48,152
+Oi, Murph.
+
+1062
+01:21:48,404 --> 01:21:50,321
+<i>Seu desgraçado!</i>
+
+1063
+01:21:54,034 --> 01:21:56,536
+<i>Jamais gravei uma mensagem
+quando você ainda respondia...</i>
+
+1064
+01:21:56,704 --> 01:21:59,038
+<i>porque estava brava
+por você ter partido.</i>
+
+1065
+01:22:02,084 --> 01:22:04,168
+<i>Aí, quando você ficou em silêncio...</i>
+
+1066
+01:22:06,797 --> 01:22:09,632
+<i>parecia que eu deveria viver
+com essa decisão. E vivi.</i>
+
+1067
+01:22:14,138 --> 01:22:16,556
+<i>Mas hoje é meu aniversário.</i>
+
+1068
+01:22:20,227 --> 01:22:23,396
+<i>E este é especial,
+porque você me disse...</i>
+
+1069
+01:22:27,526 --> 01:22:31,863
+<i>Você disse um dia que, quando voltasse,
+poderíamos ter a mesma idade.</i>
+
+1070
+01:22:33,574 --> 01:22:36,659
+<i>E, hoje, tenho a idade
+que você tinha ao partir.</i>
+
+1071
+01:22:39,663 --> 01:22:42,665
+<i>Então, seria uma ótima hora
+para você voltar.</i>
+
+1072
+01:22:56,221 --> 01:23:00,808
+Eu não queria interromper.
+É que eu nunca tinha visto você aqui.
+
+1073
+01:23:01,143 --> 01:23:03,311
+Eu nunca tinha estado aqui.
+
+1074
+01:23:05,189 --> 01:23:08,191
+Eu falo com a Amelia o tempo todo.
+
+1075
+01:23:08,692 --> 01:23:10,026
+Isso ajuda.
+
+1076
+01:23:10,694 --> 01:23:13,279
+- Que bom que você começou.
+- Não comecei.
+
+1077
+01:23:13,614 --> 01:23:16,115
+Eu só precisava botar uma coisa para fora.
+
+1078
+01:23:16,450 --> 01:23:18,785
+- Sei que eles ainda estão lá.
+- Eu sei.
+
+1079
+01:23:19,078 --> 01:23:23,164
+Há muitas razões para as mensagens deles
+não estarem chegando.
+
+1080
+01:23:23,582 --> 01:23:24,749
+Eu sei, professor.
+
+1081
+01:23:25,459 --> 01:23:28,294
+Não sei ao certo do que tenho mais medo.
+
+1082
+01:23:29,546 --> 01:23:31,881
+De que eles nunca voltem ou...
+
+1083
+01:23:33,217 --> 01:23:36,219
+de que voltem e descubram que fracassamos.
+
+1084
+01:23:36,470 --> 01:23:37,887
+Então, tenhamos êxito.
+
+1085
+01:23:38,972 --> 01:23:39,972
+Então...
+
+1086
+01:23:40,683 --> 01:23:44,686
+de volta à quarta iteração.
+Vamos testá-la em novos campos.
+
+1087
+01:23:45,020 --> 01:23:48,189
+Com todo respeito,
+tentamos isso centenas de vezes.
+
+1088
+01:23:48,524 --> 01:23:52,193
+Só tem que funcionar uma vez, Murph.
+
+1089
+01:23:55,489 --> 01:23:59,325
+Cada prego batido poderia ter sido
+uma bomba Iançada.
+
+1090
+01:23:59,535 --> 01:24:01,536
+Fizemos um bem ao mundo aqui...
+
+1091
+01:24:01,704 --> 01:24:06,541
+quer solucionemos a equação
+antes de eu morrer ou não.
+
+1092
+01:24:06,750 --> 01:24:09,502
+- Não seja mórbido.
+- Não tenho medo de morrer.
+
+1093
+01:24:10,254 --> 01:24:12,088
+Sou um físico idoso.
+
+1094
+01:24:13,340 --> 01:24:15,007
+Tenho medo do tempo.
+
+1095
+01:24:22,349 --> 01:24:23,349
+Tempo.
+
+1096
+01:24:25,394 --> 01:24:27,061
+Você tem medo do tempo.
+
+1097
+01:24:29,648 --> 01:24:31,649
+Temos tentado solucionar a equação...
+
+1098
+01:24:31,817 --> 01:24:34,277
+sem mudar o pressuposto básico
+sobre o tempo.
+
+1099
+01:24:34,486 --> 01:24:36,154
+- E?
+- Isso significa...
+
+1100
+01:24:36,321 --> 01:24:40,742
+que cada iteração é uma tentativa de provar
+sua própria prova.
+
+1101
+01:24:41,118 --> 01:24:43,119
+É recursiva.
+Não tem sentido.
+
+1102
+01:24:43,412 --> 01:24:45,413
+Então, o trabalho da minha vida...
+
+1103
+01:24:45,581 --> 01:24:47,081
+não tem sentido?
+
+1104
+01:24:47,374 --> 01:24:49,375
+Só estou dizendo que tem tentado...
+
+1105
+01:24:49,543 --> 01:24:53,379
+terminar com um...
+Não, com os dois braços amarrados nas costas.
+
+1106
+01:24:55,466 --> 01:24:57,467
+E não entendo por quê.
+
+1107
+01:24:58,427 --> 01:25:00,261
+Estou velho, Murph.
+
+1108
+01:25:01,180 --> 01:25:03,765
+Podemos ter esta discussão outra hora?
+
+1109
+01:25:04,016 --> 01:25:06,100
+Quero falar com minha filha.
+
+1110
+01:25:08,270 --> 01:25:10,688
+<i>Saindo do universo...</i>
+
+1111
+01:25:10,939 --> 01:25:14,692
+<i>temos que confrontar a realidade
+da viagem interestelar.</i>
+
+1112
+01:25:15,611 --> 01:25:20,114
+<i>Temos que ir bem além
+da nossa expectativa de vida.</i>
+
+1113
+01:25:20,449 --> 01:25:25,453
+<i>Devemos pensar não como indivíduos,
+mas como espécie.</i>
+
+1114
+01:25:28,290 --> 01:25:30,917
+<i>"Não adentre a boa noite apenas com ternura"</i>
+
+1115
+01:25:33,128 --> 01:25:35,797
+TARS manteve a Endurance
+onde precisávamos.
+
+1116
+01:25:35,964 --> 01:25:38,633
+Mas a viagem levou
+anos a mais do que prevíamos.
+
+1117
+01:25:38,967 --> 01:25:42,470
+Não temos combustível para visitar
+os dois prospectos, então...
+
+1118
+01:25:42,805 --> 01:25:44,305
+temos que escolher.
+
+1119
+01:25:45,516 --> 01:25:46,599
+Mas como?
+
+1120
+01:25:47,684 --> 01:25:49,352
+Os dois são promissores.
+
+1121
+01:25:50,896 --> 01:25:55,316
+Os dados de Edmunds são melhores,
+mas é o Dr. Mann que ainda transmite.
+
+1122
+01:25:55,651 --> 01:25:58,486
+Não há por que suspeitar
+que os dados dele pioraram.
+
+1123
+01:25:59,404 --> 01:26:01,906
+Seu planeta tem elementos-chave
+para a vida humana.
+
+1124
+01:26:02,074 --> 01:26:05,243
+- O do Dr. Mann também.
+- Esta é minha área.
+
+1125
+01:26:06,411 --> 01:26:07,411
+E...
+
+1126
+01:26:08,288 --> 01:26:10,414
+creio que o de Edmunds seja melhor.
+
+1127
+01:26:10,582 --> 01:26:13,918
+- Por quê?
+- Gargantua. Por isso.
+
+1128
+01:26:15,045 --> 01:26:19,048
+Veja o planeta de Miller.
+Hidrocarbonetos, matéria orgânica.
+
+1129
+01:26:19,299 --> 01:26:23,678
+Mas nenhuma vida. Estéril.
+Encontraremos o mesmo no de Mann.
+
+1130
+01:26:24,096 --> 01:26:25,763
+Por causa do buraco negro?
+
+1131
+01:26:26,056 --> 01:26:29,058
+Lei de Murphy.
+O que puder acontecer acontecerá.
+
+1132
+01:26:29,268 --> 01:26:31,602
+A partir de eventos acidentais
+dá-se a evolução.
+
+1133
+01:26:31,770 --> 01:26:34,605
+Mas, orbitando um buraco negro,
+pouco acontece.
+
+1134
+01:26:34,773 --> 01:26:39,068
+Ele suga asteroides e cometas,
+impede que outros eventos cheguem.
+
+1135
+01:26:39,444 --> 01:26:41,279
+Precisamos procurar mais longe.
+
+1136
+01:26:41,905 --> 01:26:44,240
+Uma vez,
+você disse que o Dr. Mann...
+
+1137
+01:26:45,492 --> 01:26:46,993
+era o melhor de nós.
+
+1138
+01:26:47,286 --> 01:26:50,454
+É extraordinário.
+Só estamos aqui por causa dele.
+
+1139
+01:26:50,998 --> 01:26:52,832
+No entanto, ele está aqui.
+
+1140
+01:26:53,000 --> 01:26:57,837
+E está mandando uma mensagem
+nada ambígua nos dizendo para...
+
+1141
+01:26:58,005 --> 01:26:59,839
+irmos até o planeta dele.
+
+1142
+01:27:00,007 --> 01:27:04,635
+Concordo, mas os dados de Edmunds são
+mais promissores.
+
+1143
+01:27:05,095 --> 01:27:08,431
+- Façamos uma votação.
+- Então, há algo que deve saber.
+
+1144
+01:27:09,641 --> 01:27:10,641
+Brand?
+
+1145
+01:27:10,934 --> 01:27:12,435
+Ele tem direito de saber.
+
+1146
+01:27:12,978 --> 01:27:14,645
+Isso não tem nada a ver.
+
+1147
+01:27:14,980 --> 01:27:17,815
+- Isso o quê?
+- Ela é apaixonada por Wolf Edmunds.
+
+1148
+01:27:18,150 --> 01:27:20,651
+- Isso é verdade?
+- É.
+
+1149
+01:27:23,822 --> 01:27:26,532
+E isso faz com que eu queira
+seguir meu coração.
+
+1150
+01:27:29,995 --> 01:27:33,664
+Passamos tempo demais tentando
+entender isso tudo com teoria.
+
+1151
+01:27:33,832 --> 01:27:35,333
+É uma cientista, Brand.
+
+1152
+01:27:35,500 --> 01:27:36,959
+Então, ouça-me...
+
+1153
+01:27:37,794 --> 01:27:42,506
+quando eu digo que o amor não é
+algo que nós inventamos. Ele é...
+
+1154
+01:27:43,508 --> 01:27:45,843
+observável, poderoso.
+
+1155
+01:27:47,930 --> 01:27:49,555
+Tem que significar algo.
+
+1156
+01:27:49,848 --> 01:27:53,935
+O amor significa utilidade social,
+elo social, geração de filhos.
+
+1157
+01:27:54,144 --> 01:27:57,855
+Amamos pessoas que morreram.
+Qual a utilidade social disso?
+
+1158
+01:27:58,523 --> 01:27:59,523
+Nenhuma.
+
+1159
+01:27:59,733 --> 01:28:03,444
+Talvez signifique algo mais,
+algo que não podemos...
+
+1160
+01:28:03,695 --> 01:28:05,696
+entender ainda.
+
+1161
+01:28:05,989 --> 01:28:09,325
+Talvez seja uma evidência, um...
+
+1162
+01:28:10,494 --> 01:28:14,705
+artefato de uma dimensão maior
+que conscientemente não percebemos.
+
+1163
+01:28:15,040 --> 01:28:19,669
+Eu sou atraída em direção
+a alguém que não vejo há uma década...
+
+1164
+01:28:20,003 --> 01:28:22,713
+que eu sei que provavelmente esteja morto.
+
+1165
+01:28:23,048 --> 01:28:26,342
+O amor é algo que somos capazes de perceber...
+
+1166
+01:28:26,551 --> 01:28:29,387
+que transcende dimensões
+de tempo e espaço.
+
+1167
+01:28:31,390 --> 01:28:35,559
+Talvez devêssemos confiar nisso,
+mesmo se ainda não entendemos.
+
+1168
+01:28:40,732 --> 01:28:42,233
+Tudo bem, Cooper...
+
+1169
+01:28:44,236 --> 01:28:45,403
+sim...
+
+1170
+01:28:46,738 --> 01:28:50,074
+a remota possibilidade
+de ver Wolf de novo me estimula.
+
+1171
+01:28:50,742 --> 01:28:52,410
+Nem por isso estou errada.
+
+1172
+01:28:53,286 --> 01:28:55,287
+Sinceramente, Amelia...
+
+1173
+01:28:57,082 --> 01:28:58,249
+pode estar.
+
+1174
+01:29:05,090 --> 01:29:07,883
+TARS, trace uma rota até o de Dr. Mann.
+
+1175
+01:29:24,818 --> 01:29:27,820
+Perderemos um terço de novo.
+Mas no ano que vem...
+
+1176
+01:29:30,115 --> 01:29:32,950
+vou trabalhar na fazenda do Nelson
+e compensar.
+
+1177
+01:29:33,952 --> 01:29:35,619
+O que houve com o Nelson?
+
+1178
+01:29:41,543 --> 01:29:43,961
+<i>Murph, quer mais um pouco de suflê?</i>
+
+1179
+01:29:44,629 --> 01:29:47,298
+Estou satisfeita, obrigada.
+Estava delicioso.
+
+1180
+01:29:48,175 --> 01:29:50,176
+Coop, termine sua comida.
+
+1181
+01:29:52,345 --> 01:29:56,015
+Vai dormir aqui? Seu quarto está como deixou.
+Está pronto.
+
+1182
+01:29:56,183 --> 01:29:57,683
+Eu preciso voltar.
+
+1183
+01:29:57,934 --> 01:30:00,311
+Minha máquina de costura está lá,
+mas tem...
+
+1184
+01:30:00,479 --> 01:30:01,771
+Preciso...
+
+1185
+01:30:04,649 --> 01:30:06,192
+Recordações demais.
+
+1186
+01:30:06,818 --> 01:30:09,612
+Temos algo para isso.
+Ei, Coop.
+
+1187
+01:30:17,162 --> 01:30:18,162
+A poeira.
+
+1188
+01:30:20,999 --> 01:30:23,292
+Lois, tenho um amigo que...
+
+1189
+01:30:23,502 --> 01:30:25,294
+pode olhar os pulmões dele.
+
+1190
+01:30:43,563 --> 01:30:46,190
+- Amelia, sinto muito.
+- Você estava sendo objetivo.
+
+1191
+01:30:46,358 --> 01:30:49,735
+A menos que esteja me punindo
+pela besteira no planeta de Miller.
+
+1192
+01:30:49,945 --> 01:30:52,238
+Não, não foi uma decisão pessoal.
+
+1193
+01:30:53,073 --> 01:30:56,951
+Se estiver errado,
+terá uma decisão muito pessoal a tomar.
+
+1194
+01:30:57,202 --> 01:31:00,246
+Seu cálculo de combustível
+se baseia numa viagem de volta.
+
+1195
+01:31:00,580 --> 01:31:04,458
+Se fracassarmos, deveremos decidir
+se voltaremos para casa ou...
+
+1196
+01:31:04,751 --> 01:31:06,877
+partiremos para o planeta de Edmunds
+com o Plano B.
+
+1197
+01:31:07,212 --> 01:31:10,881
+Iniciar uma colônia pode nos salvar da extinção.
+
+1198
+01:31:11,216 --> 01:31:14,385
+Pode ter que decidir
+entre ver seus filhos de novo...
+
+1199
+01:31:14,553 --> 01:31:16,387
+e o futuro da raça humana.
+
+1200
+01:31:17,764 --> 01:31:19,473
+Espero a mesma objetividade.
+
+1201
+01:31:26,481 --> 01:31:28,482
+Ele pergunta por você desde que acordou.
+
+1202
+01:31:28,692 --> 01:31:30,192
+Estávamos tentando contatá-la.
+
+1203
+01:31:36,158 --> 01:31:37,199
+Murph.
+
+1204
+01:31:38,201 --> 01:31:39,702
+Estou aqui, professor.
+
+1205
+01:31:40,412 --> 01:31:42,746
+Eu decepcionei todos vocês.
+
+1206
+01:31:43,081 --> 01:31:46,417
+Não, você nos levou longe!
+Quase lá.
+
+1207
+01:31:48,253 --> 01:31:50,045
+Terminarei o que começou.
+
+1208
+01:31:50,255 --> 01:31:52,423
+Ótimo, Murph.
+
+1209
+01:31:54,843 --> 01:31:57,011
+Você teve fé...
+
+1210
+01:31:58,346 --> 01:31:59,513
+todos esses...
+
+1211
+01:32:00,640 --> 01:32:02,266
+Todos esses anos.
+
+1212
+01:32:04,060 --> 01:32:05,060
+Eu...
+
+1213
+01:32:05,520 --> 01:32:07,855
+Eu pedi para você ter fé.
+
+1214
+01:32:09,733 --> 01:32:12,401
+Eu queria que você acreditasse...
+
+1215
+01:32:14,070 --> 01:32:15,779
+que seu pai...
+
+1216
+01:32:18,909 --> 01:32:20,576
+iria voltar.
+
+1217
+01:32:20,785 --> 01:32:22,077
+Eu acredito, professor.
+
+1218
+01:32:23,705 --> 01:32:25,206
+Perdoe-me, Murph.
+
+1219
+01:32:25,957 --> 01:32:27,958
+Não há nada a perdoar.
+
+1220
+01:32:30,629 --> 01:32:31,670
+Eu...
+
+1221
+01:32:32,255 --> 01:32:34,089
+Eu menti, Murph.
+
+1222
+01:32:36,468 --> 01:32:38,260
+Menti para você.
+
+1223
+01:32:44,601 --> 01:32:47,811
+Não havia necessidade de...
+
+1224
+01:32:49,147 --> 01:32:50,898
+ele voltar.
+
+1225
+01:32:53,485 --> 01:32:56,820
+Não há nenhuma maneira de nos ajudar.
+
+1226
+01:32:58,114 --> 01:32:59,156
+Mas o Plano A...
+
+1227
+01:32:59,699 --> 01:33:02,826
+Isso tudo.
+Toda essa gente.
+
+1228
+01:33:03,954 --> 01:33:05,746
+E a equação.
+
+1229
+01:33:09,918 --> 01:33:11,585
+Meu pai sabia?
+
+1230
+01:33:15,340 --> 01:33:17,007
+Ele me abandonou?
+
+1231
+01:33:21,012 --> 01:33:22,012
+"Não...
+
+1232
+01:33:23,431 --> 01:33:24,515
+adentre...
+
+1233
+01:33:25,642 --> 01:33:26,725
+a...
+
+1234
+01:33:28,019 --> 01:33:29,520
+boa... "
+
+1235
+01:33:31,690 --> 01:33:32,690
+Não.
+
+1236
+01:33:34,359 --> 01:33:35,359
+Não!
+
+1237
+01:33:36,653 --> 01:33:38,320
+Você não pode partir.
+
+1238
+01:33:38,697 --> 01:33:39,947
+Você... Não.
+
+1239
+01:33:41,157 --> 01:33:45,828
+<i>Dra. Brand, lamento dizer que seu pai
+morreu hoje. Ele não sofreu.</i>
+
+1240
+01:33:46,288 --> 01:33:47,955
+Ele estava em paz.
+
+1241
+01:33:48,623 --> 01:33:50,708
+Sinto muito pela sua perda.
+
+1242
+01:34:03,305 --> 01:34:04,972
+Brand, você sabia?
+
+1243
+01:34:07,392 --> 01:34:09,059
+<i>Ele Ihe contou, não?</i>
+
+1244
+01:34:12,147 --> 01:34:13,314
+<i>Você sabia.</i>
+
+1245
+01:34:15,358 --> 01:34:17,026
+<i>Era tudo uma farsa.</i>
+
+1246
+01:34:21,531 --> 01:34:23,866
+<i>Vocês nos deixaram aqui.</i>
+
+1247
+01:34:25,243 --> 01:34:26,744
+<i>Para sufocar.</i>
+
+1248
+01:34:28,913 --> 01:34:30,247
+<i>Para passar fome.</i>
+
+1249
+01:34:57,609 --> 01:34:58,942
+Nuvem congelada.
+
+1250
+01:37:23,379 --> 01:37:34,681
+Está tudo bem.
+
+1251
+01:37:40,230 --> 01:37:42,105
+Rezem para nunca saberem...
+
+1252
+01:37:43,399 --> 01:37:46,610
+como é bom ver outro rosto.
+
+1253
+01:37:55,203 --> 01:37:57,538
+Eu não tinha muita esperança
+no início, mas...
+
+1254
+01:37:57,872 --> 01:38:00,040
+após tanto tempo,
+perdi toda.
+
+1255
+01:38:01,709 --> 01:38:04,545
+Meus suprimentos se esgotaram.
+
+1256
+01:38:06,756 --> 01:38:10,259
+Na última vez que fui dormir,
+nem programei data para acordar.
+
+1257
+01:38:14,222 --> 01:38:16,890
+Literalmente, vocês me fizeram
+levantar dos mortos.
+
+1258
+01:38:17,684 --> 01:38:18,684
+Lázaro.
+
+1259
+01:38:20,979 --> 01:38:24,231
+- E os outros?
+- Receio que seja o único.
+
+1260
+01:38:24,941 --> 01:38:27,359
+Até agora... Com certeza.
+
+1261
+01:38:28,152 --> 01:38:32,864
+Nossa atual situação é que há
+muito pouca chance de salvar os outros.
+
+1262
+01:38:36,703 --> 01:38:38,704
+Dr. Mann. Dr. Mann?
+
+1263
+01:38:39,789 --> 01:38:41,456
+Fale-nos sobre seu planeta.
+
+1264
+01:38:44,961 --> 01:38:46,795
+Nosso planeta, espero.
+
+1265
+01:38:50,675 --> 01:38:52,801
+Nosso planeta é frio...
+
+1266
+01:38:53,261 --> 01:38:54,428
+inóspito...
+
+1267
+01:38:56,306 --> 01:38:58,181
+mas inegavelmente bonito.
+
+1268
+01:39:00,393 --> 01:39:03,687
+<i>Os dias têm 67 horas, são frios.</i>
+
+1269
+01:39:07,692 --> 01:39:09,026
+<i>As noites têm...</i>
+
+1270
+01:39:09,277 --> 01:39:11,612
+<i>67 horas ainda mais frias.</i>
+
+1271
+01:39:17,452 --> 01:39:21,705
+<i>A gravidade é muito, muito agradável.
+Oitenta por cento daquela da Terra.</i>
+
+1272
+01:39:21,956 --> 01:39:24,958
+Aqui onde eu pousei,
+a água é alcalina...
+
+1273
+01:39:25,293 --> 01:39:28,962
+e o ar tem muita amônia,
+só dá para respirar uns minutos, mas...
+
+1274
+01:39:29,339 --> 01:39:33,508
+embaixo, na superfície,
+e há uma superfície...
+
+1275
+01:39:33,885 --> 01:39:35,552
+o cloro se dissipa.
+
+1276
+01:39:35,887 --> 01:39:39,640
+A amônia dá lugar a hidrocarbonetos cristalinos
+e ar respirável.
+
+1277
+01:39:39,974 --> 01:39:41,475
+À matéria orgânica.
+
+1278
+01:39:41,809 --> 01:39:44,144
+Possivelmente, até à vida.
+
+1279
+01:39:44,979 --> 01:39:46,897
+Podemos viver neste planeta.
+
+1280
+01:39:47,440 --> 01:39:49,358
+Estas leituras são da superfície?
+
+1281
+01:39:49,567 --> 01:39:52,736
+Através dos anos,
+joguei várias sondas.
+
+1282
+01:39:53,071 --> 01:39:56,490
+- Até onde explorou?
+- Organizei várias expedições.
+
+1283
+01:39:56,658 --> 01:40:00,577
+Mas sendo pouco o oxigênio,
+KIPP fez quase todo o trabalho externo.
+
+1284
+01:40:00,828 --> 01:40:03,497
+- Qual o problema dele, senhor?
+- Degeneração.
+
+1285
+01:40:03,748 --> 01:40:07,250
+Tomou a matéria orgânica encontrada
+por cristais de amônia.
+
+1286
+01:40:07,502 --> 01:40:11,421
+Resistimos por um tempo,
+mas no fim eu o aposentei e...
+
+1287
+01:40:11,589 --> 01:40:14,091
+usei sua fonte de energia
+para tocar a missão.
+
+1288
+01:40:14,342 --> 01:40:16,760
+E eu achava que sentia solidão antes!
+
+1289
+01:40:17,011 --> 01:40:18,845
+Quer que eu o examine?
+
+1290
+01:40:19,430 --> 01:40:21,765
+Não. Ele precisa
+de um toque humano.
+
+1291
+01:40:22,100 --> 01:40:26,186
+Dra. Brand, CASE recebeu uma mensagem
+na estação de comunicação.
+
+1292
+01:40:26,562 --> 01:40:28,980
+Está bem. Já vou para lá.
+Com licença.
+
+1293
+01:40:40,910 --> 01:40:43,495
+<i>Dra. Brand,
+lamento dizer que seu pai morreu hoje.</i>
+
+1294
+01:40:44,330 --> 01:40:45,831
+<i>Ele não sofreu.</i>
+
+1295
+01:40:48,960 --> 01:40:50,460
+<i>Ele estava em paz.</i>
+
+1296
+01:40:52,630 --> 01:40:54,381
+<i>Sinto muito pela sua perda.</i>
+
+1297
+01:40:56,884 --> 01:40:57,968
+É a Murph?
+
+1298
+01:40:58,511 --> 01:41:00,846
+Ela... Ela cresceu.
+
+1299
+01:41:01,139 --> 01:41:02,723
+<i>Brand, você sabia?</i>
+
+1300
+01:41:03,891 --> 01:41:05,559
+<i>Ele Ihe contou, não?</i>
+
+1301
+01:41:08,730 --> 01:41:09,896
+<i>Você sabia.</i>
+
+1302
+01:41:11,649 --> 01:41:13,150
+<i>Era tudo uma farsa.</i>
+
+1303
+01:41:14,193 --> 01:41:15,861
+<i>Vocês nos deixaram aqui.</i>
+
+1304
+01:41:17,989 --> 01:41:19,489
+<i>Para sufocar.</i>
+
+1305
+01:41:21,617 --> 01:41:22,951
+<i>Para morrer de fome.</i>
+
+1306
+01:41:26,289 --> 01:41:28,039
+<i>Meu pai também sabia?</i>
+
+1307
+01:41:30,585 --> 01:41:31,918
+<i>Pai?</i>
+
+1308
+01:41:33,755 --> 01:41:35,589
+<i>Só quero saber...</i>
+
+1309
+01:41:37,008 --> 01:41:39,092
+<i>se você me deixou aqui para morrer.</i>
+
+1310
+01:41:41,512 --> 01:41:43,513
+<i>Eu preciso saber.</i>
+
+1311
+01:41:49,020 --> 01:41:50,437
+Cooper, meu...
+
+1312
+01:41:51,939 --> 01:41:53,857
+Meu pai dedicou...
+
+1313
+01:41:54,233 --> 01:41:59,237
+sua vida inteira ao Plano A.
+Não faço ideia do que ela está falando.
+
+1314
+01:42:00,948 --> 01:42:02,115
+Eu faço.
+
+1315
+01:42:07,246 --> 01:42:09,915
+Ele nunca teve esperança
+de tirar o povo da Terra?
+
+1316
+01:42:11,167 --> 01:42:12,167
+Não.
+
+1317
+01:42:16,380 --> 01:42:20,133
+Mas ele tentou resolver
+a equação da gravidade por 40 anos.
+
+1318
+01:42:20,718 --> 01:42:24,137
+Seu pai resolveu a equação
+antes mesmo que eu partisse.
+
+1319
+01:42:24,722 --> 01:42:26,515
+Então, por que não a usou?
+
+1320
+01:42:26,682 --> 01:42:30,602
+Não conciliava relatividade
+e mecânica quântica. É preciso mais.
+
+1321
+01:42:30,895 --> 01:42:32,729
+Mais? Mais o quê?
+
+1322
+01:42:33,022 --> 01:42:35,899
+Mais dados.
+É preciso ver dentro do buraco negro.
+
+1323
+01:42:36,108 --> 01:42:38,276
+As leis da natureza proíbem
+a singularidade nua.
+
+1324
+01:42:38,569 --> 01:42:39,945
+Romilly, isso é verdade?
+
+1325
+01:42:41,197 --> 01:42:44,866
+Se um buraco negro é uma ostra,
+a singularidade é a pérola dentro.
+
+1326
+01:42:45,076 --> 01:42:47,744
+A gravidade é muito forte.
+Está sempre escondida na escuridão...
+
+1327
+01:42:47,912 --> 01:42:49,412
+além do horizonte.
+
+1328
+01:42:50,832 --> 01:42:52,833
+Por isso chamamos de buraco negro.
+
+1329
+01:42:53,084 --> 01:42:56,503
+Certo, mas se nós virmos além do horizonte...
+
+1330
+01:42:57,088 --> 01:42:58,588
+Não podemos, Coop.
+
+1331
+01:42:58,881 --> 01:43:01,216
+Algumas coisas não foram feitas
+para serem conhecidas.
+
+1332
+01:43:01,592 --> 01:43:05,595
+Seu pai tinha que achar outro jeito
+de salvar a raça humana da extinção.
+
+1333
+01:43:05,805 --> 01:43:07,305
+Plano B. Uma colônia.
+
+1334
+01:43:07,473 --> 01:43:09,140
+Por que não dizer às pessoas?
+
+1335
+01:43:10,726 --> 01:43:13,687
+- Por que construir as estações?
+- Ele sabia da dificuldade...
+
+1336
+01:43:13,855 --> 01:43:17,941
+de fazer pessoas trabalharem
+para salvar a espécie e não a si mesmas.
+
+1337
+01:43:18,276 --> 01:43:19,442
+Ou a seus filhos.
+
+1338
+01:43:19,610 --> 01:43:20,610
+Conversa!
+
+1339
+01:43:20,778 --> 01:43:23,613
+Não teria vindo se não achasse que os salvaria.
+
+1340
+01:43:23,781 --> 01:43:26,950
+A evolução tem que transcender essa barreira.
+
+1341
+01:43:27,118 --> 01:43:29,536
+Nós nos importamos altruisticamente com...
+
+1342
+01:43:29,704 --> 01:43:33,290
+quem conhecemos,
+mas a empatia se restringe ao âmbito pessoal.
+
+1343
+01:43:33,457 --> 01:43:35,166
+Mas a mentira!
+
+1344
+01:43:38,462 --> 01:43:40,881
+Essa mentira monstruosa?
+
+1345
+01:43:42,133 --> 01:43:43,300
+Imperdoável.
+
+1346
+01:43:43,551 --> 01:43:45,051
+E ele sabia disso.
+
+1347
+01:43:45,887 --> 01:43:50,056
+Estava pronto para destruir
+sua humanidade para salvar a espécie.
+
+1348
+01:43:50,308 --> 01:43:52,726
+- Ele fez um grande sacrifício.
+- Não.
+
+1349
+01:43:54,186 --> 01:43:59,024
+Um grande sacrifício foi feito
+pelo povo na Terra que vai morrer!
+
+1350
+01:43:59,483 --> 01:44:01,651
+Porque na arrogância dele...
+
+1351
+01:44:02,069 --> 01:44:04,154
+tirou deles a esperança.
+
+1352
+01:44:04,822 --> 01:44:06,323
+Lamento, Cooper.
+
+1353
+01:44:06,866 --> 01:44:08,366
+Não há esperança para eles.
+
+1354
+01:44:08,576 --> 01:44:10,410
+Não. Não.
+
+1355
+01:44:11,245 --> 01:44:12,746
+Nós somos o futuro.
+
+1356
+01:44:16,417 --> 01:44:18,335
+Cooper, o que eu posso fazer?
+
+1357
+01:44:21,547 --> 01:44:23,381
+Deixe-me ir para casa.
+
+1358
+01:44:23,966 --> 01:44:25,884
+Tem certeza?
+
+1359
+01:44:26,510 --> 01:44:29,012
+A solução dele estava correta.
+Ele a tinha há anos.
+
+1360
+01:44:29,680 --> 01:44:32,307
+- É inútil?
+- É metade da resposta.
+
+1361
+01:44:33,267 --> 01:44:36,269
+Certo.
+Como encontrar a outra metade?
+
+1362
+01:44:36,854 --> 01:44:38,521
+Lá fora? Num buraco negro.
+
+1363
+01:44:38,689 --> 01:44:41,524
+- Mas presos aqui na Terra?
+- Sim?
+
+1364
+01:44:42,860 --> 01:44:44,527
+Não sei se é possível.
+
+1365
+01:44:46,447 --> 01:44:49,115
+Meu Deus,
+eles estão indo embora com tudo.
+
+1366
+01:44:50,534 --> 01:44:52,619
+O que eles esperam encontrar?
+
+1367
+01:44:53,204 --> 01:44:54,204
+Sobrevivência.
+
+1368
+01:45:02,046 --> 01:45:03,129
+Droga.
+
+1369
+01:45:07,343 --> 01:45:09,844
+As pessoas não têm o direito de saber?
+
+1370
+01:45:10,471 --> 01:45:14,474
+Pânico não ajuda. Temos que continuar
+trabalhando, como sempre.
+
+1371
+01:45:14,809 --> 01:45:18,061
+Não é o que o Professor Brand
+nos estava levando a fazer?
+
+1372
+01:45:18,229 --> 01:45:21,481
+Brand desistiu de nós.
+Eu ainda estou tentando resolver isso.
+
+1373
+01:45:22,108 --> 01:45:23,191
+Então...
+
+1374
+01:45:24,610 --> 01:45:26,277
+você tem alguma ideia?
+
+1375
+01:45:26,988 --> 01:45:28,321
+Uma intuição.
+
+1376
+01:45:31,742 --> 01:45:33,743
+<i>Eu Ihe contei sobre meu fantasma.</i>
+
+1377
+01:45:35,746 --> 01:45:37,914
+<i>Meu pai achava que eu chamava de fantasma...</i>
+
+1378
+01:45:38,249 --> 01:45:39,916
+porque eu tinha medo dele.
+
+1379
+01:45:43,379 --> 01:45:44,713
+Mas eu nunca tive.
+
+1380
+01:45:46,924 --> 01:45:49,592
+<i>Eu o chamava de fantasma porque parecia...</i>
+
+1381
+01:45:52,013 --> 01:45:53,680
+Parecia uma pessoa.
+
+1382
+01:45:56,225 --> 01:45:57,892
+Estava tentando me dizer algo.
+
+1383
+01:46:00,855 --> 01:46:03,857
+Se há uma resposta aqui na Terra, está lá...
+
+1384
+01:46:04,316 --> 01:46:06,234
+de algum modo, naquele quarto.
+
+1385
+01:46:06,777 --> 01:46:08,528
+Então, eu tenho que encontrar.
+
+1386
+01:46:11,949 --> 01:46:13,700
+O tempo está se esgotando.
+
+1387
+01:46:15,619 --> 01:46:17,620
+<i>E os purificadores de oxigênio?</i>
+
+1388
+01:46:17,788 --> 01:46:20,874
+Não, eles ficam.
+Estarei dormindo na maior parte do caminho.
+
+1389
+01:46:21,834 --> 01:46:23,918
+Tenho uma sugestão para sua viagem.
+
+1390
+01:46:24,211 --> 01:46:26,796
+- É? Qual?
+- Uma última ida ao buraco negro.
+
+1391
+01:46:28,674 --> 01:46:30,175
+Vou para casa, Rom.
+
+1392
+01:46:30,342 --> 01:46:33,678
+Eu sei.
+Isso não vai Ihe custar tempo algum.
+
+1393
+01:46:34,430 --> 01:46:36,264
+Há uma chance para o povo da Terra.
+
+1394
+01:46:37,016 --> 01:46:40,018
+- Fale.
+- Gargantua é um buraco negro giratório.
+
+1395
+01:46:40,227 --> 01:46:42,979
+É o que chamamos de singularidade suave.
+
+1396
+01:46:43,147 --> 01:46:44,147
+Suave?
+
+1397
+01:46:44,315 --> 01:46:47,734
+Não são suaves,
+mas a força gravitacional curva é tão veloz que...
+
+1398
+01:46:47,902 --> 01:46:52,238
+algo cruzando o horizonte velozmente
+pode sobreviver. Tipo uma sonda.
+
+1399
+01:46:52,490 --> 01:46:56,910
+- E depois que ela passa?
+- O que há além é um mistério.
+
+1400
+01:46:57,244 --> 01:47:00,246
+Quem diz que não há um modo de a sonda...
+
+1401
+01:47:00,414 --> 01:47:03,249
+olhar a singularidade
+e enviar os dados quânticos?
+
+1402
+01:47:03,501 --> 01:47:06,753
+Se ele for equipado para transmitir
+toda forma de energia pulsante.
+
+1403
+01:47:06,921 --> 01:47:09,714
+Desde quando a sonda se tornou "ele",
+professor?
+
+1404
+01:47:10,257 --> 01:47:12,008
+TARS é o candidato óbvio.
+
+1405
+01:47:12,843 --> 01:47:14,761
+Eu já disse a ele o que procurar.
+
+1406
+01:47:14,929 --> 01:47:17,680
+Eu preciso do transmissor ótico do KIPP.
+
+1407
+01:47:17,848 --> 01:47:19,182
+Você faria isso por nós?
+
+1408
+01:47:19,350 --> 01:47:23,228
+Antes que fique choroso, lembre que,
+como robô, devo obedecer.
+
+1409
+01:47:24,146 --> 01:47:25,647
+Sua luz vermelha não acendeu.
+
+1410
+01:47:25,815 --> 01:47:27,315
+Não estou brincando.
+
+1411
+01:47:29,944 --> 01:47:33,196
+TARS precisa remover
+e adaptar componentes do KIPP.
+
+1412
+01:47:33,364 --> 01:47:35,698
+Não quero afetar
+suas funções arquivistas.
+
+1413
+01:47:35,866 --> 01:47:37,367
+Vou supervisionar.
+
+1414
+01:47:37,701 --> 01:47:38,701
+Está bem.
+
+1415
+01:47:38,911 --> 01:47:43,581
+Precisamos de três locais seguros.
+Um para o laboratório, dois para o habitat.
+
+1416
+01:47:43,749 --> 01:47:46,209
+Após o pouso,
+não dá para deslocar os módulos.
+
+1417
+01:47:46,377 --> 01:47:48,878
+Posso levá-lo aos locais das sondas,
+mas acho...
+
+1418
+01:47:49,088 --> 01:47:51,756
+que o tempo vai mudar.
+É melhor esperarmos.
+
+1419
+01:47:51,924 --> 01:47:54,759
+CASE está vindo
+com o equipamento de destilação.
+
+1420
+01:47:54,969 --> 01:47:57,804
+Quero deixar esses locais seguros
+até o anoitecer.
+
+1421
+01:47:59,723 --> 01:48:02,809
+Bem, essas rajadas costumam diminuir.
+
+1422
+01:48:03,269 --> 01:48:04,269
+Então, está bem.
+
+1423
+01:48:04,562 --> 01:48:06,729
+- Mas precisará de um transmissor.
+- Já tenho.
+
+1424
+01:48:06,939 --> 01:48:08,439
+- Está carregado?
+- Sim.
+
+1425
+01:48:09,066 --> 01:48:10,066
+Siga-me.
+
+1426
+01:48:10,818 --> 01:48:12,902
+TARS, 72 horas, está bem?
+
+1427
+01:48:13,195 --> 01:48:14,404
+Entendido, Cooper.
+
+1428
+01:48:20,703 --> 01:48:23,746
+Brand falou por que você acha que deve voltar.
+
+1429
+01:48:25,583 --> 01:48:28,334
+Mas seria negligência minha não dizer que...
+
+1430
+01:48:28,669 --> 01:48:32,839
+uma missão como esta, com certeza,
+precisa de mais um engenheiro.
+
+1431
+01:48:34,675 --> 01:48:38,928
+É bom dar uma reduzida.
+Segurança em primeiro lugar, lembre-se.
+
+1432
+01:48:39,555 --> 01:48:41,306
+<i>Segurança em primeiro lugar.</i>
+
+1433
+01:48:42,558 --> 01:48:45,560
+Estou honrado, Dr. Mann,
+por fazer parte desta missão.
+
+1434
+01:48:45,936 --> 01:48:50,940
+Mas montada a base e alocados os módulos,
+meu trabalho acaba aqui.
+
+1435
+01:48:51,358 --> 01:48:52,692
+Vou para casa.
+
+1436
+01:49:00,659 --> 01:49:04,120
+Você tem ligações afetivas.
+Mas mesmo sem família...
+
+1437
+01:49:04,622 --> 01:49:09,083
+garanto que o anseio por estar
+com outras pessoas é poderoso.
+
+1438
+01:49:09,752 --> 01:49:13,087
+Essa emoção é a base...
+
+1439
+01:49:13,756 --> 01:49:16,758
+do que nos torna humanos.
+E deve ser levada a sério.
+
+1440
+01:49:24,808 --> 01:49:27,310
+- Há quanto tempo tem essa tosse?
+- Faz um tempinho.
+
+1441
+01:49:37,863 --> 01:49:39,864
+A mamãe me deixa brincar aqui.
+
+1442
+01:49:41,617 --> 01:49:43,034
+Não mexo nas suas coisas.
+
+1443
+01:50:13,983 --> 01:50:15,650
+Desça com cuidado.
+
+1444
+01:50:20,823 --> 01:50:24,158
+Sabe por que não podíamos enviar
+máquinas nessas missões, não?
+
+1445
+01:50:24,785 --> 01:50:29,414
+Máquinas não improvisam bem
+porque não se programa medo da morte.
+
+1446
+01:50:30,291 --> 01:50:32,542
+O instinto de sobrevivência é nossa maior...
+
+1447
+01:50:32,710 --> 01:50:36,337
+fonte de inspiração.
+Veja você, por exemplo.
+
+1448
+01:50:37,047 --> 01:50:38,381
+Um pai...
+
+1449
+01:50:38,882 --> 01:50:41,884
+com instinto de sobrevivência
+que se estende aos filhos.
+
+1450
+01:50:43,053 --> 01:50:47,724
+O que a ciência diz que é a última coisa
+que vemos antes de morrer?
+
+1451
+01:50:49,435 --> 01:50:51,894
+Nossos filhos.
+Os rostos deles.
+
+1452
+01:50:52,229 --> 01:50:54,689
+No momento da morte,
+a mente se esforça...
+
+1453
+01:50:54,857 --> 01:50:56,691
+um pouco mais para sobreviver.
+
+1454
+01:50:57,401 --> 01:50:58,443
+Por eles.
+
+1455
+01:50:59,236 --> 01:51:00,528
+Respire fundo.
+
+1456
+01:51:02,823 --> 01:51:06,576
+Aposto que você é o Coop.
+Que tal você sentar aqui?
+
+1457
+01:51:06,910 --> 01:51:09,245
+É grave.
+Eles não podem ficar aqui.
+
+1458
+01:51:09,955 --> 01:51:11,247
+- Tudo bem?
+- Sim.
+
+1459
+01:51:19,548 --> 01:51:21,049
+Por que essa demora?
+
+1460
+01:51:21,216 --> 01:51:24,052
+Estou tendo dificuldade
+em completar o reinício.
+
+1461
+01:51:24,303 --> 01:51:25,803
+Eu não entendo.
+
+1462
+01:51:32,603 --> 01:51:33,853
+É engraçado.
+
+1463
+01:51:35,939 --> 01:51:37,565
+Quando deixei a Terra...
+
+1464
+01:51:38,567 --> 01:51:40,651
+achei que estava preparado para morrer.
+
+1465
+01:51:42,696 --> 01:51:44,030
+A verdade é que...
+
+1466
+01:51:46,241 --> 01:51:51,245
+nunca considerei a possibilidade
+de meu planeta não ser o ideal.
+
+1467
+01:51:53,957 --> 01:51:56,250
+Nada funcionou como deveria.
+
+1468
+01:51:56,460 --> 01:51:57,502
+Vamos.
+
+1469
+01:52:05,928 --> 01:52:08,679
+Muito bem, amigão, respire fundo.
+
+1470
+01:52:13,560 --> 01:52:14,977
+O que é isso?
+
+1471
+01:52:15,396 --> 01:52:19,232
+- O que está fazendo?
+- Lamento! Não pode partir com aquela nave.
+
+1472
+01:52:19,566 --> 01:52:21,901
+Precisamos dela para concluir a missão...
+
+1473
+01:52:22,236 --> 01:52:25,655
+quando os outros perceberem
+o que este planeta não é.
+
+1474
+01:52:25,948 --> 01:52:28,699
+Não podemos sobreviver aqui.
+Sinto muito!
+
+1475
+01:52:29,159 --> 01:52:30,410
+Sinto muito!
+
+1476
+01:52:39,920 --> 01:52:42,922
+- Eles não podem mais ficar aqui.
+- Precisam sair já.
+
+1477
+01:52:43,215 --> 01:52:46,801
+Vou deixar algo bem claro.
+Você tem responsabilidade...
+
+1478
+01:52:46,969 --> 01:52:50,138
+- Jesus!
+- Coop, pegue as coisas dela. Ela vai embora.
+
+1479
+01:52:50,431 --> 01:52:52,432
+O papai não o criou para ser tão burro!
+
+1480
+01:52:52,599 --> 01:52:56,602
+Foi o vovô que me criou.
+E ele está enterrado com mamãe e Jesse.
+
+1481
+01:52:57,187 --> 01:52:59,856
+Você forjou todos os dados?
+
+1482
+01:53:01,567 --> 01:53:02,650
+Sim.
+
+1483
+01:53:06,655 --> 01:53:08,322
+Não há superfície?
+
+1484
+01:53:08,490 --> 01:53:09,490
+Não.
+
+1485
+01:53:10,659 --> 01:53:12,577
+Tentei cumprir meu dever...
+
+1486
+01:53:12,828 --> 01:53:17,832
+mas eu soube no dia em que cheguei
+que este lugar não tinha nada.
+
+1487
+01:53:18,459 --> 01:53:22,253
+E resisti à tentação durante anos...
+
+1488
+01:53:22,880 --> 01:53:24,964
+mas eu sabia que...
+
+1489
+01:53:25,299 --> 01:53:28,134
+se eu apertasse aquele botão, então...
+
+1490
+01:53:28,427 --> 01:53:30,428
+alguém viria me salvar.
+
+1491
+01:53:31,472 --> 01:53:32,972
+Covarde miserável!
+
+1492
+01:53:33,807 --> 01:53:46,569
+Sim.
+
+1493
+01:53:58,081 --> 01:54:02,627
+Se não vai embora daqui, deixe sua família ir.
+Salve sua família.
+
+1494
+01:54:03,128 --> 01:54:05,379
+E vamos viver no subsolo com você?
+
+1495
+01:54:05,589 --> 01:54:07,590
+Rezar para que o papai nos salve?
+
+1496
+01:54:07,758 --> 01:54:11,177
+O papai não vai voltar.
+Nunca pretendeu. Cabe a mim.
+
+1497
+01:54:11,470 --> 01:54:13,221
+Você vai salvar todo mundo?
+
+1498
+01:54:13,597 --> 01:54:16,265
+- Nosso pai não conseguiu.
+- Ele nem tentou!
+
+1499
+01:54:16,600 --> 01:54:18,768
+O papai nos abandonou!
+
+1500
+01:54:19,394 --> 01:54:21,312
+Deixou a gente aqui para morrer.
+
+1501
+01:54:22,022 --> 01:54:23,689
+Ninguém vai com você.
+
+1502
+01:54:27,402 --> 01:54:30,112
+Vai esperar seu próximo filho morrer?
+
+1503
+01:54:33,116 --> 01:54:34,408
+Vá embora.
+
+1504
+01:54:35,285 --> 01:54:36,786
+E não volte mais.
+
+1505
+01:54:41,500 --> 01:54:43,334
+Pode ficar com minhas coisas.
+
+1506
+01:54:54,263 --> 01:54:55,638
+Pare com isso!
+
+1507
+01:54:58,684 --> 01:54:59,934
+Não! Não!
+
+1508
+01:55:01,353 --> 01:55:04,188
+Dr. Mann, a chance de que se mate é
+de 50 por cento!
+
+1509
+01:55:05,023 --> 01:55:07,191
+É o melhor prognóstico em anos.
+
+1510
+01:55:27,546 --> 01:55:29,297
+Não me julgue, Cooper.
+
+1511
+01:55:30,048 --> 01:55:32,300
+Você nunca foi testado como eu fui.
+
+1512
+01:55:32,884 --> 01:55:34,385
+Poucos homens foram.
+
+1513
+01:55:42,728 --> 01:55:44,061
+Você fez o que podia.
+
+1514
+01:55:53,405 --> 01:55:55,239
+Você está sentindo, não?
+
+1515
+01:55:56,450 --> 01:55:58,284
+O instinto de sobrevivência.
+
+1516
+01:55:59,202 --> 01:56:03,539
+É o que me impulsiona.
+O que nos impulsiona a todos e nos salvará.
+
+1517
+01:56:04,708 --> 01:56:08,044
+Porque quero salvar a todos nós.
+Por você, Cooper.
+
+1518
+01:56:13,216 --> 01:56:16,761
+Desculpe. Não posso vê-lo passar por isto.
+Desculpe.
+
+1519
+01:56:17,095 --> 01:56:19,764
+Pensei que eu pudesse,
+mas não posso.
+
+1520
+01:56:20,932 --> 01:56:23,017
+Estou aqui para Ihe dar força.
+
+1521
+01:56:23,352 --> 01:56:25,353
+<i>Ouça minha voz, Cooper.</i>
+
+1522
+01:56:26,146 --> 01:56:27,480
+<i>Eu estou aqui.</i>
+
+1523
+01:56:29,316 --> 01:56:30,650
+<i>Você não está sozinho.</i>
+
+1524
+01:56:40,369 --> 01:56:42,036
+Está vendo seus filhos?
+
+1525
+01:56:45,123 --> 01:56:46,457
+<i>Está tudo bem.</i>
+
+1526
+01:56:47,501 --> 01:56:49,168
+Eles estão aí com você.
+
+1527
+01:56:53,048 --> 01:56:55,800
+O Professor Brand recitou o poema
+antes de você partir?
+
+1528
+01:56:56,468 --> 01:56:57,968
+<i>Você se lembra?</i>
+
+1529
+01:57:00,347 --> 01:57:03,015
+<i>"Não adentre a boa noite apenas com ternura</i>
+
+1530
+01:57:04,935 --> 01:57:07,770
+<i>A velhice queima e clama</i>
+
+1531
+01:57:07,979 --> 01:57:09,480
+<i>Ao cair do dia</i>
+
+1532
+01:57:11,066 --> 01:57:13,651
+<i>Fúria, fúria contra a luz que já não fulgura"</i>
+
+1533
+01:57:38,093 --> 01:57:39,844
+Brand! Socorro!
+
+1534
+01:57:40,053 --> 01:57:41,887
+<i>- Socorro!
+- Cooper?</i>
+
+1535
+01:57:48,603 --> 01:57:49,812
+CASE!
+
+1536
+01:57:50,188 --> 01:57:51,480
+Não tenho ar.
+
+1537
+01:57:52,315 --> 01:57:53,524
+Amônia.
+
+1538
+01:57:54,609 --> 01:57:57,027
+Cooper, estamos indo! CASE!
+
+1539
+01:57:57,320 --> 01:57:59,196
+- Eu o localizei.
+- Vai, vai, vai!
+
+1540
+01:57:59,364 --> 01:58:01,198
+Lá vamos nós!
+
+1541
+01:58:13,003 --> 01:58:15,171
+Cooper, aguente firme.
+Não fale.
+
+1542
+01:58:15,338 --> 01:58:17,757
+Respire o mínimo possível.
+Estamos chegando.
+
+1543
+01:58:21,344 --> 01:58:23,304
+Há uma trava de segurança, senhor.
+
+1544
+01:58:23,513 --> 01:58:26,766
+É preciso que uma pessoa acesse a função.
+
+1545
+01:58:31,813 --> 01:58:33,314
+É todo seu, senhor.
+
+1546
+01:58:41,531 --> 01:58:42,990
+<i>Procure não respirar.</i>
+
+1547
+01:58:44,034 --> 01:58:45,534
+<i>Estamos a caminho.</i>
+
+1548
+01:58:45,827 --> 01:58:47,870
+<i>CASE, depressa! Vamos!</i>
+
+1549
+01:58:48,038 --> 01:58:50,831
+<i>Temos que ir mais rápido, CASE!
+Mais rápido!</i>
+
+1550
+01:58:55,337 --> 01:58:57,046
+Aguente firme.
+
+1551
+01:59:03,553 --> 01:59:06,847
+Eu o estou vendo!
+CASE, incline para a direita!
+
+1552
+01:59:25,867 --> 01:59:27,409
+Cooper! Cooper!
+
+1553
+01:59:27,786 --> 01:59:28,869
+Estou aqui!
+
+1554
+01:59:47,722 --> 01:59:49,557
+ACESSANDO ARQUIVO
+
+1555
+01:59:52,102 --> 01:59:54,103
+Estes dados não fazem sentido.
+
+1556
+02:00:02,529 --> 02:00:03,779
+Lamento.
+
+1557
+02:00:04,114 --> 02:00:06,699
+- O que foi?
+- Mann estava mentindo!
+
+1558
+02:00:14,457 --> 02:00:16,250
+Vai. Vai!
+
+1559
+02:00:17,377 --> 02:00:18,377
+Romilly.
+
+1560
+02:00:18,795 --> 02:00:19,795
+<i>Romilly!</i>
+
+1561
+02:00:20,213 --> 02:00:22,548
+<i>Está me ouvindo, Romilly?</i>
+
+1562
+02:00:23,133 --> 02:00:25,134
+Afaste-se, professor!
+Afaste-se!
+
+1563
+02:00:32,934 --> 02:00:35,644
+<i>- Romilly?
+- Romilly, está me ouvindo?</i>
+
+1564
+02:00:38,648 --> 02:00:39,982
+Fique de olho!
+
+1565
+02:00:41,151 --> 02:00:42,276
+Lois?
+
+1566
+02:00:42,777 --> 02:00:45,362
+- E a cautela, CASE?
+- Segurança primeiro.
+
+1567
+02:00:46,656 --> 02:00:50,075
+Romilly, está ouvindo?
+Aqui é a Brand.
+
+1568
+02:00:52,954 --> 02:00:53,996
+Romilly?
+
+1569
+02:00:54,164 --> 02:00:56,749
+Dra. Brand? Cooper?
+Houve uma explosão.
+
+1570
+02:00:57,375 --> 02:00:59,168
+Na base do Dr. Mann.
+
+1571
+02:01:26,780 --> 02:01:28,822
+TARS, à esquerda!
+
+1572
+02:01:35,205 --> 02:01:37,164
+Avise quando o TARS embarcar.
+
+1573
+02:01:40,752 --> 02:01:42,753
+Romilly não sobreviveu.
+
+1574
+02:01:43,880 --> 02:01:45,381
+Não pude salvá-lo.
+
+1575
+02:01:45,548 --> 02:01:47,257
+- TARS entrou.
+- Eu assumo.
+
+1576
+02:01:47,467 --> 02:01:50,219
+- Temos a localização do Ranger?
+- Entrando em órbita!
+
+1577
+02:01:50,387 --> 02:01:53,389
+Se ele assumir controle da nave,
+morreremos.
+
+1578
+02:01:54,599 --> 02:01:57,726
+- Ele nos abandonaria?
+- Está nos abandonando.
+
+1579
+02:01:59,562 --> 02:02:02,064
+Vejo vocês lá embaixo.
+Esperem junto ao carro.
+
+1580
+02:02:09,906 --> 02:02:14,118
+Dê-me sua mochila. Sente no banco de trás.
+Banco de trás, agora!
+
+1581
+02:02:19,749 --> 02:02:21,750
+<i>Dr. Mann, por favor, responda.</i>
+
+1582
+02:02:22,293 --> 02:02:24,378
+Dr. Mann, por favor, responda!
+
+1583
+02:02:24,546 --> 02:02:26,714
+Não sabe como ancorar a Endurance.
+
+1584
+02:02:26,881 --> 02:02:29,550
+- O piloto automático sabe.
+- TARS o desativou.
+
+1585
+02:02:30,719 --> 02:02:31,760
+Ótimo.
+
+1586
+02:02:31,928 --> 02:02:34,930
+<i>- Qual seu nível de confiança?
+- Mais baixo que o seu.</i>
+
+1587
+02:02:38,435 --> 02:02:41,770
+<i>Não tente ancorar.
+Repito, não tente ancorar.</i>
+
+1588
+02:02:42,105 --> 02:02:43,272
+<i>Por favor, res...</i>
+
+1589
+02:03:42,582 --> 02:03:44,875
+<i>Sequência de autoancoragem negada.</i>
+
+1590
+02:03:45,168 --> 02:03:47,961
+<i>- Anular.
+- Não autorizado.</i>
+
+1591
+02:03:48,505 --> 02:03:49,838
+Anular.
+
+1592
+02:03:50,340 --> 02:03:52,216
+<i>Não autorizado.</i>
+
+1593
+02:03:56,304 --> 02:04:00,474
+Não tente ancorar. Repito, não tente ancorar.
+Por favor, responda.
+
+1594
+02:04:44,269 --> 02:04:46,436
+Indo devagar na direção da Endurance.
+
+1595
+02:05:11,045 --> 02:05:12,546
+<i>Contato imperfeito.</i>
+
+1596
+02:05:12,881 --> 02:05:14,798
+<i>- Anular.
+- Escotilha travada.</i>
+
+1597
+02:05:22,557 --> 02:05:25,142
+- Ele já ancorou?
+- De modo imperfeito.
+
+1598
+02:05:26,936 --> 02:05:28,187
+Dr. Mann, não...
+
+1599
+02:05:49,667 --> 02:05:52,669
+<i>Escotilha destravada.</i>
+
+1600
+02:06:01,221 --> 02:06:04,723
+Dr. Mann, não abra.
+Repito, não abra a escotilha.
+
+1601
+02:06:05,058 --> 02:06:06,725
+Repito, não abra a escotilha.
+
+1602
+02:06:06,893 --> 02:06:09,937
+Se abrir a escotilha,
+a câmara vai despressurizar.
+
+1603
+02:06:35,588 --> 02:06:38,006
+- O que acontece se ele forçar?
+- Nada bom.
+
+1604
+02:06:43,972 --> 02:06:46,640
+Recuar. Propulsores reversos,
+tudo o que tivermos!
+
+1605
+02:06:46,808 --> 02:06:48,475
+- Propulsores no máximo!
+- Recuar!
+
+1606
+02:06:48,685 --> 02:06:52,938
+Transmita ao computador de bordo
+para que retransmita como emergência.
+
+1607
+02:06:53,147 --> 02:06:54,189
+Dr. Mann...
+
+1608
+02:06:56,818 --> 02:06:59,695
+<i>Repito:
+não abra a escotilha interna.</i>
+
+1609
+02:06:59,862 --> 02:07:00,904
+Brand?
+
+1610
+02:07:01,656 --> 02:07:03,824
+<i>Não sei o que ele Ihe disse...</i>
+
+1611
+02:07:04,033 --> 02:07:06,535
+mas vou assumir o comando da Endurance.
+
+1612
+02:07:06,995 --> 02:07:09,162
+<i>Aí poderemos falar
+em concluir a missão.</i>
+
+1613
+02:07:12,500 --> 02:07:14,209
+Dr. Mann, ouça-me.
+
+1614
+02:07:15,003 --> 02:07:17,004
+Não se trata da minha vida.
+
+1615
+02:07:17,630 --> 02:07:20,882
+Ou da vida do Cooper.
+Trata-se da humanidade.
+
+1616
+02:07:21,467 --> 02:07:22,968
+Há um momento...
+
+1617
+02:07:29,225 --> 02:07:30,559
+Não é segu...
+
+1618
+02:07:38,818 --> 02:07:39,860
+Meu Deus!
+
+1619
+02:07:58,171 --> 02:08:02,132
+- É inútil usar seu combustível...
+- Analise a rotação da Endurance.
+
+1620
+02:08:07,388 --> 02:08:09,639
+- Cooper, o que está fazendo?
+- Ancorando.
+
+1621
+02:08:14,270 --> 02:08:16,938
+A rotação da Endurance é de 67... 68 RPM.
+
+1622
+02:08:17,148 --> 02:08:19,649
+Prepare-se para acertar nossa rotação
+com os propulsores.
+
+1623
+02:08:19,817 --> 02:08:21,276
+- Não é possível.
+- Não.
+
+1624
+02:08:21,986 --> 02:08:23,320
+É necessário.
+
+1625
+02:08:34,916 --> 02:08:37,084
+Endurance entrando na estratosfera!
+
+1626
+02:08:41,172 --> 02:08:43,173
+Ela não tem escudo térmico.
+
+1627
+02:08:46,302 --> 02:08:48,053
+- CASE, está pronto?
+- Pronto.
+
+1628
+02:08:56,479 --> 02:08:59,648
+Cooper!
+Não é hora para cautela!
+
+1629
+02:09:01,192 --> 02:09:03,610
+CASE, se eu apagar,
+assuma o comando.
+
+1630
+02:09:03,778 --> 02:09:06,321
+Prepare-se para ativar
+o mecanismo de ancoragem.
+
+1631
+02:09:13,287 --> 02:09:14,955
+Endurance está começando a aquecer.
+
+1632
+02:09:15,123 --> 02:09:16,415
+A seis metros.
+
+1633
+02:09:16,791 --> 02:09:19,126
+Preciso de três graus a estibordo.
+
+1634
+02:09:19,419 --> 02:09:21,086
+Três metros.
+
+1635
+02:09:21,337 --> 02:09:23,922
+Cooper, estamos alinhados.
+
+1636
+02:09:24,173 --> 02:09:25,674
+Iniciar rotação!
+
+1637
+02:10:07,175 --> 02:10:08,383
+Vamos, TARS.
+
+1638
+02:10:16,642 --> 02:10:18,143
+Vamos, TARS!
+
+1639
+02:10:29,238 --> 02:10:31,907
+<i>- Estamos ancorados.
+- Desacelerando!</i>
+
+1640
+02:10:39,540 --> 02:10:43,376
+Cuidado.
+
+1641
+02:10:49,217 --> 02:10:50,425
+Propulsores reversos!
+
+1642
+02:10:58,684 --> 02:11:00,185
+Motor principal ligado.
+
+1643
+02:11:05,942 --> 02:11:08,652
+Saindo da órbita.
+Vamos, belezinha!
+
+1644
+02:11:16,661 --> 02:11:18,328
+Desligando motor principal!
+
+1645
+02:11:19,580 --> 02:11:21,248
+Estamos fora da órbita.
+
+1646
+02:11:28,589 --> 02:11:31,466
+Legal.
+E, agora, nosso próximo truque!
+
+1647
+02:11:33,302 --> 02:11:37,138
+Terá que ser bom.
+Estamos sendo atraídos pelo Gargantua.
+
+1648
+02:11:38,099 --> 02:11:39,099
+Merda.
+
+1649
+02:11:39,600 --> 02:11:41,393
+- CASE, assuma.
+- Entendido.
+
+1650
+02:12:31,360 --> 02:12:33,695
+<i>Cooper,
+estamos indo rumo ao Gargantua.</i>
+
+1651
+02:12:35,031 --> 02:12:36,948
+<i>Uso os motores principais?</i>
+
+1652
+02:12:37,116 --> 02:12:38,199
+Não.
+
+1653
+02:12:38,784 --> 02:12:41,036
+Temos que deixar entrar o máximo possível.
+
+1654
+02:12:49,837 --> 02:12:52,714
+- Qual a situação?
+- Há boas e más notícias.
+
+1655
+02:12:52,965 --> 02:12:56,635
+Conheço essa história.
+Fale sem rodeios.
+
+1656
+02:13:05,353 --> 02:13:08,563
+Com o gerador de emergência,
+o sistema ficou estável.
+
+1657
+02:13:08,731 --> 02:13:09,731
+Ótimo.
+
+1658
+02:13:10,191 --> 02:13:13,568
+A interface de navegação foi
+totalmente destruída.
+
+1659
+02:13:13,861 --> 02:13:16,738
+Não dá para chegarmos até a Terra...
+
+1660
+02:13:16,906 --> 02:13:18,990
+mas dá para chegarmos
+ao planeta de Edmunds.
+
+1661
+02:13:19,158 --> 02:13:20,408
+E o combustível?
+
+1662
+02:13:20,826 --> 02:13:23,328
+Não é o bastante,
+mas tenho um plano.
+
+1663
+02:13:23,954 --> 02:13:27,957
+<i>Deixamos Gargantua nos puxar
+para perto do horizonte.</i>
+
+1664
+02:13:28,250 --> 02:13:31,711
+<i>Damos a volta nele,
+Iançando-nos rumo ao planeta de Edmunds.</i>
+
+1665
+02:13:31,879 --> 02:13:34,381
+<i>- Manualmente?
+- Estou aqui para isso.</i>
+
+1666
+02:13:34,548 --> 02:13:36,925
+<i>Vou nos levar para dentro da órbita crítica.</i>
+
+1667
+02:13:37,093 --> 02:13:39,928
+<i>- E o lapso temporal?
+- Não há tempo para se preocupar...</i>
+
+1668
+02:13:40,096 --> 02:13:41,888
+com relatividade agora.
+
+1669
+02:13:46,394 --> 02:13:47,977
+Lamento, Cooper.
+
+1670
+02:13:51,023 --> 02:13:54,275
+<i>Ao atingirmos velocidade suficiente
+ao redor do Gargantua...</i>
+
+1671
+02:13:54,610 --> 02:13:56,444
+<i>usaremos o Módulo de Pouso 1...</i>
+
+1672
+02:13:56,946 --> 02:13:59,239
+<i>e o Ranger 2 como propulsores para...</i>
+
+1673
+02:14:00,074 --> 02:14:02,409
+<i>nos tirar da gravidade do buraco negro.</i>
+
+1674
+02:14:04,745 --> 02:14:07,414
+<i>As conexões com o Módulo foram destruídas.</i>
+
+1675
+02:14:07,581 --> 02:14:09,916
+<i>Então, teremos que controlar manualmente.</i>
+
+1676
+02:14:11,127 --> 02:14:14,003
+<i>Uma vez gasto o Módulo 1,
+TARS o desacoplará...</i>
+
+1677
+02:14:14,255 --> 02:14:16,589
+e será sugado pelo buraco negro.
+
+1678
+02:14:17,258 --> 02:14:21,261
+- Por que TARS deve desacoplar?
+- Menos peso para escapar da gravidade.
+
+1679
+02:14:21,429 --> 02:14:22,762
+<i>Terceira lei de Newton.</i>
+
+1680
+02:14:23,013 --> 02:14:27,308
+<i>Os humanos só sabem chegar
+a algum lugar deixando algo para trás.</i>
+
+1681
+02:14:27,601 --> 02:14:30,603
+Não pode pedir para o TARS
+fazer isso por nós.
+
+1682
+02:14:30,771 --> 02:14:34,524
+É um robô.
+Então, não precisa pedir nada a ele.
+
+1683
+02:14:34,817 --> 02:14:36,151
+<i>Cooper, seu idiota!</i>
+
+1684
+02:14:36,444 --> 02:14:38,445
+Desculpe, o sinal ficou meio fraco.
+
+1685
+02:14:38,779 --> 02:14:41,030
+Era esse o objetivo, Dra. Brand.
+
+1686
+02:14:41,449 --> 02:14:43,783
+É a única chance
+de salvarmos o povo da Terra.
+
+1687
+02:14:43,951 --> 02:14:47,287
+<i>Se eu puder transmitir
+os dados quânticos que eu achar lá...</i>
+
+1688
+02:14:47,455 --> 02:14:49,289
+<i>eles talvez possam sobreviver.</i>
+
+1689
+02:14:50,332 --> 02:14:52,959
+Tomara que ainda haja alguém para salvar.
+
+1690
+02:15:21,447 --> 02:15:23,114
+<i>Velocidade máxima alcançada.</i>
+
+1691
+02:15:24,366 --> 02:15:26,701
+Preparar para ligar
+os propulsores de fuga.
+
+1692
+02:15:27,036 --> 02:15:28,036
+Prontos?
+
+1693
+02:15:28,537 --> 02:15:29,537
+Pronta.
+
+1694
+02:15:29,830 --> 02:15:30,830
+Pronto.
+
+1695
+02:15:30,998 --> 02:15:32,874
+Ignição do motor principal em três...
+
+1696
+02:15:33,375 --> 02:15:34,375
+<i>dois...</i>
+
+1697
+02:15:34,794 --> 02:15:35,877
+<i>um.</i>
+
+1698
+02:15:36,212 --> 02:15:37,212
+Já!
+
+1699
+02:15:50,226 --> 02:15:51,476
+Vamos, belezinha.
+
+1700
+02:15:52,645 --> 02:15:54,813
+Motores do Módulo 1,
+ao meu comando.
+
+1701
+02:15:55,189 --> 02:15:56,189
+Três...
+
+1702
+02:15:56,649 --> 02:15:57,649
+dois...
+
+1703
+02:15:57,858 --> 02:15:59,400
+<i>um. Já.</i>
+
+1704
+02:16:04,740 --> 02:16:07,242
+<i>Motores do Ranger 2,
+ao meu comando.</i>
+
+1705
+02:16:07,535 --> 02:16:09,869
+<i>Três, dois, um...</i>
+
+1706
+02:16:10,412 --> 02:16:11,538
+<i>- Já.
+- Ligar!</i>
+
+1707
+02:16:21,715 --> 02:16:24,884
+Esta pequena manobra
+nos custará 51 anos!
+
+1708
+02:16:25,761 --> 02:16:28,263
+Não está mal para alguém de 120 anos!
+
+1709
+02:16:38,941 --> 02:16:40,441
+MÓDULO 1
+POUCO COMBUSTÍVEL
+
+1710
+02:16:43,654 --> 02:16:46,823
+<i>Módulo 1, preparar para desacoplar,
+ao meu comando.</i>
+
+1711
+02:16:47,491 --> 02:16:49,492
+Três... Dois...
+
+1712
+02:16:50,828 --> 02:16:52,787
+<i>Um. Já.</i>
+
+1713
+02:16:52,955 --> 02:16:53,955
+Desacoplar!
+
+1714
+02:16:57,042 --> 02:16:59,460
+<i>- Adeus, TARS.
+- Adeus, Dra. Brand.</i>
+
+1715
+02:16:59,753 --> 02:17:02,755
+- Vejo você do outro lado, Coop.
+- Vejo você lá, Espertalhão!
+
+1716
+02:17:06,218 --> 02:17:07,719
+RANGER 2
+POUCO COMBUSTÍVEL
+
+1717
+02:17:11,307 --> 02:17:12,891
+Certo, CASE...
+
+1718
+02:17:13,934 --> 02:17:17,312
+<i>- Belo voo imprudente!
+- Aprendi com o mestre.</i>
+
+1719
+02:17:17,813 --> 02:17:20,398
+- Ranger 2, preparar para desacoplar.
+- O quê?
+
+1720
+02:17:20,649 --> 02:17:23,484
+Não! Cooper!
+O que está fazendo?
+
+1721
+02:17:23,986 --> 02:17:27,405
+Terceira lei de Newton.
+É preciso deixar algo para trás.
+
+1722
+02:17:27,740 --> 02:17:30,158
+Você disse que
+tínhamos recursos para nós dois.
+
+1723
+02:17:30,409 --> 02:17:32,076
+<i>Estávamos de acordo, Amelia...</i>
+
+1724
+02:17:32,620 --> 02:17:33,953
+90 por cento.
+
+1725
+02:17:35,831 --> 02:17:36,915
+Não.
+
+1726
+02:17:39,126 --> 02:17:40,293
+Desacoplar.
+
+1727
+02:17:53,390 --> 02:17:56,225
+Certo, estou inclinando para baixo.
+
+1728
+02:17:59,939 --> 02:18:01,940
+Aproximando do horizonte de eventos.
+
+1729
+02:18:04,193 --> 02:18:06,444
+Bombordo, inclinando...
+
+1730
+02:18:07,029 --> 02:18:08,696
+para passar por baixo dele.
+
+1731
+02:18:10,282 --> 02:18:13,117
+<i>Indo em direção à escuridão.</i>
+
+1732
+02:18:13,452 --> 02:18:15,453
+<i>Fiz contato visual com o horizonte.</i>
+
+1733
+02:18:15,996 --> 02:18:17,330
+Está tudo escuro.
+
+1734
+02:18:19,458 --> 02:18:21,125
+TARS, está me ouvindo?
+
+1735
+02:18:21,460 --> 02:18:22,961
+É escuridão total.
+
+1736
+02:18:24,964 --> 02:18:26,965
+TARS! Está me ouvindo?
+Câmbio.
+
+1737
+02:18:31,804 --> 02:18:32,971
+Certo.
+
+1738
+02:18:34,181 --> 02:18:35,431
+Telas...
+
+1739
+02:18:37,059 --> 02:18:38,559
+sofrendo interferência.
+
+1740
+02:18:40,270 --> 02:18:42,855
+Perdendo controle do manche.
+Vejo flashes.
+
+1741
+02:18:43,440 --> 02:18:45,608
+Flashes de luz e de escuridão.
+
+1742
+02:18:46,819 --> 02:18:49,320
+A turbulência na gravidade está aumentando.
+
+1743
+02:18:55,995 --> 02:18:57,662
+Os computadores estão parando.
+
+1744
+02:19:09,925 --> 02:19:12,760
+Força gravitacional.
+Manche fugindo ao controle.
+
+1745
+02:19:46,045 --> 02:19:47,712
+Murph? Murph, vamos!
+
+1746
+02:19:53,385 --> 02:19:55,386
+<i>Ejetar. Ejetar.</i>
+
+1747
+02:19:56,889 --> 02:20:02,894
+<i>Ejetar.</i>
+
+1748
+02:21:55,132 --> 02:21:56,132
+Murph.
+
+1749
+02:22:06,101 --> 02:22:08,269
+Murph! Murph! Murph!
+
+1750
+02:22:16,653 --> 02:22:17,695
+Murph!
+
+1751
+02:22:25,037 --> 02:22:26,871
+Não, não, não!
+
+1752
+02:22:27,122 --> 02:22:30,041
+Murph!
+
+1753
+02:22:30,292 --> 02:22:31,292
+Não!
+
+1754
+02:23:30,852 --> 02:23:32,812
+Se vai embora, vá logo!
+
+1755
+02:23:33,313 --> 02:23:34,480
+Não, não.
+
+1756
+02:23:36,066 --> 02:23:38,359
+Não, não vá.
+Não vá, seu idiota.
+
+1757
+02:23:38,568 --> 02:23:39,860
+Não vá!
+
+1758
+02:23:41,822 --> 02:23:43,489
+Morse. Morse.
+
+1759
+02:23:44,283 --> 02:23:45,283
+Morse.
+
+1760
+02:23:46,493 --> 02:23:48,286
+Ponto. Ponto.
+
+1761
+02:23:48,495 --> 02:23:49,495
+F.
+
+1762
+02:23:55,669 --> 02:23:56,669
+I.
+
+1763
+02:24:01,300 --> 02:24:02,300
+C.
+
+1764
+02:24:02,551 --> 02:24:03,592
+Traço!
+
+1765
+02:24:06,388 --> 02:24:07,722
+Traço! Traço!
+
+1766
+02:24:08,265 --> 02:24:09,265
+Murph!
+
+1767
+02:24:09,433 --> 02:24:11,434
+Murph, não há tempo para isso!
+
+1768
+02:24:11,852 --> 02:24:12,935
+A.
+
+1769
+02:24:18,317 --> 02:24:19,317
+"Fica!"
+
+1770
+02:24:30,412 --> 02:24:32,747
+Vamos lá, Murph. Vamos lá!
+
+1771
+02:24:33,415 --> 02:24:35,207
+O que diz, Murph?
+
+1772
+02:24:36,001 --> 02:24:37,084
+O que diz?
+
+1773
+02:24:47,637 --> 02:24:48,763
+"Fica. "
+
+1774
+02:25:24,299 --> 02:25:25,800
+Diga a ele, Murph.
+
+1775
+02:25:26,259 --> 02:25:27,468
+Faça-o ficar.
+
+1776
+02:25:30,806 --> 02:25:32,473
+Faça-o ficar, Murph.
+
+1777
+02:25:37,479 --> 02:25:39,980
+FICA
+
+1778
+02:25:41,483 --> 02:25:43,359
+Faça-o ficar, Murph.
+
+1779
+02:25:44,820 --> 02:25:52,576
+Não me deixe partir, Murph!
+
+1780
+02:25:58,375 --> 02:26:00,709
+Não! Não! Não!
+
+1781
+02:26:21,398 --> 02:26:22,898
+Era você.
+
+1782
+02:26:34,369 --> 02:26:36,412
+Você era meu fantasma.
+
+1783
+02:26:46,131 --> 02:26:49,133
+<i>Cooper. Cooper.
+Responda, Cooper.</i>
+
+1784
+02:26:50,927 --> 02:26:53,429
+<i>- TARS?
+- Isso mesmo.</i>
+
+1785
+02:26:55,223 --> 02:26:57,850
+<i>- Você sobreviveu.
+- Em algum lugar...</i>
+
+1786
+02:26:58,393 --> 02:27:00,394
+<i>na quinta dimensão deles.</i>
+
+1787
+02:27:00,645 --> 02:27:02,646
+<i>Eles nos salvaram.</i>
+
+1788
+02:27:03,064 --> 02:27:07,902
+É? E quem diabos são "eles"?
+E por que iriam querer nos ajudar?
+
+1789
+02:27:08,195 --> 02:27:11,197
+<i>Não sei, mas construíram
+este espaço tridimensional...</i>
+
+1790
+02:27:11,364 --> 02:27:14,533
+<i>dentro da realidade pentadimensional
+para você entendê-la.</i>
+
+1791
+02:27:14,743 --> 02:27:16,577
+Isso não está funcionando.
+
+1792
+02:27:16,870 --> 02:27:18,204
+<i>Está, sim.</i>
+
+1793
+02:27:18,455 --> 02:27:22,124
+<i>Você viu que o tempo é representado
+como uma dimensão física.</i>
+
+1794
+02:27:22,292 --> 02:27:25,503
+<i>Deduziu que pode exercer uma força
+pelo espaço-tempo.</i>
+
+1795
+02:27:26,087 --> 02:27:29,381
+Gravidade para enviar uma mensagem.
+
+1796
+02:27:29,758 --> 02:27:31,091
+<i>Afirmativo.</i>
+
+1797
+02:27:33,678 --> 02:27:34,803
+A gravidade...
+
+1798
+02:27:35,931 --> 02:27:39,266
+pode cruzar as dimensões,
+incluindo o tempo.
+
+1799
+02:27:39,601 --> 02:27:40,893
+<i>Aparentemente.</i>
+
+1800
+02:27:44,773 --> 02:27:46,774
+Você tem os dados quânticos?
+
+1801
+02:27:47,192 --> 02:27:48,817
+<i>Afirmativo. Tenho.</i>
+
+1802
+02:27:49,778 --> 02:27:53,614
+<i>Estou transmitindo em todos
+os comprimentos de onda, mas nada sai.</i>
+
+1803
+02:27:53,949 --> 02:27:56,116
+Eu posso fazer isso.
+
+1804
+02:27:56,451 --> 02:27:58,953
+<i>Mas dados tão complicados
+para uma criança?</i>
+
+1805
+02:27:59,120 --> 02:28:00,454
+Não uma criança qualquer.
+
+1806
+02:28:00,914 --> 02:28:02,248
+O que mais?
+
+1807
+02:28:02,624 --> 02:28:05,626
+Por favor, pai!
+
+1808
+02:28:07,128 --> 02:28:09,296
+Apagaram o fogo! Vamos!
+
+1809
+02:28:09,464 --> 02:28:13,467
+<i>Mesmo se você comunicar aqui,
+ela não entenderá o significado por anos.</i>
+
+1810
+02:28:14,010 --> 02:28:15,511
+Eu entendo, TARS.
+
+1811
+02:28:15,679 --> 02:28:20,349
+Mas temos que pensar em algo,
+ou as pessoas na Terra morrerão. Pense!
+
+1812
+02:28:20,642 --> 02:28:21,725
+<i>Cooper.</i>
+
+1813
+02:28:22,310 --> 02:28:24,979
+<i>Não nos trouxeram aqui
+para mudar o passado.</i>
+
+1814
+02:28:28,358 --> 02:28:29,692
+Repita isso.
+
+1815
+02:28:30,026 --> 02:28:33,696
+<i>Não nos trouxeram aqui
+para mudar o passado.</i>
+
+1816
+02:28:37,867 --> 02:28:39,952
+Não, eles nem nos trouxeram aqui.
+
+1817
+02:28:44,708 --> 02:28:46,375
+Fomos nós mesmos.
+
+1818
+02:28:55,635 --> 02:28:59,638
+TARS, passe-me as coordenadas
+da NASA em binário.
+
+1819
+02:29:00,265 --> 02:29:02,683
+<i>Em binário. Entendido.
+Transmitindo dados.</i>
+
+1820
+02:29:27,000 --> 02:29:28,959
+"Não é um fantasma. "
+
+1821
+02:29:30,670 --> 02:29:32,171
+"É a gravidade. "
+
+1822
+02:29:32,505 --> 02:29:34,173
+Ainda não entendeu, TARS?
+
+1823
+02:29:34,841 --> 02:29:36,634
+Eu me trouxe aqui!
+
+1824
+02:29:37,510 --> 02:29:41,013
+Viemos nos comunicar
+com o mundo tridimensional.
+
+1825
+02:29:41,431 --> 02:29:42,931
+Nós somos a ponte!
+
+1826
+02:29:50,940 --> 02:29:52,691
+Achei que tivessem me escolhido.
+
+1827
+02:29:56,071 --> 02:29:59,740
+<i>- Mas eles a escolheram, não a mim.
+- Para quê?</i>
+
+1828
+02:30:02,243 --> 02:30:03,911
+Para salvar o mundo.
+
+1829
+02:30:08,208 --> 02:30:12,628
+Tudo isto é o quarto de uma menina.
+Todos os momentos.
+
+1830
+02:30:12,921 --> 02:30:14,254
+É infinitamente complexo.
+
+1831
+02:30:14,506 --> 02:30:19,009
+Eles têm acesso a tempo e espaço infinitos,
+mas não têm nenhum elo!
+
+1832
+02:30:19,260 --> 02:30:24,098
+Não acham um local específico no tempo.
+Não conseguem se comunicar.
+
+1833
+02:30:25,600 --> 02:30:28,435
+Por isso estou aqui.
+Vou achar um jeito de dizer à Murph...
+
+1834
+02:30:28,603 --> 02:30:30,187
+assim como achei este momento.
+
+1835
+02:30:30,397 --> 02:30:32,731
+<i>- Como, Cooper?
+- Amor, TARS, amor.</i>
+
+1836
+02:30:32,899 --> 02:30:37,403
+É como Brand disse. Minha conexão
+com Murph é quantificável. É a chave!
+
+1837
+02:30:37,570 --> 02:30:39,405
+<i>O que viemos fazer?</i>
+
+1838
+02:30:40,365 --> 02:30:42,199
+Descobrir como dizer a ela.
+
+1839
+02:30:45,036 --> 02:30:50,624
+O relógio.
+
+1840
+02:30:52,043 --> 02:30:53,127
+É isso.
+
+1841
+02:30:55,630 --> 02:30:58,632
+Codificamos os dados
+no movimento do segundo ponteiro.
+
+1842
+02:31:02,262 --> 02:31:05,431
+TARS, traduza os dados para Morse
+e transmita para mim.
+
+1843
+02:31:05,640 --> 02:31:06,974
+<i>Traduzindo dados.</i>
+
+1844
+02:31:07,434 --> 02:31:09,935
+<i>E se ela nunca voltar para pegá-lo?</i>
+
+1845
+02:31:11,604 --> 02:31:14,273
+Ela vai voltar.
+Vai voltar.
+
+1846
+02:31:15,483 --> 02:31:16,984
+Estou vendo o carro dele!
+
+1847
+02:31:18,319 --> 02:31:19,403
+Ele vem vindo!
+
+1848
+02:31:21,322 --> 02:31:23,157
+Está bem.
+Estou descendo.
+
+1849
+02:31:24,617 --> 02:31:26,118
+<i>Como você sabe?</i>
+
+1850
+02:31:29,330 --> 02:31:31,206
+Porque eu dei para ela.
+
+1851
+02:31:36,588 --> 02:31:39,089
+<i>Entendido.
+Morse é ponto-ponto-traço-ponto.</i>
+
+1852
+02:31:42,594 --> 02:31:43,677
+Ponto-ponto...
+
+1853
+02:31:45,013 --> 02:31:46,722
+traço-ponto.
+
+1854
+02:31:47,140 --> 02:31:48,807
+<i>Ponto-traço-ponto-ponto.</i>
+
+1855
+02:31:49,225 --> 02:31:51,852
+Ponto-traço-ponto-ponto.
+
+1856
+02:31:52,228 --> 02:31:53,729
+<i>Traço-traço-traço.</i>
+
+1857
+02:31:54,022 --> 02:31:56,273
+Traço, traço, traço.
+
+1858
+02:32:14,542 --> 02:32:15,876
+Ele voltou!
+
+1859
+02:32:16,795 --> 02:32:20,964
+Era ele o tempo todo!
+Eu não sabia! Era ele!
+
+1860
+02:32:22,175 --> 02:32:24,009
+O papai vai nos salvar.
+
+1861
+02:33:06,761 --> 02:33:08,011
+Eureca!
+
+1862
+02:33:11,808 --> 02:33:13,141
+É a tradição.
+
+1863
+02:33:17,647 --> 02:33:19,314
+Eureca!
+
+1864
+02:33:23,987 --> 02:33:25,487
+Funcionou?
+
+1865
+02:33:25,822 --> 02:33:27,489
+<i>Eu creio que sim.</i>
+
+1866
+02:33:28,867 --> 02:33:30,200
+Como sabe?
+
+1867
+02:33:30,368 --> 02:33:33,704
+<i>Os seres do bulk estão
+fechando o hipercubo.</i>
+
+1868
+02:33:37,542 --> 02:33:39,543
+Ainda não entendeu, TARS?
+
+1869
+02:33:40,712 --> 02:33:42,546
+Eles não são "seres".
+
+1870
+02:33:43,214 --> 02:33:44,548
+Eles são nós!
+
+1871
+02:33:46,634 --> 02:33:49,970
+O que tenho feito pela Murph,
+eles têm feito por mim.
+
+1872
+02:33:50,305 --> 02:33:51,805
+Por todos nós.
+
+1873
+02:33:51,973 --> 02:33:54,141
+<i>Pessoas não poderiam construir isto.</i>
+
+1874
+02:33:54,434 --> 02:33:56,768
+Não. Não, ainda não.
+
+1875
+02:33:57,103 --> 02:33:58,604
+Mas um dia.
+
+1876
+02:33:59,272 --> 02:34:02,608
+Não você e eu.
+Mas outros.
+
+1877
+02:34:03,318 --> 02:34:07,237
+Uma civilização que evoluiu além
+das quatro dimensões que conhecemos.
+
+1878
+02:34:13,786 --> 02:34:15,287
+<i>O que acontece agora?</i>
+
+1879
+02:35:17,892 --> 02:35:19,351
+Sr. Cooper.
+
+1880
+02:35:23,564 --> 02:35:25,315
+Devagar, senhor.
+
+1881
+02:35:25,692 --> 02:35:27,734
+Com cuidado, Sr. Cooper.
+
+1882
+02:35:28,027 --> 02:35:33,031
+Lembre-se, não é mais um jovenzinho.
+Na verdade, tem 124 anos.
+
+1883
+02:35:40,039 --> 02:35:41,373
+Devagar, senhor.
+
+1884
+02:35:42,417 --> 02:35:44,626
+Foi extremamente sortudo.
+
+1885
+02:35:44,919 --> 02:35:48,255
+Só tinha oxigênio para uns minutos
+quando os Rangers o encontraram.
+
+1886
+02:36:02,437 --> 02:36:03,770
+Onde estou?
+
+1887
+02:36:05,523 --> 02:36:07,024
+Estação Cooper.
+
+1888
+02:36:08,443 --> 02:36:09,943
+No momento, orbitando Saturno.
+
+1889
+02:36:12,030 --> 02:36:14,031
+Estação Cooper.
+
+1890
+02:36:16,451 --> 02:36:18,577
+Muita gentileza darem meu nome.
+
+1891
+02:36:22,290 --> 02:36:23,290
+O que foi?
+
+1892
+02:36:23,583 --> 02:36:26,752
+O nome é em homenagem à sua filha,
+não ao senhor.
+
+1893
+02:36:27,253 --> 02:36:30,297
+Embora ela sempre tenha
+reiterado sua importância.
+
+1894
+02:36:30,465 --> 02:36:32,174
+Ela ainda está viva?
+
+1895
+02:36:34,093 --> 02:36:35,969
+Estará aqui em umas duas semanas.
+
+1896
+02:36:37,013 --> 02:36:42,017
+Está velha demais para sair da sua estação,
+mas ao saber que foi achado...
+
+1897
+02:36:43,227 --> 02:36:45,896
+bem, estamos falando de Murphy Cooper.
+
+1898
+02:36:46,814 --> 02:36:48,315
+É verdade.
+
+1899
+02:36:50,401 --> 02:36:52,903
+Terá alta dentro de uns dois dias.
+
+1900
+02:36:55,573 --> 02:36:57,908
+Vai adorar ver o que temos reservado.
+
+1901
+02:36:59,494 --> 02:37:03,330
+Fiz um trabalho sobre o senhor no colégio.
+
+1902
+02:37:03,664 --> 02:37:05,999
+Sei tudo sobre sua vida na Terra.
+
+1903
+02:37:07,710 --> 02:37:08,960
+Verdade.
+
+1904
+02:37:09,253 --> 02:37:10,253
+Certo.
+
+1905
+02:37:13,341 --> 02:37:18,011
+Se me acompanhar,
+vai ver que ficará muito bem instalado.
+
+1906
+02:37:21,349 --> 02:37:25,435
+Bem, quando dei minha sugestão
+para a Sra. Cooper...
+
+1907
+02:37:26,270 --> 02:37:28,772
+adorei ouvir que ela a achava perfeita.
+
+1908
+02:37:28,940 --> 02:37:31,358
+AOS BRAVOS HOMENS E MULHERES
+LÁZARO / ENDURANCE
+
+1909
+02:37:32,443 --> 02:37:35,779
+<i>Era constante.
+Um vento constante de poeira.</i>
+
+1910
+02:37:36,114 --> 02:37:38,865
+Claro que não falei com ela pessoalmente.
+
+1911
+02:37:39,033 --> 02:37:43,954
+<i>Colocávamos o prato virado para baixo. Copos,
+xícaras, o que fosse, tudo virado para baixo.</i>
+
+1912
+02:37:44,122 --> 02:37:48,959
+<i>Meu pai era fazendeiro.
+Como todo mundo na época.</i>
+
+1913
+02:37:49,210 --> 02:37:51,545
+<i>Não havia comida suficiente.</i>
+
+1914
+02:37:51,838 --> 02:37:54,548
+<i>Nós usávamos pequenas faixas...</i>
+
+1915
+02:37:54,841 --> 02:37:59,845
+<i>de pano sobre o nariz e a boca
+para não respirarmos tanta poeira.</i>
+
+1916
+02:38:00,054 --> 02:38:03,473
+<i>Era empolgante para mim
+porque era esperança.</i>
+
+1917
+02:38:03,724 --> 02:38:07,894
+<i>Quem quer que descreva, não estará exagerando.
+Era muito ruim.</i>
+
+1918
+02:38:08,062 --> 02:38:11,773
+Ela confirmou que o senhor gostava
+de ser fazendeiro.
+
+1919
+02:38:12,066 --> 02:38:13,733
+- Ah, ela confirmou?
+- Sim.
+
+1920
+02:38:13,901 --> 02:38:15,110
+Venha aqui.
+
+1921
+02:38:15,695 --> 02:38:20,699
+Lar doce lar.
+Tudo mudado e colocado de volta...
+
+1922
+02:38:27,039 --> 02:38:29,040
+- Ei, isto é...
+- Sim.
+
+1923
+02:38:29,250 --> 02:38:32,335
+Estava perto de Saturno
+quando nós o encontramos.
+
+1924
+02:38:32,503 --> 02:38:35,255
+A fonte de energia se foi,
+mas podemos arranjar outra.
+
+1925
+02:38:35,423 --> 02:38:37,424
+Sim. Por favor.
+
+1926
+02:38:38,634 --> 02:38:39,968
+Configurações.
+
+1927
+02:38:40,469 --> 02:38:42,137
+Configurações gerais.
+
+1928
+02:38:42,471 --> 02:38:44,389
+Configurações de segurança.
+
+1929
+02:38:47,101 --> 02:38:49,436
+Honestidade, novo nível:
+
+1930
+02:38:50,563 --> 02:38:52,063
+95 por cento.
+
+1931
+02:38:52,398 --> 02:38:54,900
+Confirmado.
+Customização adicional?
+
+1932
+02:38:55,818 --> 02:38:56,902
+Humor:
+
+1933
+02:38:58,571 --> 02:38:59,905
+75 por cento.
+
+1934
+02:39:00,323 --> 02:39:01,615
+Confirmado.
+
+1935
+02:39:02,283 --> 02:39:05,368
+Autodestruição em T menos 10, nove...
+
+1936
+02:39:05,620 --> 02:39:07,621
+Vamos abaixar para 60 por cento.
+
+1937
+02:39:09,832 --> 02:39:11,958
+Sessenta por cento confirmado.
+
+1938
+02:39:12,627 --> 02:39:15,754
+- "O que é, o que é?"
+- Quer 55 por cento?
+
+1939
+02:39:20,551 --> 02:39:22,636
+Era realmente assim?
+
+1940
+02:39:24,931 --> 02:39:27,265
+Nunca foi tão limpo, Espertalhão.
+
+1941
+02:39:31,771 --> 02:39:35,440
+Não gosto desse faz de conta
+de que voltamos ao ponto inicial.
+
+1942
+02:39:37,652 --> 02:39:39,819
+Quero saber onde estamos.
+
+1943
+02:39:41,489 --> 02:39:42,989
+<i>Aonde vamos.</i>
+
+1944
+02:39:47,536 --> 02:39:50,538
+- Sr. Cooper. A família está toda aqui.
+- Sim.
+
+1945
+02:39:50,873 --> 02:39:51,873
+Família?
+
+1946
+02:39:52,041 --> 02:39:55,877
+Todos vieram vê-la. Ela esteve
+em sono criogênico por quase dois anos.
+
+1947
+02:40:28,953 --> 02:40:31,454
+Você disse que eu gosto de ser fazendeiro.
+
+1948
+02:40:36,794 --> 02:40:38,461
+Era eu, Murph.
+
+1949
+02:40:41,090 --> 02:40:42,716
+Eu era seu fantasma.
+
+1950
+02:40:44,135 --> 02:40:45,635
+Eu sei.
+
+1951
+02:40:47,638 --> 02:40:52,058
+As pessoas não acreditavam.
+Achavam que eu fazia tudo sozinha.
+
+1952
+02:40:52,393 --> 02:40:53,393
+Mas...
+
+1953
+02:40:56,272 --> 02:40:58,189
+eu sabia quem era.
+
+1954
+02:41:03,237 --> 02:41:05,155
+Ninguém acreditava em mim.
+
+1955
+02:41:05,948 --> 02:41:08,116
+Mas eu sabia que você voltaria.
+
+1956
+02:41:10,661 --> 02:41:11,911
+Como?
+
+1957
+02:41:13,998 --> 02:41:17,000
+Porque meu pai me prometeu.
+
+1958
+02:41:23,090 --> 02:41:25,091
+Bem, estou aqui agora, Murph.
+
+1959
+02:41:26,344 --> 02:41:27,677
+Estou aqui.
+
+1960
+02:41:29,305 --> 02:41:30,472
+Não.
+
+1961
+02:41:32,767 --> 02:41:36,686
+Ninguém deveria ver
+seu próprio filho morrer.
+
+1962
+02:41:39,648 --> 02:41:42,317
+Eu tenho meus filhos agora.
+
+1963
+02:41:45,112 --> 02:41:46,613
+Vá.
+
+1964
+02:41:49,700 --> 02:41:51,117
+Aonde?
+
+1965
+02:41:54,622 --> 02:41:56,247
+Brand.
+
+1966
+02:42:05,925 --> 02:42:07,592
+<i>Ela está no espaço...</i>
+
+1967
+02:42:13,974 --> 02:42:15,809
+<i>montando um acampamento.</i>
+
+1968
+02:42:42,461 --> 02:42:44,045
+<i>Sozinha...</i>
+
+1969
+02:42:45,172 --> 02:42:47,715
+<i>numa galáxia estranha.</i>
+
+1970
+02:42:58,602 --> 02:43:03,356
+<i>Talvez agora ela esteja se preparando
+para o longo sono...</i>
+
+1971
+02:43:21,834 --> 02:43:24,586
+<i>sob a luz do nosso novo sol...</i>
+
+1972
+02:43:40,019 --> 02:43:42,103
+<i>no nosso novo lar.</i>
+
+1973
+02:45:37,970 --> 02:48:54,707
+INTERESTELAR
