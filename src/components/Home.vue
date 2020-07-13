@@ -36,9 +36,10 @@ export default {
     methods: {
         processSubtitles() {
             //console.log(this.files)
+            const paths = this.files.map(f => f.path)
 
             // Enviando parametro para o backend
-            ipcRenderer.send('process-subtitles', this.files)
+            ipcRenderer.send('process-subtitles', paths)
             // Pegando e resposta
             ipcRenderer.on('process-subtitles', (event, resp) => {
                 this.groupedWords = resp
